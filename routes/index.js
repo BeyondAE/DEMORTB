@@ -2,7 +2,25 @@ var express = require('express');
 var router = express.Router();
 // AvILoS - 설치한 라이브러리 Import
 var async = require('async');
+var winston = require('winston');
+require('winston-daily-rotate-file');
+require('date-utils');
+
+var logger = new(winston.Logger)({
+  transports: [
+    new(winston.transports.Console)({level: 'info'}),
+    new(winston.transports.DailyRotateFile)({
+      name: 'dailyLog',
+      level: 'info',
+      filename: './log/daily-',
+      timestamp: function(){return new Date().toFormat('YYYY-MM-DD HH24:MI:SS')},
+      datePattern:'yyyyMMdd',
+      json:false
+    })
+  ]
+})
 var fstools = require('fs-tools');
+var file1 = require('file-system');
 var fs = require('fs');
 var path = require('path');
 var mime = require('mime');
@@ -23,7 +41,18 @@ var upload = multer({storage: storage});
 var multiparty = require('multiparty');
 var  mkdirp = require('mkdirp');
 var shell = require('shelljs');
-var baseImageDir = __dirname + '\\..\\images\\';
+var baseImageDir = __dirname + '/../images/';
+var fsex = require('fs-extra');
+//var rmdir1 = require('rmdir');
+var exec = require('child_process').exec;
+
+//var iconv = require('iconv-lite');
+//var requestOptions = { method: "POST", encoding: null};
+var Iconv = require('iconv').Iconv;
+var iconv = new Iconv('utf-8', 'utf-8//translit//ignore');
+
+
+var infos = {"action":'', "hashValue": '',"isFile": '',"fullpath": '', "oldFullpath": ''};
 
 
 
@@ -91,7 +120,9 @@ function uploadFile(req,res,next){
             var destPath = path.normalize(baseImageDir+path.basename(files.pict.path));
             // 임시 폴더에 저장된 이미지 파일을 이미지 경로로 이동시킨다.
             fstools.move(files.pict.path, destPath, function(err){
-                if(err){ err.status(500); next(err); }
+                if(err){
+                  console.log('it seems to be a err');
+                  err.status(500); next(err); }
                 else{
                     res.status(200);
                     res.json({error:null,data:'Upload successful'});
@@ -168,9 +199,6 @@ router.post('/upload',uploadFile);
 router.post('/upload2', uploadFile2);
 router.get('/images/:imagepath', getImage);
 
-
-
-
 router.post('/upload3', upload.single('upfile'), function(req,res) {
 //    res.send('upload!' + req.file);
 
@@ -186,15 +214,45 @@ function setInfos(infos, fields, info){
     infos[info] = String(fields[info]);
 };
 
+function handleErr(err, res, infos, tmpFile){
+  logger.info('------HANDLE ERR------');
 
-function handleErr(err){
-    if(err){
-        console.log("Failure rename file.");
-        throw err;
+  fs.stat(tmpFile, function(err, stat){ ///< for delete tmp file.
+    if( err ) { //  파일이 없다면 upload된 파일을 쓴다.
+      logger.info('No tmp file');
     } else {
-        console.log("Success rename file.");
+      if( infos['isFile'] == 'N' ){ // if it's directory then..
+        try { // using another.
+          exec('rm -rf ' + infos['fullpath'], handleErr(err, res, infos['action'], tmpFile));
+        } catch(err) {
+          logger.error(err);
+        }
+      } else { // if it's file then..
+        fs.unlink(infos['fullpath'], handleErr(err, res, infos['action'], tmpFile));
+      }
+      logger.info('deleting Downloaded tmp file');
+    }
+  })
+    if(err){
+        //console.log(action + " : Failure file.");
+        logger.info(infos['action'] + ' : Failure file.');
+        logger.error(err);
+        err.status(500);
+        //console.log(err);
+    } else {
+        //console.log(action + " : Success file.");
+        logger.info(infos['action'] + " : Success file.");
         res.status(200);
         res.json({error:null,data:'Upload successful'});
+    }
+}
+
+function handleErr2(err, action){
+    if(err){
+      logger.info(action + ' : Failure file.');
+      logger.error(err);
+    } else {
+      logger.info(action + " : Success file.");
     }
 }
 
@@ -202,119 +260,73 @@ function changePath(fields, name, infos){
     if(name == 'fullpath' || name == 'oldFullpath') {
         var fullpath = String(fields[name]);
         fullpath = fullpath.replace(':', '#');
-        var extension = path.extname(fullpath);
-        if (extension == '') {  // 폴더만이면,
-            infos[name] = path.normalize(baseImageDir + fullpath);
-            infos['isFile'] = 'N';
-        } else {    // 파일이면,
-            infos[name] = path.normalize(baseImageDir + fullpath);
-            infos['isFile'] = 'Y';
-        }
+        fullpath = fullpath.replace(/\\/gi, '/');
+        infos[name] = path.normalize(baseImageDir + fullpath);
+    }
+    if(name == 'fullpath'){
+      var extension = path.extname(fullpath);
+      if (extension === '') {  // 폴더만이면,
+          infos['isFile'] = 'N';
+      } else {    // 파일이면,
+          infos['isFile'] = 'Y';
+      }
     }
 }
 
+var deleteFolderRecursive = function(path) {
+  if( fs.existsSync(path) ) {
+    fs.readdirSync(path).forEach(function(file,index){
+      var curPath = path + "/" + file;
+      if(fs.lstatSync(curPath).isDirectory()) { // recurse
+        deleteFolderRecursive(curPath);
+      } else { // delete file
+        fs.unlinkSync(curPath);
+      }
+    });
+    fs.rmdirSync(path);
+  }
+};
 
-function doAdd(infos, downTmpPath){
-    if( infos['isFile'] == 'Y') {
-        fs.rename(downTmpPath, infos['fullpath'], handleErr(err));
-    }
-    //  Folder면 앞서, 생성했기에 Pass
+
+
+function deleteTmpFile(tmpFile){
+    fs.stat(tmpFile, function(err,stat){
+      if( err ){  // no file.
+        logger.info('Theres no tmp file');
+      }  else {
+        logger.info('theres tmp file.');
+        fs.unlink(tmpFile, function(err){
+          if( err ){
+            logger.info('cant delete tmp file');
+            logger.error(err);
+          }
+        });
+      }
+    });
 }
 
-function doModify(infos, downTmpPath){
-    if( infos['isFile'] == 'Y') {
-        fs.rename(downTmpPath, infos['fullpath'], handleErr(err));
-    }
-    //  Folder면 앞서, 생성했기에 Pass
-}
-
-function doRemove(infos, downTmpPath){
-    if( infos['isFile'] == 'Y') {
-        fs.unlink(infos['fullpath'],handleErr(err));
-    } else {
-        fs.rmdir(infos['fullpath'],handleErr(err));
-    }
-    //  Folder면 앞서, 생성했기에 Pass
-}
-
-function doRename(infos, downTmpPath){
-    if( infos['isFile'] == 'Y') {
-        fs.rename(infos['oldFullpath'], infos['fullpath'], function(err){
-            if(err) {
-                console.log("err rename");
-                err.status(500);
-            }
-        });
-
-    } else {    // Foler면 Rename을 할까, 삭제하고 생성할까.. 테스트 필요.
-        fs.rename(infos['oldFullpath'], infos['fullpath'],function(err){
-            if(err) {
-                console.log("err rename");
-                console.log(err);
-            }
-        });
-
-        //fs.rmdir(infos['oldFullpath'], handleErr(err));
-        //mkdirp(path.dirname['infos'], handleErr(err));
-    }
-}
-
-function doCut(infos, downTmpPath){
-    if( infos['isFile'] == 'Y') {
-        fs.rename(infos['oldFullpath'], infos['fullpath'], function(err){
-            if(err) {
-                console.log("err cut");
-
-            }
-        });
-
-        fs.unlink(infos['oldFullpath'],handleErr(err));
-    } else {    // Foler면 Rename을 할까, 삭제하고 생성할까.. 테스트 필요.
-        fs.rename(infos['oldFullpath'], infos['fullpath'], function(err){
-            if(err) {
-                console.log("err cut");
-
-            }
-        });
-
-        fs.rmdir(infos['oldFullpath'], function(err){
-            if(err) {
-                console.log("err cut");
-            }
-        });
-
-    }
-}
-
-function doOverwrite(infos, downTmpPath){
-    if( infos['isFile'] == 'Y') {
-        fs.rename(infos['oldFullpath'], infos['fullpath'], function(err){
-            if(err) {
-                console.log("err ow");
-            }
-        });
-
-        fs.unlink(infos['oldFullpath'],handleErr(err));
-    } else {    // Foler면 Rename을 할까, 삭제하고 생성할까.. 테스트 필요.
-        fs.rename(infos['oldFullpath'], infos['fullpath'], function(err){
-            if(err) {
-                console.log("err ow");
-            }
-        });
-
-        fs.rmdir(infos['oldFullpath'], handleErr(err));
-    }
-}
-
-
-
+//var option = { url: url, encoding: 'binary'};
 router.post('/upload4', function(req, res) {
-    var form = new multiparty.Form();
-    var infos = {"action":'', "hashValue": '',"isFile": '',"fullpath": '', "oldFullpath": ''};
+    //var strContents = new Buffer(body);
+    //console.log(iconv.decode(strContents, 'EUC-KR').toString());
+
+    var form = new multiparty.Form({
+      autoFiles: true,
+      uploadDir: '/home/dave/dev/js/DEMORTB/tmp'});
+
     form.on('field',function(name,value){
-        console.log('normal field / name = '+name+' , value = '+value);
+        //console.log('normal field / name = '+name+' , value = '+value);
+        //var buf = new Buffer(value, 'binary');
+        //var val = iconv.convert(buf).toString('utf-8');
+        logger.log('info', 'normal field / name = '+name+' , value = '+value);
     });
 
+    logger.log('info', '## Set Source Path ##');
+    form.on('progress', function(receivedBytes, expectedBytes){
+        console.log(((receivedBytes/expectedBytes)*100).toFixed(1)+'% received');
+    });
+
+    logger.log('info', '########## START PARSE ##########');
     form.parse(req, function(err, fields, files) {
         Object.keys(fields).forEach(function (name) {
             setInfos(infos, fields, name);
@@ -335,7 +347,6 @@ router.post('/upload4', function(req, res) {
             }
 
             //mkdirp.sync(onlyPath);
-
             mkdirp.sync(onlyPath, function (err) {
                 if (err) {
                     console.log("Failure make new folder.");
@@ -345,40 +356,136 @@ router.post('/upload4', function(req, res) {
                 }
             })
 
+            // initialization source path using Action.
+            var srcFullpath;
+            if( infos['action'] == 'ADDED' || infos['action'] == 'MODIFIED' ) {
+              srcFullpath = oriName[0].path;
+            } else {
+              srcFullpath = infos['oldFullpath'];
+            }
+
+
             try {
                 switch(infos['action']) {
                     case 'ADDED'    :
-                        doAdd(infos, onlyPath);
+                        if( infos['isFile'] == 'Y')
+                          fs.rename(srcFullpath, infos['fullpath'], handleErr(err, res, infos, oriName[0].path));
+                        else {
+                          deleteTmpFile(oriName[0].path);
+                          res.status(200);
+                          res.json({error:null,data:'Upload successful'});
+                        } // don't worry about directory.
                         break;
                     case 'MODIFIED' :
-                        doModify(infos, onlyPath);
+                        // 중복파일이 존재하면 그냥 넘긴다.
+                        if( infos['isFile'] == 'Y'){
+                            fs.rename(srcFullpath, infos['fullpath'], handleErr(err, res, infos, oriName[0].path));
+                        } else {
+                            deleteTmpFile(oriName[0].path);
+                        }
                         break;
                     case 'REMOVED' :
-                        doRemove(infos, onlyPath);
+                        fs.stat(srcFullpath, function(err,stat){
+                          if( err ) { //  파일이 없다면 upload된 파일을 쓴다.
+                            logger.info(infos['action']+' No old file : ' + srcFullpath);
+                            res.status(500);
+                            res.render('error', { error: err });
+                          } else {
+                            if( infos['isFile'] == 'N' ){ // if it's directory then..
+
+                              //fs.rmdir(infos['fullpath'], handleErr(res, infos['action'], err));
+                              // rmdir1(infos['fullpath'], function(err, dirs, files){
+                              //     file1.rmdirSync(infos['fullpath']);
+                              //rimraf(infos['fullpath'], handleErr(res, infos['action'], err));
+                              //fs.removeSync(infos['fullpath']);
+
+                              try { // using another.
+                                exec('rm -rf ' + infos['fullpath'], handleErr(err, res, infos['action'], oriName[0].path));
+                              } catch(err) {
+                                logger.error(err);
+                              }
+                              //deleteFolderRecursive(infos['fullpath']);
+                            } else { // if it's file then..
+                              fs.unlink(infos['fullpath'], handleErr(err, res, infos['action'], oriName[0].path));
+                            }
+                          }
+                        })
                         break;
                     case 'RENAME' :
-                        doRename(infos, onlyPath);
+                        // 확인 목록
+                        // 1. 파일 및 폴더 이름 바뀌기, 이전 이름 파일 삭제
+                        //// 아래 경우는 Client에서 어떻게 처리하는지 확인 후 작업
+                        // 2. 파일 이동, 동일 파일명 덮어쓰기기
+                        // 3. 내용 물이 다른 폴더 덮어쓰기
+                        // 4. 빈 폴더가 내용 있는 폴더 덮어쓰기
+                        //
+                        // 파일이 없다면 Src는 tmp쪽이 된다.
+                        console.log('##RENAME##');
+                        fs.stat(srcFullpath, function(err,stat){
+                          if( err ) { //  파일이 없다면 upload된 파일을 쓴다.
+                            logger.info('No old file : ' + srcFullpath);
+                            srcFullpath = oriName[0].path;
+                            logger.info('Now old file is : ' + srcFullpath);
+                          }
+                        })
+                        fs.rename(srcFullpath, infos['fullpath'], handleErr(err, res, infos['action'], oriName[0].path));
+                        var onlySrcPath;
+                        if( infos['isFile'] == 'Y') {
+                            onlySrcPath = path.dirname(infos['oldFullpath']);
+                        } else {
+                            onlySrcPath = infos['oldFullpath'];
+                        }
+
+                        //fs.rmdir(onlySrcPath, handleErr(res, infos['action'], err));
                         break;
                     case 'CUT' :
-                        doCut(infos, onlyPath);
+                        console.log('##CUT##');
+                        fs.stat(srcFullpath, function(err,stat){
+                          if( err ) { //  파일이 없다면 upload된 파일을 쓴다.
+                            console.log('No old file' + srcFullpath);
+                            srcFullpath = oriName[0].path;
+                          }
+                        })
+                        fs.rename(srcFullpath, infos['fullpath'], handleErr(err, res, infos['action'], oriName[0].path));
+                        var onlySrcPath;
+                        if( infos['isFile'] == 'Y') {
+                            onlySrcPath = path.dirname(infos['oldFullpath']);
+                        } else {
+                            onlySrcPath = infos['oldFullpath'];
+                        }
+                        // fs.rmdir(onlySrcPath, function(err){
+                        //   console.log(err);
+                        // });
                         break;
                     case 'OVERWRITE' :
-                        doOverwrite(infos, onlyPath);
+                        //fstools.move(srcFullpath, infos['fullpath'], handleErr(res, infos['action'], err));
+                        logger.info('##OVERWRITE##');
+                        fs.stat(srcFullpath, function(err, stat){
+                          if( err ) { //  파일이 없다면 upload된 파일을 쓴다.
+                            console.log('No old file : ' + srcFullpath);
+                            srcFullpath = oriName[0].path;
+                          }
+                        })
+                        var thatRes = this;
+                        if( srcFullpath != infos['fullpath'] ) {
+                          fsex.copy(srcFullpath, infos['fullpath'])
+                          .then( () => { console.log('success!'); res.status(200); res.json({error:null,data:'Upload successful'}); })
+                          .catch( err => { console.error(err); });
+                        } else {
+                          res.status(203);
+                          res.json({error:null,data:'Upload successful'});
+                        }
+
+                        // Type to copy the all of directory.
+
                         break;
                 }
             } catch(err) {
                 console.log("###finally exception Err###");
             }
-
-
-
         });
     });
-
 })
-
-
-
 
 
 module.exports = router;
