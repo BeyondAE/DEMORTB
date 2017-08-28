@@ -1,0 +1,19 @@
+키키키aaaaaaaaaaa112aaslkdsssajfds오후 3:17 2017-07-26오후 3:17 2017-07-26a;aaalkaaaaaaaaaaaaaaaaaasqqqddaaaasdaasaaaaaasaasdaaaasssaaaaaaqaaqaasqaaaaaaaaaaaaddasd
+
+
+
+안녕하세요. 문서보안사업부 개발1팀 황병대입니다.
+
+가상환경 내 테스트베드 구성을 진행 중에 문제가 발생해 문의 요청드립니다.
+
+# 환경
+1. 가상환경 내 win10x64
+2. Local OS / bridge로 구성된 가상환경 IP
+- Loacal IP : 10.52.5.157
+- virtual host IP : 10.52.5.158
+
+# 이슈
+1. 낙 에이전트를 받았으나 설치가 안 됩니다.
+- win10 지원을 안 하는 등의 이슈가 있는가요?
+2. cwp 메인 페이지의 '인증'을 통해 Login 시, 인증이 되지 않습니다.
+- 쿨웨어 인증정보를 기입했습니다.

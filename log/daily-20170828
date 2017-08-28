@@ -1,0 +1,1691 @@
+2017-08-28 09:44:35 - info: ## Set Source Path ##
+2017-08-28 09:44:35 - info: ########## START PARSE ##########
+2017-08-28 09:44:35 - info: normal field / name = action , value = CUT
+2017-08-28 09:44:35 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 09:44:35 - info: normal field / name = fullpath , value = C:\B\#\aaa - 복사본.txt
+2017-08-28 09:44:35 - info: normal field / name = oldFullpath , value = C:\B\aaa - 복사본.txt
+2017-08-28 09:44:35 - info: Changed old file is : /home/dave/dev/js/DEMORTB/tmp/hGUtXfpK29csTl-PpWz76p26.txt
+2017-08-28 09:44:35 - info: ------HANDLE ERR------
+2017-08-28 09:44:35 - info: CUT : Success file.
+2017-08-28 09:44:35 - info: ## Set Source Path ##
+2017-08-28 09:44:35 - info: ########## START PARSE ##########
+2017-08-28 09:44:35 - info: normal field / name = action , value = ADDED
+2017-08-28 09:44:35 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 09:44:35 - info: normal field / name = fullpath , value = C:\B\#\aaa - 복사본 - 복사본.txt
+2017-08-28 09:44:35 - info: normal field / name = oldFullpath , value = 
+2017-08-28 09:44:35 - info: ------HANDLE ERR------
+2017-08-28 09:44:35 - info: ADDED : Success file.
+2017-08-28 09:45:07 - info: ## Set Source Path ##
+2017-08-28 09:45:07 - info: ########## START PARSE ##########
+2017-08-28 09:45:07 - info: normal field / name = action , value = MODIFIED
+2017-08-28 09:45:07 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 09:45:07 - info: normal field / name = fullpath , value = C:\B\#\aaa - 복사본 - 복사본.txt
+2017-08-28 09:45:07 - info: normal field / name = oldFullpath , value = 
+2017-08-28 09:45:07 - info: ------HANDLE ERR------
+2017-08-28 09:45:07 - info: [object Object] : Success file.
+2017-08-28 09:45:07 - info: ## Set Source Path ##
+2017-08-28 09:45:07 - info: ########## START PARSE ##########
+2017-08-28 09:45:07 - info: normal field / name = action , value = MODIFIED
+2017-08-28 09:45:07 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 09:45:07 - info: normal field / name = fullpath , value = C:\B\#\aaa - 복사본 - 복사본.txt
+2017-08-28 09:45:07 - info: normal field / name = oldFullpath , value = 
+2017-08-28 09:45:07 - info: ------HANDLE ERR------
+2017-08-28 09:45:07 - info: [object Object] : Success file.
+2017-08-28 09:45:16 - info: ## Set Source Path ##
+2017-08-28 09:45:16 - info: ########## START PARSE ##########
+2017-08-28 09:45:16 - info: normal field / name = action , value = RENAME
+2017-08-28 09:45:16 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 09:45:16 - info: normal field / name = fullpath , value = C:\B\#\aaa - 복사본 (2).txt
+2017-08-28 09:45:16 - info: normal field / name = oldFullpath , value = C:\B\#\aaa - 복사본 - 복사본.txt
+2017-08-28 09:45:16 - info: ------HANDLE ERR------
+2017-08-28 09:45:16 - info: RENAME : Success file.
+2017-08-28 09:45:16 - info: ## Set Source Path ##
+2017-08-28 09:45:16 - info: ########## START PARSE ##########
+2017-08-28 09:45:16 - info: normal field / name = action , value = MODIFIED
+2017-08-28 09:45:16 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 09:45:16 - info: normal field / name = fullpath , value = C:\B\#\aaa - 복사본 (2).txt
+2017-08-28 09:45:16 - info: normal field / name = oldFullpath , value = 
+2017-08-28 09:45:16 - info: ------HANDLE ERR------
+2017-08-28 09:45:16 - info: [object Object] : Success file.
+2017-08-28 09:45:38 - info: ## Set Source Path ##
+2017-08-28 09:45:38 - info: ########## START PARSE ##########
+2017-08-28 09:45:38 - info: normal field / name = action , value = RENAME
+2017-08-28 09:45:38 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 09:45:38 - info: normal field / name = fullpath , value = C:\B\#\aaa - 복사본 (3).txt
+2017-08-28 09:45:38 - info: normal field / name = oldFullpath , value = C:\B\#\aaa - 복사본 (2).txt
+2017-08-28 09:45:38 - info: ------HANDLE ERR------
+2017-08-28 09:45:38 - info: RENAME : Success file.
+2017-08-28 09:45:38 - info: ## Set Source Path ##
+2017-08-28 09:45:38 - info: ########## START PARSE ##########
+2017-08-28 09:45:38 - info: normal field / name = action , value = MODIFIED
+2017-08-28 09:45:38 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 09:45:38 - info: normal field / name = fullpath , value = C:\B\#\aaa - 복사본 (3).txt
+2017-08-28 09:45:38 - info: normal field / name = oldFullpath , value = 
+2017-08-28 09:45:38 - info: ------HANDLE ERR------
+2017-08-28 09:45:38 - info: [object Object] : Success file.
+2017-08-28 10:23:07 - info: ## Set Source Path ##
+2017-08-28 10:23:07 - info: ########## START PARSE ##########
+2017-08-28 10:23:07 - info: normal field / name = action , value = ADDED
+2017-08-28 10:23:07 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 10:23:07 - info: normal field / name = fullpath , value = C:\B\#\aaa.txt
+2017-08-28 10:23:07 - info: normal field / name = oldFullpath , value = 
+2017-08-28 10:23:07 - info: ------HANDLE ERR------
+2017-08-28 10:23:07 - info: ADDED : Success file.
+2017-08-28 10:23:07 - info: ## Set Source Path ##
+2017-08-28 10:23:07 - info: ########## START PARSE ##########
+2017-08-28 10:23:07 - info: normal field / name = action , value = MODIFIED
+2017-08-28 10:23:07 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 10:23:07 - info: normal field / name = fullpath , value = C:\B\#\aaa.txt
+2017-08-28 10:23:07 - info: normal field / name = oldFullpath , value = 
+2017-08-28 10:23:07 - info: ------HANDLE ERR------
+2017-08-28 10:23:07 - info: [object Object] : Success file.
+2017-08-28 10:23:13 - info: ## Set Source Path ##
+2017-08-28 10:23:13 - info: ########## START PARSE ##########
+2017-08-28 10:23:13 - info: normal field / name = action , value = MODIFIED
+2017-08-28 10:23:13 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 10:23:13 - info: normal field / name = fullpath , value = C:\B\aaa.txt
+2017-08-28 10:23:13 - info: normal field / name = oldFullpath , value = 
+2017-08-28 10:23:13 - info: ------HANDLE ERR------
+2017-08-28 10:23:13 - info: [object Object] : Success file.
+2017-08-28 10:23:13 - info: ## Set Source Path ##
+2017-08-28 10:23:13 - info: ########## START PARSE ##########
+2017-08-28 10:23:13 - info: normal field / name = action , value = MODIFIED
+2017-08-28 10:23:13 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 10:23:13 - info: normal field / name = fullpath , value = C:\B\aaa.txt
+2017-08-28 10:23:13 - info: normal field / name = oldFullpath , value = 
+2017-08-28 10:23:13 - info: ------HANDLE ERR------
+2017-08-28 10:23:13 - info: [object Object] : Success file.
+2017-08-28 10:23:19 - info: ## Set Source Path ##
+2017-08-28 10:23:19 - info: ########## START PARSE ##########
+2017-08-28 10:23:19 - info: normal field / name = action , value = MODIFIED
+2017-08-28 10:23:19 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 10:23:19 - info: normal field / name = fullpath , value = C:\B\#\aaa.txt
+2017-08-28 10:23:19 - info: normal field / name = oldFullpath , value = 
+2017-08-28 10:23:19 - info: ------HANDLE ERR------
+2017-08-28 10:23:19 - info: [object Object] : Success file.
+2017-08-28 10:23:19 - info: ## Set Source Path ##
+2017-08-28 10:23:19 - info: ########## START PARSE ##########
+2017-08-28 10:23:19 - info: normal field / name = action , value = MODIFIED
+2017-08-28 10:23:19 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 10:23:19 - info: normal field / name = fullpath , value = C:\B\#\aaa.txt
+2017-08-28 10:23:19 - info: normal field / name = oldFullpath , value = 
+2017-08-28 10:23:19 - info: ------HANDLE ERR------
+2017-08-28 10:23:19 - info: [object Object] : Success file.
+2017-08-28 10:24:00 - info: ## Set Source Path ##
+2017-08-28 10:24:00 - info: ########## START PARSE ##########
+2017-08-28 10:24:00 - info: normal field / name = action , value = MODIFIED
+2017-08-28 10:24:00 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 10:24:00 - info: normal field / name = fullpath , value = C:\B\A_PPT\00.RE_JS-OH개발팀-주간보고-2017년2분기-황병대_ - 복사본1 (2).xlsx
+2017-08-28 10:24:00 - info: normal field / name = oldFullpath , value = 
+2017-08-28 10:24:00 - info: ------HANDLE ERR------
+2017-08-28 10:24:00 - info: [object Object] : Success file.
+2017-08-28 10:24:01 - info: ## Set Source Path ##
+2017-08-28 10:24:01 - info: ########## START PARSE ##########
+2017-08-28 10:24:01 - info: normal field / name = action , value = MODIFIED
+2017-08-28 10:24:01 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 10:24:01 - info: normal field / name = fullpath , value = C:\B\A_PPT\00.RE_JS-OH개발팀-주간보고-2017년2분기-황병대_ - 복사본1 (2).xlsx
+2017-08-28 10:24:01 - info: normal field / name = oldFullpath , value = 
+2017-08-28 10:24:01 - info: ------HANDLE ERR------
+2017-08-28 10:24:01 - info: [object Object] : Success file.
+2017-08-28 10:24:18 - info: ## Set Source Path ##
+2017-08-28 10:24:18 - info: ########## START PARSE ##########
+2017-08-28 10:24:18 - info: normal field / name = action , value = MODIFIED
+2017-08-28 10:24:18 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 10:24:18 - info: normal field / name = fullpath , value = C:\B\A_PPT\aaa__\00.1복사본 JS-OH개발팀-주간보고-2017년2분기-황병대 (2).xlsx
+2017-08-28 10:24:18 - info: normal field / name = oldFullpath , value = 
+2017-08-28 10:24:18 - info: ------HANDLE ERR------
+2017-08-28 10:24:18 - info: [object Object] : Success file.
+2017-08-28 10:24:18 - info: ## Set Source Path ##
+2017-08-28 10:24:18 - info: ########## START PARSE ##########
+2017-08-28 10:24:18 - info: normal field / name = action , value = MODIFIED
+2017-08-28 10:24:18 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 10:24:18 - info: normal field / name = fullpath , value = C:\B\A_PPT\aaa__\00.1복사본 JS-OH개발팀-주간보고-2017년2분기-황병대 (2).xlsx
+2017-08-28 10:24:18 - info: normal field / name = oldFullpath , value = 
+2017-08-28 10:24:18 - info: ------HANDLE ERR------
+2017-08-28 10:24:18 - info: [object Object] : Success file.
+2017-08-28 10:24:18 - info: ## Set Source Path ##
+2017-08-28 10:24:18 - info: ########## START PARSE ##########
+2017-08-28 10:24:18 - info: normal field / name = action , value = MODIFIED
+2017-08-28 10:24:18 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 10:24:18 - info: normal field / name = fullpath , value = C:\B\A_PPT\aaa__\00.1복사본 JS-OH개발팀-주간보고-2017년2분기-황병대.xlsx
+2017-08-28 10:24:18 - info: normal field / name = oldFullpath , value = 
+2017-08-28 10:24:18 - info: ------HANDLE ERR------
+2017-08-28 10:24:18 - info: [object Object] : Success file.
+2017-08-28 10:24:18 - info: ## Set Source Path ##
+2017-08-28 10:24:18 - info: ########## START PARSE ##########
+2017-08-28 10:24:18 - info: normal field / name = action , value = MODIFIED
+2017-08-28 10:24:18 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 10:24:18 - info: normal field / name = fullpath , value = C:\B\A_PPT\aaa__\00.RE_JS-OH개발팀-주간보고-2017년2분기-황병대_ - 복사본1.xlsx
+2017-08-28 10:24:18 - info: normal field / name = oldFullpath , value = 
+2017-08-28 10:24:18 - info: ------HANDLE ERR------
+2017-08-28 10:24:18 - info: [object Object] : Success file.
+2017-08-28 10:24:18 - info: ## Set Source Path ##
+2017-08-28 10:24:18 - info: ########## START PARSE ##########
+2017-08-28 10:24:18 - info: normal field / name = action , value = MODIFIED
+2017-08-28 10:24:18 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 10:24:18 - info: normal field / name = fullpath , value = C:\B\A_PPT\aaa__\00.RE_JS-OH개발팀-주간보고-2017년2분기-황병대_ - 복사본11111.xlsx
+2017-08-28 10:24:18 - info: normal field / name = oldFullpath , value = 
+2017-08-28 10:24:18 - info: ------HANDLE ERR------
+2017-08-28 10:24:18 - info: [object Object] : Success file.
+2017-08-28 10:24:18 - info: ## Set Source Path ##
+2017-08-28 10:24:18 - info: ########## START PARSE ##########
+2017-08-28 10:24:18 - info: normal field / name = action , value = MODIFIED
+2017-08-28 10:24:18 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 10:24:18 - info: normal field / name = fullpath , value = C:\B\A_PPT\aaa__\2016 하반기 신규입사자 소개111_황병대.pptx
+2017-08-28 10:24:18 - info: normal field / name = oldFullpath , value = 
+2017-08-28 10:24:18 - info: ------HANDLE ERR------
+2017-08-28 10:24:18 - info: [object Object] : Success file.
+2017-08-28 10:24:18 - info: ## Set Source Path ##
+2017-08-28 10:24:18 - info: ########## START PARSE ##########
+2017-08-28 10:24:18 - info: normal field / name = action , value = MODIFIED
+2017-08-28 10:24:18 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 10:24:18 - info: normal field / name = fullpath , value = C:\B\A_PPT\aaa__\2016 하반기 신규입사자 소개_황병대 (2).pptx
+2017-08-28 10:24:18 - info: normal field / name = oldFullpath , value = 
+2017-08-28 10:24:18 - info: ------HANDLE ERR------
+2017-08-28 10:24:18 - info: [object Object] : Success file.
+2017-08-28 10:24:19 - info: ## Set Source Path ##
+2017-08-28 10:24:19 - info: ########## START PARSE ##########
+2017-08-28 10:24:19 - info: normal field / name = action , value = MODIFIED
+2017-08-28 10:24:19 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 10:24:19 - info: normal field / name = fullpath , value = C:\B\A_PPT\aaa__\2016 하반기 신규입사자 소개_황병대.pptx
+2017-08-28 10:24:19 - info: normal field / name = oldFullpath , value = 
+2017-08-28 10:24:19 - info: ------HANDLE ERR------
+2017-08-28 10:24:19 - info: [object Object] : Success file.
+2017-08-28 10:24:19 - info: ## Set Source Path ##
+2017-08-28 10:24:19 - info: ########## START PARSE ##########
+2017-08-28 10:24:19 - info: normal field / name = action , value = MODIFIED
+2017-08-28 10:24:19 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 10:24:19 - info: normal field / name = fullpath , value = C:\B\A_PPT\aaa__\DocuX API Guide_v0.00.03.3.docx
+2017-08-28 10:24:19 - info: normal field / name = oldFullpath , value = 
+2017-08-28 10:24:19 - info: ------HANDLE ERR------
+2017-08-28 10:24:19 - info: [object Object] : Success file.
+2017-08-28 10:24:19 - info: ## Set Source Path ##
+2017-08-28 10:24:19 - info: ########## START PARSE ##########
+2017-08-28 10:24:19 - info: normal field / name = action , value = MODIFIED
+2017-08-28 10:24:19 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 10:24:19 - info: normal field / name = fullpath , value = C:\B\A_PPT\aaa__\OtherNameSave.txt
+2017-08-28 10:24:19 - info: normal field / name = oldFullpath , value = 
+2017-08-28 10:24:19 - info: ------HANDLE ERR------
+2017-08-28 10:24:19 - info: [object Object] : Success file.
+2017-08-28 10:24:19 - info: ## Set Source Path ##
+2017-08-28 10:24:19 - info: ########## START PARSE ##########
+2017-08-28 10:24:19 - info: normal field / name = action , value = MODIFIED
+2017-08-28 10:24:19 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 10:24:19 - info: normal field / name = fullpath , value = C:\B\A_PPT\aaa__\OtherNameSave12.txt
+2017-08-28 10:24:19 - info: normal field / name = oldFullpath , value = 
+2017-08-28 10:24:19 - info: ------HANDLE ERR------
+2017-08-28 10:24:19 - info: [object Object] : Success file.
+2017-08-28 10:24:19 - info: ## Set Source Path ##
+2017-08-28 10:24:19 - info: ########## START PARSE ##########
+2017-08-28 10:24:19 - info: normal field / name = action , value = MODIFIED
+2017-08-28 10:24:19 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 10:24:19 - info: normal field / name = fullpath , value = C:\B\A_PPT\aaa__\query1.csv
+2017-08-28 10:24:19 - info: normal field / name = oldFullpath , value = 
+2017-08-28 10:24:19 - info: ------HANDLE ERR------
+2017-08-28 10:24:19 - info: [object Object] : Success file.
+2017-08-28 10:25:28 - info: ## Set Source Path ##
+2017-08-28 10:25:28 - info: ########## START PARSE ##########
+2017-08-28 10:25:28 - info: normal field / name = action , value = ADDED
+2017-08-28 10:25:28 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 10:25:28 - info: normal field / name = fullpath , value = C:\B\#\00.RE_JS-OH개발팀-주간보고-2017년2분기-황병대_ - 복사본1 (2).xlsx
+2017-08-28 10:25:28 - info: normal field / name = oldFullpath , value = 
+2017-08-28 10:25:28 - info: ------HANDLE ERR------
+2017-08-28 10:25:28 - info: ADDED : Success file.
+2017-08-28 10:25:28 - info: ## Set Source Path ##
+2017-08-28 10:25:28 - info: ########## START PARSE ##########
+2017-08-28 10:25:28 - info: normal field / name = action , value = MODIFIED
+2017-08-28 10:25:28 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 10:25:28 - info: normal field / name = fullpath , value = C:\B\#\00.RE_JS-OH개발팀-주간보고-2017년2분기-황병대_ - 복사본1 (2).xlsx
+2017-08-28 10:25:28 - info: normal field / name = oldFullpath , value = 
+2017-08-28 10:25:28 - info: ------HANDLE ERR------
+2017-08-28 10:25:28 - info: [object Object] : Success file.
+2017-08-28 10:28:17 - info: ## Set Source Path ##
+2017-08-28 10:28:17 - info: ########## START PARSE ##########
+2017-08-28 10:28:17 - info: normal field / name = action , value = ADDED
+2017-08-28 10:28:17 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 10:28:17 - info: normal field / name = fullpath , value = C:\B\A_PPT\#\00.RE_JS-OH개발팀-주간보고-2017년2분기-황병대_ - 복사본1 (2).xlsx
+2017-08-28 10:28:17 - info: normal field / name = oldFullpath , value = 
+2017-08-28 10:28:17 - info: ------HANDLE ERR------
+2017-08-28 10:28:17 - info: ADDED : Success file.
+2017-08-28 10:28:17 - info: ## Set Source Path ##
+2017-08-28 10:28:17 - info: ########## START PARSE ##########
+2017-08-28 10:28:17 - info: normal field / name = action , value = MODIFIED
+2017-08-28 10:28:17 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 10:28:17 - info: normal field / name = fullpath , value = C:\B\A_PPT\#\00.RE_JS-OH개발팀-주간보고-2017년2분기-황병대_ - 복사본1 (2).xlsx
+2017-08-28 10:28:17 - info: normal field / name = oldFullpath , value = 
+2017-08-28 10:28:17 - info: ------HANDLE ERR------
+2017-08-28 10:28:17 - info: [object Object] : Success file.
+2017-08-28 10:28:17 - info: ## Set Source Path ##
+2017-08-28 10:28:17 - info: ########## START PARSE ##########
+2017-08-28 10:28:17 - info: normal field / name = action , value = ADDED
+2017-08-28 10:28:17 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 10:28:17 - info: normal field / name = fullpath , value = C:\B\A_PPT\#\aaa - 복사본 (3).txt
+2017-08-28 10:28:17 - info: normal field / name = oldFullpath , value = 
+2017-08-28 10:28:17 - info: ------HANDLE ERR------
+2017-08-28 10:28:17 - info: ADDED : Success file.
+2017-08-28 10:28:17 - info: ## Set Source Path ##
+2017-08-28 10:28:17 - info: ########## START PARSE ##########
+2017-08-28 10:28:17 - info: normal field / name = action , value = ADDED
+2017-08-28 10:28:17 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 10:28:17 - info: normal field / name = fullpath , value = C:\B\A_PPT\#\aaa - 복사본.txt
+2017-08-28 10:28:17 - info: normal field / name = oldFullpath , value = 
+2017-08-28 10:28:17 - info: ------HANDLE ERR------
+2017-08-28 10:28:17 - info: ADDED : Success file.
+2017-08-28 10:28:17 - info: ## Set Source Path ##
+2017-08-28 10:28:17 - info: ########## START PARSE ##########
+2017-08-28 10:28:17 - info: normal field / name = action , value = ADDED
+2017-08-28 10:28:17 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 10:28:17 - info: normal field / name = fullpath , value = C:\B\A_PPT\#\aaa.txt
+2017-08-28 10:28:17 - info: normal field / name = oldFullpath , value = 
+2017-08-28 10:28:17 - info: ------HANDLE ERR------
+2017-08-28 10:28:17 - info: ADDED : Success file.
+2017-08-28 10:29:46 - info: ## Set Source Path ##
+2017-08-28 10:29:46 - info: ########## START PARSE ##########
+2017-08-28 10:29:46 - info: normal field / name = action , value = CUT
+2017-08-28 10:29:46 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 10:29:46 - info: normal field / name = fullpath , value = C:\B\A_PPT\#\00.RE_JS-OH개발팀-주간보고-2017년2분기-황병대_ - 복사본1 (2).xlsx
+2017-08-28 10:29:46 - info: normal field / name = oldFullpath , value = C:\B\###\00.RE_JS-OH개발팀-주간보고-2017년2분기-황병대_ - 복사본1 (2).xlsx
+2017-08-28 10:29:46 - info: Changed old file is : /home/dave/dev/js/DEMORTB/tmp/1LzUO8s2hT8iq7uobOvJDuDh.xlsx
+2017-08-28 10:29:46 - info: ------HANDLE ERR------
+2017-08-28 10:29:46 - info: CUT : Success file.
+2017-08-28 10:29:46 - info: ## Set Source Path ##
+2017-08-28 10:29:46 - info: ########## START PARSE ##########
+2017-08-28 10:29:46 - info: normal field / name = action , value = CUT
+2017-08-28 10:29:46 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 10:29:46 - info: normal field / name = fullpath , value = C:\B\A_PPT\#\aaa - 복사본 (3).txt
+2017-08-28 10:29:46 - info: normal field / name = oldFullpath , value = C:\B\###\aaa - 복사본 (3).txt
+2017-08-28 10:29:46 - info: Changed old file is : /home/dave/dev/js/DEMORTB/tmp/obbaNiTXr504evW9jqKC6TBY.txt
+2017-08-28 10:29:46 - info: ------HANDLE ERR------
+2017-08-28 10:29:46 - info: CUT : Success file.
+2017-08-28 10:29:46 - info: ## Set Source Path ##
+2017-08-28 10:29:46 - info: ########## START PARSE ##########
+2017-08-28 10:29:46 - info: normal field / name = action , value = CUT
+2017-08-28 10:29:46 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 10:29:46 - info: normal field / name = fullpath , value = C:\B\A_PPT\#\aaa - 복사본.txt
+2017-08-28 10:29:46 - info: normal field / name = oldFullpath , value = C:\B\###\aaa - 복사본.txt
+2017-08-28 10:29:46 - info: Changed old file is : /home/dave/dev/js/DEMORTB/tmp/MlgjKy4ZYFwcCD6bQwd2RFrC.txt
+2017-08-28 10:29:46 - info: ------HANDLE ERR------
+2017-08-28 10:29:46 - info: CUT : Success file.
+2017-08-28 10:29:46 - info: ## Set Source Path ##
+2017-08-28 10:29:46 - info: ########## START PARSE ##########
+2017-08-28 10:29:46 - info: normal field / name = action , value = CUT
+2017-08-28 10:29:46 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 10:29:46 - info: normal field / name = fullpath , value = C:\B\A_PPT\#\aaa.txt
+2017-08-28 10:29:46 - info: normal field / name = oldFullpath , value = C:\B\###\aaa.txt
+2017-08-28 10:29:46 - info: Changed old file is : /home/dave/dev/js/DEMORTB/tmp/NbFiM81TwWa2I1tmVvOe1I-X.txt
+2017-08-28 10:29:46 - info: ------HANDLE ERR------
+2017-08-28 10:29:46 - info: CUT : Success file.
+2017-08-28 10:31:17 - info: ## Set Source Path ##
+2017-08-28 10:31:17 - info: ########## START PARSE ##########
+2017-08-28 10:31:17 - info: normal field / name = action , value = RENAME
+2017-08-28 10:31:17 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 10:31:17 - info: normal field / name = fullpath , value = C:\B\A_PPT\#1\00.RE_JS-OH개발팀-주간보고-2017년2분기-황병대_ - 복사본1 (2).xlsx
+2017-08-28 10:31:17 - info: normal field / name = oldFullpath , value = C:\B\A_PPT\###\00.RE_JS-OH개발팀-주간보고-2017년2분기-황병대_ - 복사본1 (2).xlsx
+2017-08-28 10:31:17 - info: Changed old file is : /home/dave/dev/js/DEMORTB/tmp/GDyA2Hd0b3Pd8J_VjGBJ5kPE.xlsx
+2017-08-28 10:31:17 - info: ------HANDLE ERR------
+2017-08-28 10:31:17 - info: RENAME : Success file.
+2017-08-28 10:31:17 - info: ## Set Source Path ##
+2017-08-28 10:31:17 - info: ########## START PARSE ##########
+2017-08-28 10:31:17 - info: normal field / name = action , value = RENAME
+2017-08-28 10:31:17 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 10:31:17 - info: normal field / name = fullpath , value = C:\B\A_PPT\#1\aaa - 복사본 (3).txt
+2017-08-28 10:31:17 - info: normal field / name = oldFullpath , value = C:\B\A_PPT\###\aaa - 복사본 (3).txt
+2017-08-28 10:31:17 - info: Changed old file is : /home/dave/dev/js/DEMORTB/tmp/uGCIn5cAuZAKLVDVu8yHM-Qo.txt
+2017-08-28 10:31:17 - info: ------HANDLE ERR------
+2017-08-28 10:31:17 - info: RENAME : Success file.
+2017-08-28 10:31:17 - info: ## Set Source Path ##
+2017-08-28 10:31:17 - info: ########## START PARSE ##########
+2017-08-28 10:31:17 - info: normal field / name = action , value = RENAME
+2017-08-28 10:31:17 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 10:31:17 - info: normal field / name = fullpath , value = C:\B\A_PPT\#1\aaa - 복사본.txt
+2017-08-28 10:31:17 - info: normal field / name = oldFullpath , value = C:\B\A_PPT\###\aaa - 복사본.txt
+2017-08-28 10:31:17 - info: Changed old file is : /home/dave/dev/js/DEMORTB/tmp/axOy8PJDF7IuUfpe4S_a-sqI.txt
+2017-08-28 10:31:17 - info: ------HANDLE ERR------
+2017-08-28 10:31:17 - info: RENAME : Success file.
+2017-08-28 10:31:17 - info: ## Set Source Path ##
+2017-08-28 10:31:17 - info: ########## START PARSE ##########
+2017-08-28 10:31:17 - info: normal field / name = action , value = RENAME
+2017-08-28 10:31:17 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 10:31:17 - info: normal field / name = fullpath , value = C:\B\A_PPT\#1\aaa.txt
+2017-08-28 10:31:17 - info: normal field / name = oldFullpath , value = C:\B\A_PPT\###\aaa.txt
+2017-08-28 10:31:17 - info: Changed old file is : /home/dave/dev/js/DEMORTB/tmp/x9zbe2uO43L4PqHwlaG2Kh7q.txt
+2017-08-28 10:31:17 - info: ------HANDLE ERR------
+2017-08-28 10:31:17 - info: RENAME : Success file.
+2017-08-28 10:31:52 - info: ## Set Source Path ##
+2017-08-28 10:31:52 - info: ########## START PARSE ##########
+2017-08-28 10:31:52 - info: normal field / name = action , value = ADDED
+2017-08-28 10:31:52 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 10:31:52 - info: normal field / name = fullpath , value = C:\B\#1\00.RE_JS-OH개발팀-주간보고-2017년2분기-황병대_ - 복사본1 (2).xlsx
+2017-08-28 10:31:52 - info: normal field / name = oldFullpath , value = 
+2017-08-28 10:31:52 - info: ------HANDLE ERR------
+2017-08-28 10:31:52 - info: ADDED : Success file.
+2017-08-28 10:31:53 - info: ## Set Source Path ##
+2017-08-28 10:31:53 - info: ########## START PARSE ##########
+2017-08-28 10:31:53 - info: normal field / name = action , value = MODIFIED
+2017-08-28 10:31:53 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 10:31:53 - info: normal field / name = fullpath , value = C:\B\#1\00.RE_JS-OH개발팀-주간보고-2017년2분기-황병대_ - 복사본1 (2).xlsx
+2017-08-28 10:31:53 - info: normal field / name = oldFullpath , value = 
+2017-08-28 10:31:53 - info: ------HANDLE ERR------
+2017-08-28 10:31:53 - info: [object Object] : Success file.
+2017-08-28 10:31:53 - info: ## Set Source Path ##
+2017-08-28 10:31:53 - info: ########## START PARSE ##########
+2017-08-28 10:31:53 - info: normal field / name = action , value = ADDED
+2017-08-28 10:31:53 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 10:31:53 - info: normal field / name = fullpath , value = C:\B\#1\aaa - 복사본 (3).txt
+2017-08-28 10:31:53 - info: normal field / name = oldFullpath , value = 
+2017-08-28 10:31:53 - info: ------HANDLE ERR------
+2017-08-28 10:31:53 - info: ADDED : Success file.
+2017-08-28 10:31:53 - info: ## Set Source Path ##
+2017-08-28 10:31:53 - info: ########## START PARSE ##########
+2017-08-28 10:31:53 - info: normal field / name = action , value = ADDED
+2017-08-28 10:31:53 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 10:31:53 - info: normal field / name = fullpath , value = C:\B\#1\aaa - 복사본.txt
+2017-08-28 10:31:53 - info: normal field / name = oldFullpath , value = 
+2017-08-28 10:31:53 - info: ------HANDLE ERR------
+2017-08-28 10:31:53 - info: ADDED : Success file.
+2017-08-28 10:31:53 - info: ## Set Source Path ##
+2017-08-28 10:31:53 - info: ########## START PARSE ##########
+2017-08-28 10:31:53 - info: normal field / name = action , value = ADDED
+2017-08-28 10:31:53 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 10:31:53 - info: normal field / name = fullpath , value = C:\B\#1\aaa.txt
+2017-08-28 10:31:53 - info: normal field / name = oldFullpath , value = 
+2017-08-28 10:31:53 - info: ------HANDLE ERR------
+2017-08-28 10:31:53 - info: ADDED : Success file.
+2017-08-28 10:31:58 - info: ## Set Source Path ##
+2017-08-28 10:31:58 - info: ########## START PARSE ##########
+2017-08-28 10:31:58 - info: normal field / name = action , value = MODIFIED
+2017-08-28 10:31:58 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 10:31:58 - info: normal field / name = fullpath , value = C:\B\#1\aaa.txt
+2017-08-28 10:31:58 - info: normal field / name = oldFullpath , value = 
+2017-08-28 10:31:58 - info: ------HANDLE ERR------
+2017-08-28 10:31:58 - info: [object Object] : Success file.
+2017-08-28 10:31:58 - info: ## Set Source Path ##
+2017-08-28 10:31:58 - info: ########## START PARSE ##########
+2017-08-28 10:31:58 - info: normal field / name = action , value = MODIFIED
+2017-08-28 10:31:58 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 10:31:58 - info: normal field / name = fullpath , value = C:\B\#1\aaa.txt
+2017-08-28 10:31:58 - info: normal field / name = oldFullpath , value = 
+2017-08-28 10:31:58 - info: ------HANDLE ERR------
+2017-08-28 10:31:58 - info: [object Object] : Success file.
+2017-08-28 10:32:06 - info: ## Set Source Path ##
+2017-08-28 10:32:06 - info: ########## START PARSE ##########
+2017-08-28 10:32:06 - info: normal field / name = action , value = MODIFIED
+2017-08-28 10:32:06 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 10:32:06 - info: normal field / name = fullpath , value = C:\B\A_PPT\#1\00.RE_JS-OH개발팀-주간보고-2017년2분기-황병대_ - 복사본1 (2).xlsx
+2017-08-28 10:32:06 - info: normal field / name = oldFullpath , value = 
+2017-08-28 10:32:06 - info: ------HANDLE ERR------
+2017-08-28 10:32:06 - info: [object Object] : Success file.
+2017-08-28 10:32:06 - info: ## Set Source Path ##
+2017-08-28 10:32:06 - info: ########## START PARSE ##########
+2017-08-28 10:32:06 - info: normal field / name = action , value = MODIFIED
+2017-08-28 10:32:06 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 10:32:06 - info: normal field / name = fullpath , value = C:\B\A_PPT\#1\00.RE_JS-OH개발팀-주간보고-2017년2분기-황병대_ - 복사본1 (2).xlsx
+2017-08-28 10:32:06 - info: normal field / name = oldFullpath , value = 
+2017-08-28 10:32:06 - info: ------HANDLE ERR------
+2017-08-28 10:32:06 - info: [object Object] : Success file.
+2017-08-28 10:32:06 - info: ## Set Source Path ##
+2017-08-28 10:32:06 - info: ########## START PARSE ##########
+2017-08-28 10:32:06 - info: normal field / name = action , value = MODIFIED
+2017-08-28 10:32:06 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 10:32:06 - info: normal field / name = fullpath , value = C:\B\A_PPT\#1\aaa - 복사본 (3).txt
+2017-08-28 10:32:06 - info: normal field / name = oldFullpath , value = 
+2017-08-28 10:32:06 - info: ------HANDLE ERR------
+2017-08-28 10:32:06 - info: [object Object] : Success file.
+2017-08-28 10:32:06 - info: ## Set Source Path ##
+2017-08-28 10:32:06 - info: ########## START PARSE ##########
+2017-08-28 10:32:06 - info: normal field / name = action , value = MODIFIED
+2017-08-28 10:32:06 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 10:32:06 - info: normal field / name = fullpath , value = C:\B\A_PPT\#1\aaa - 복사본.txt
+2017-08-28 10:32:06 - info: normal field / name = oldFullpath , value = 
+2017-08-28 10:32:06 - info: ------HANDLE ERR------
+2017-08-28 10:32:06 - info: [object Object] : Success file.
+2017-08-28 10:32:06 - info: ## Set Source Path ##
+2017-08-28 10:32:06 - info: ########## START PARSE ##########
+2017-08-28 10:32:06 - info: normal field / name = action , value = MODIFIED
+2017-08-28 10:32:06 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 10:32:06 - info: normal field / name = fullpath , value = C:\B\A_PPT\#1\aaa.txt
+2017-08-28 10:32:06 - info: normal field / name = oldFullpath , value = 
+2017-08-28 10:32:06 - info: ------HANDLE ERR------
+2017-08-28 10:32:06 - info: [object Object] : Success file.
+2017-08-28 10:32:34 - info: ## Set Source Path ##
+2017-08-28 10:32:34 - info: ########## START PARSE ##########
+2017-08-28 10:32:34 - info: normal field / name = action , value = RENAME
+2017-08-28 10:32:34 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 10:32:34 - info: normal field / name = fullpath , value = C:\B\A_PPT\#3\00.RE_JS-OH개발팀-주간보고-2017년2분기-황병대_ - 복사본1 (2).xlsx
+2017-08-28 10:32:34 - info: normal field / name = oldFullpath , value = C:\B\A_PPT\#1##\00.RE_JS-OH개발팀-주간보고-2017년2분기-황병대_ - 복사본1 (2).xlsx
+2017-08-28 10:32:34 - info: Changed old file is : /home/dave/dev/js/DEMORTB/tmp/53ybd0geEOcdHiNQhBXFBMBc.xlsx
+2017-08-28 10:32:34 - info: ------HANDLE ERR------
+2017-08-28 10:32:34 - info: RENAME : Success file.
+2017-08-28 10:32:34 - info: ## Set Source Path ##
+2017-08-28 10:32:34 - info: ########## START PARSE ##########
+2017-08-28 10:32:34 - info: normal field / name = action , value = RENAME
+2017-08-28 10:32:34 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 10:32:34 - info: normal field / name = fullpath , value = C:\B\A_PPT\#3\aaa - 복사본 (3).txt
+2017-08-28 10:32:34 - info: normal field / name = oldFullpath , value = C:\B\A_PPT\#1##\aaa - 복사본 (3).txt
+2017-08-28 10:32:34 - info: Changed old file is : /home/dave/dev/js/DEMORTB/tmp/3iOAx6kc04GxJJ9i-w-D9eO6.txt
+2017-08-28 10:32:34 - info: ------HANDLE ERR------
+2017-08-28 10:32:34 - info: RENAME : Success file.
+2017-08-28 10:32:34 - info: ## Set Source Path ##
+2017-08-28 10:32:34 - info: ########## START PARSE ##########
+2017-08-28 10:32:34 - info: normal field / name = action , value = RENAME
+2017-08-28 10:32:34 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 10:32:34 - info: normal field / name = fullpath , value = C:\B\A_PPT\#3\aaa - 복사본.txt
+2017-08-28 10:32:34 - info: normal field / name = oldFullpath , value = C:\B\A_PPT\#1##\aaa - 복사본.txt
+2017-08-28 10:32:34 - info: Changed old file is : /home/dave/dev/js/DEMORTB/tmp/HHcfNOcia5Reu_bQt4cl8egr.txt
+2017-08-28 10:32:34 - info: ------HANDLE ERR------
+2017-08-28 10:32:34 - info: RENAME : Success file.
+2017-08-28 10:32:34 - info: ## Set Source Path ##
+2017-08-28 10:32:34 - info: ########## START PARSE ##########
+2017-08-28 10:32:34 - info: normal field / name = action , value = RENAME
+2017-08-28 10:32:34 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 10:32:34 - info: normal field / name = fullpath , value = C:\B\A_PPT\#3\aaa.txt
+2017-08-28 10:32:34 - info: normal field / name = oldFullpath , value = C:\B\A_PPT\#1##\aaa.txt
+2017-08-28 10:32:34 - info: Changed old file is : /home/dave/dev/js/DEMORTB/tmp/hD1SS_ei65FJ98CTTodMnQIF.txt
+2017-08-28 10:32:34 - info: ------HANDLE ERR------
+2017-08-28 10:32:34 - info: RENAME : Success file.
+2017-08-28 10:33:53 - info: ## Set Source Path ##
+2017-08-28 10:33:53 - info: ########## START PARSE ##########
+2017-08-28 10:33:53 - info: normal field / name = action , value = RENAME
+2017-08-28 10:33:53 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 10:33:53 - info: normal field / name = fullpath , value = C:\B\A_PPT\#3\aaa1.txt
+2017-08-28 10:33:53 - info: normal field / name = oldFullpath , value = C:\B\A_PPT\#3\aaa.txt
+2017-08-28 10:33:53 - info: ------HANDLE ERR------
+2017-08-28 10:33:53 - info: RENAME : Success file.
+2017-08-28 10:33:53 - info: ## Set Source Path ##
+2017-08-28 10:33:53 - info: ########## START PARSE ##########
+2017-08-28 10:33:53 - info: normal field / name = action , value = MODIFIED
+2017-08-28 10:33:53 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 10:33:53 - info: normal field / name = fullpath , value = C:\B\A_PPT\#3\aaa1.txt
+2017-08-28 10:33:53 - info: normal field / name = oldFullpath , value = 
+2017-08-28 10:33:53 - info: ------HANDLE ERR------
+2017-08-28 10:33:53 - info: [object Object] : Success file.
+2017-08-28 10:34:06 - info: ## Set Source Path ##
+2017-08-28 10:34:06 - info: ########## START PARSE ##########
+2017-08-28 10:34:06 - info: normal field / name = action , value = ADDED
+2017-08-28 10:34:06 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 10:34:06 - info: normal field / name = fullpath , value = C:\B\A_PPT\aaa1.txt
+2017-08-28 10:34:06 - info: normal field / name = oldFullpath , value = 
+2017-08-28 10:34:06 - info: ------HANDLE ERR------
+2017-08-28 10:34:06 - info: ADDED : Success file.
+2017-08-28 10:34:06 - info: ## Set Source Path ##
+2017-08-28 10:34:06 - info: ########## START PARSE ##########
+2017-08-28 10:34:06 - info: normal field / name = action , value = MODIFIED
+2017-08-28 10:34:06 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 10:34:06 - info: normal field / name = fullpath , value = C:\B\A_PPT\aaa1.txt
+2017-08-28 10:34:06 - info: normal field / name = oldFullpath , value = 
+2017-08-28 10:34:06 - info: ------HANDLE ERR------
+2017-08-28 10:34:06 - info: [object Object] : Success file.
+2017-08-28 10:34:16 - info: ## Set Source Path ##
+2017-08-28 10:34:16 - info: ########## START PARSE ##########
+2017-08-28 10:34:16 - info: normal field / name = action , value = RENAME
+2017-08-28 10:34:16 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 10:34:16 - info: normal field / name = fullpath , value = C:\B\A_PPT\aaa (2).txt
+2017-08-28 10:34:16 - info: normal field / name = oldFullpath , value = C:\B\A_PPT\aaa1.txt
+2017-08-28 10:34:16 - info: ------HANDLE ERR------
+2017-08-28 10:34:16 - info: RENAME : Success file.
+2017-08-28 10:34:16 - info: ## Set Source Path ##
+2017-08-28 10:34:16 - info: ########## START PARSE ##########
+2017-08-28 10:34:16 - info: normal field / name = action , value = MODIFIED
+2017-08-28 10:34:16 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 10:34:16 - info: normal field / name = fullpath , value = C:\B\A_PPT\aaa (2).txt
+2017-08-28 10:34:16 - info: normal field / name = oldFullpath , value = 
+2017-08-28 10:34:16 - info: ------HANDLE ERR------
+2017-08-28 10:34:16 - info: [object Object] : Success file.
+2017-08-28 10:34:36 - info: ## Set Source Path ##
+2017-08-28 10:34:36 - info: ########## START PARSE ##########
+2017-08-28 10:34:36 - info: normal field / name = action , value = CUT
+2017-08-28 10:34:36 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 10:34:36 - info: normal field / name = fullpath , value = C:\B\A_PPT\aaa1.txt
+2017-08-28 10:34:36 - info: normal field / name = oldFullpath , value = C:\B\A_PPT\#3\aaa1.txt
+2017-08-28 10:34:36 - info: ------HANDLE ERR------
+2017-08-28 10:34:36 - info: CUT : Success file.
+2017-08-28 10:34:36 - info: ## Set Source Path ##
+2017-08-28 10:34:36 - info: ########## START PARSE ##########
+2017-08-28 10:34:36 - info: normal field / name = action , value = MODIFIED
+2017-08-28 10:34:36 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 10:34:36 - info: normal field / name = fullpath , value = C:\B\A_PPT\aaa1.txt
+2017-08-28 10:34:36 - info: normal field / name = oldFullpath , value = 
+2017-08-28 10:34:36 - info: ------HANDLE ERR------
+2017-08-28 10:34:36 - info: [object Object] : Success file.
+2017-08-28 10:34:43 - info: ## Set Source Path ##
+2017-08-28 10:34:43 - info: ########## START PARSE ##########
+2017-08-28 10:34:43 - info: normal field / name = action , value = CUT
+2017-08-28 10:34:43 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 10:34:43 - info: normal field / name = fullpath , value = C:\B\A_PPT\#3\aaa1.txt
+2017-08-28 10:34:43 - info: normal field / name = oldFullpath , value = C:\B\A_PPT\aaa1.txt
+2017-08-28 10:34:43 - info: ------HANDLE ERR------
+2017-08-28 10:34:43 - info: CUT : Success file.
+2017-08-28 10:34:43 - info: ## Set Source Path ##
+2017-08-28 10:34:43 - info: ########## START PARSE ##########
+2017-08-28 10:34:43 - info: normal field / name = action , value = MODIFIED
+2017-08-28 10:34:43 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 10:34:43 - info: normal field / name = fullpath , value = C:\B\A_PPT\#3\aaa1.txt
+2017-08-28 10:34:43 - info: normal field / name = oldFullpath , value = 
+2017-08-28 10:34:43 - info: ------HANDLE ERR------
+2017-08-28 10:34:43 - info: [object Object] : Success file.
+2017-08-28 11:27:40 - info: ## Set Source Path ##
+2017-08-28 11:27:40 - info: ########## START PARSE ##########
+2017-08-28 11:27:40 - info: normal field / name = action , value = ADDED
+2017-08-28 11:27:40 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 11:27:40 - info: normal field / name = fullpath , value = C:\B\A_PPT\#3\aaa.txt
+2017-08-28 11:27:40 - info: normal field / name = oldFullpath , value = 
+2017-08-28 11:27:40 - info: ------HANDLE ERR------
+2017-08-28 11:27:40 - info: ADDED : Success file.
+2017-08-28 11:27:40 - info: ## Set Source Path ##
+2017-08-28 11:27:40 - info: ########## START PARSE ##########
+2017-08-28 11:27:40 - info: normal field / name = action , value = MODIFIED
+2017-08-28 11:27:40 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 11:27:40 - info: normal field / name = fullpath , value = C:\B\A_PPT\#3\aaa.txt
+2017-08-28 11:27:40 - info: normal field / name = oldFullpath , value = 
+2017-08-28 11:27:40 - info: ------HANDLE ERR------
+2017-08-28 11:27:40 - info: [object Object] : Success file.
+2017-08-28 11:27:51 - info: ## Set Source Path ##
+2017-08-28 11:27:51 - info: ########## START PARSE ##########
+2017-08-28 11:27:51 - info: normal field / name = action , value = CUT
+2017-08-28 11:27:51 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 11:27:51 - info: normal field / name = fullpath , value = C:\B\A_PPT\#3\aaa.txt
+2017-08-28 11:27:51 - info: normal field / name = oldFullpath , value = C:\B\A_PPT\#3\aaa.txt
+2017-08-28 11:27:51 - info: ------HANDLE ERR------
+2017-08-28 11:27:51 - info: CUT : Success file.
+2017-08-28 11:27:51 - info: ## Set Source Path ##
+2017-08-28 11:27:51 - info: ########## START PARSE ##########
+2017-08-28 11:27:51 - info: normal field / name = action , value = MODIFIED
+2017-08-28 11:27:51 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 11:27:51 - info: normal field / name = fullpath , value = C:\B\A_PPT\#3\aaa.txt
+2017-08-28 11:27:51 - info: normal field / name = oldFullpath , value = 
+2017-08-28 11:27:51 - info: ------HANDLE ERR------
+2017-08-28 11:27:51 - info: [object Object] : Success file.
+2017-08-28 11:28:32 - info: ## Set Source Path ##
+2017-08-28 11:28:32 - info: ########## START PARSE ##########
+2017-08-28 11:28:32 - info: normal field / name = action , value = MODIFIED
+2017-08-28 11:28:32 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 11:28:32 - info: normal field / name = fullpath , value = C:\B\A_PPT\#3\aaa.txt
+2017-08-28 11:28:32 - info: normal field / name = oldFullpath , value = 
+2017-08-28 11:28:32 - info: ------HANDLE ERR------
+2017-08-28 11:28:32 - info: [object Object] : Success file.
+2017-08-28 11:28:32 - info: ## Set Source Path ##
+2017-08-28 11:28:32 - info: ########## START PARSE ##########
+2017-08-28 11:28:32 - info: normal field / name = action , value = MODIFIED
+2017-08-28 11:28:32 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 11:28:32 - info: normal field / name = fullpath , value = C:\B\A_PPT\#3\aaa.txt
+2017-08-28 11:28:32 - info: normal field / name = oldFullpath , value = 
+2017-08-28 11:28:32 - info: ------HANDLE ERR------
+2017-08-28 11:28:32 - info: [object Object] : Success file.
+2017-08-28 11:28:34 - info: ## Set Source Path ##
+2017-08-28 11:28:34 - info: ########## START PARSE ##########
+2017-08-28 11:28:34 - info: normal field / name = action , value = MODIFIED
+2017-08-28 11:28:34 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 11:28:34 - info: normal field / name = fullpath , value = C:\B\A_PPT\#3\aaa.txt
+2017-08-28 11:28:34 - info: normal field / name = oldFullpath , value = 
+2017-08-28 11:28:34 - info: ------HANDLE ERR------
+2017-08-28 11:28:34 - info: [object Object] : Success file.
+2017-08-28 11:28:34 - info: ## Set Source Path ##
+2017-08-28 11:28:34 - info: ########## START PARSE ##########
+2017-08-28 11:28:34 - info: normal field / name = action , value = MODIFIED
+2017-08-28 11:28:34 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 11:28:34 - info: normal field / name = fullpath , value = C:\B\A_PPT\#3\aaa.txt
+2017-08-28 11:28:34 - info: normal field / name = oldFullpath , value = 
+2017-08-28 11:28:34 - info: ------HANDLE ERR------
+2017-08-28 11:28:34 - info: [object Object] : Success file.
+2017-08-28 11:28:37 - info: ## Set Source Path ##
+2017-08-28 11:28:37 - info: ########## START PARSE ##########
+2017-08-28 11:28:37 - info: normal field / name = action , value = MODIFIED
+2017-08-28 11:28:37 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 11:28:37 - info: normal field / name = fullpath , value = C:\B\A_PPT\#3\aaa.txt
+2017-08-28 11:28:37 - info: normal field / name = oldFullpath , value = 
+2017-08-28 11:28:37 - info: ------HANDLE ERR------
+2017-08-28 11:28:37 - info: [object Object] : Success file.
+2017-08-28 11:28:37 - info: ## Set Source Path ##
+2017-08-28 11:28:37 - info: ########## START PARSE ##########
+2017-08-28 11:28:37 - info: normal field / name = action , value = MODIFIED
+2017-08-28 11:28:37 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 11:28:37 - info: normal field / name = fullpath , value = C:\B\A_PPT\#3\aaa.txt
+2017-08-28 11:28:37 - info: normal field / name = oldFullpath , value = 
+2017-08-28 11:28:37 - info: ------HANDLE ERR------
+2017-08-28 11:28:37 - info: [object Object] : Success file.
+2017-08-28 11:28:39 - info: ## Set Source Path ##
+2017-08-28 11:28:39 - info: ########## START PARSE ##########
+2017-08-28 11:28:39 - info: normal field / name = action , value = MODIFIED
+2017-08-28 11:28:39 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 11:28:39 - info: normal field / name = fullpath , value = C:\B\A_PPT\#3\aaa.txt
+2017-08-28 11:28:39 - info: normal field / name = oldFullpath , value = 
+2017-08-28 11:28:39 - info: ------HANDLE ERR------
+2017-08-28 11:28:39 - info: [object Object] : Success file.
+2017-08-28 11:28:39 - info: ## Set Source Path ##
+2017-08-28 11:28:39 - info: ########## START PARSE ##########
+2017-08-28 11:28:39 - info: normal field / name = action , value = MODIFIED
+2017-08-28 11:28:39 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 11:28:39 - info: normal field / name = fullpath , value = C:\B\A_PPT\#3\aaa.txt
+2017-08-28 11:28:39 - info: normal field / name = oldFullpath , value = 
+2017-08-28 11:28:39 - info: ------HANDLE ERR------
+2017-08-28 11:28:39 - info: [object Object] : Success file.
+2017-08-28 11:28:41 - info: ## Set Source Path ##
+2017-08-28 11:28:41 - info: ########## START PARSE ##########
+2017-08-28 11:28:41 - info: normal field / name = action , value = MODIFIED
+2017-08-28 11:28:41 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 11:28:41 - info: normal field / name = fullpath , value = C:\B\A_PPT\#3\aaa.txt
+2017-08-28 11:28:41 - info: normal field / name = oldFullpath , value = 
+2017-08-28 11:28:41 - info: ------HANDLE ERR------
+2017-08-28 11:28:41 - info: [object Object] : Success file.
+2017-08-28 11:28:41 - info: ## Set Source Path ##
+2017-08-28 11:28:41 - info: ########## START PARSE ##########
+2017-08-28 11:28:41 - info: normal field / name = action , value = MODIFIED
+2017-08-28 11:28:41 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 11:28:41 - info: normal field / name = fullpath , value = C:\B\A_PPT\#3\aaa.txt
+2017-08-28 11:28:41 - info: normal field / name = oldFullpath , value = 
+2017-08-28 11:28:41 - info: ------HANDLE ERR------
+2017-08-28 11:28:41 - info: [object Object] : Success file.
+2017-08-28 11:28:44 - info: ## Set Source Path ##
+2017-08-28 11:28:44 - info: ########## START PARSE ##########
+2017-08-28 11:28:44 - info: normal field / name = action , value = MODIFIED
+2017-08-28 11:28:44 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 11:28:44 - info: normal field / name = fullpath , value = C:\B\A_PPT\#3\aaa.txt
+2017-08-28 11:28:44 - info: normal field / name = oldFullpath , value = 
+2017-08-28 11:28:44 - info: ------HANDLE ERR------
+2017-08-28 11:28:44 - info: [object Object] : Success file.
+2017-08-28 11:28:44 - info: ## Set Source Path ##
+2017-08-28 11:28:44 - info: ########## START PARSE ##########
+2017-08-28 11:28:44 - info: normal field / name = action , value = MODIFIED
+2017-08-28 11:28:44 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 11:28:44 - info: normal field / name = fullpath , value = C:\B\A_PPT\#3\aaa.txt
+2017-08-28 11:28:44 - info: normal field / name = oldFullpath , value = 
+2017-08-28 11:28:44 - info: ------HANDLE ERR------
+2017-08-28 11:28:44 - info: [object Object] : Success file.
+2017-08-28 11:28:50 - info: ## Set Source Path ##
+2017-08-28 11:28:50 - info: ########## START PARSE ##########
+2017-08-28 11:28:50 - info: normal field / name = action , value = CUT
+2017-08-28 11:28:50 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 11:28:50 - info: normal field / name = fullpath , value = C:\B\A_PPT\#3\aaa.txt
+2017-08-28 11:28:50 - info: normal field / name = oldFullpath , value = C:\B\A_PPT\#3\aaa.txt
+2017-08-28 11:28:50 - info: ------HANDLE ERR------
+2017-08-28 11:28:50 - info: CUT : Success file.
+2017-08-28 11:28:50 - info: ## Set Source Path ##
+2017-08-28 11:28:50 - info: ########## START PARSE ##########
+2017-08-28 11:28:50 - info: normal field / name = action , value = MODIFIED
+2017-08-28 11:28:50 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 11:28:50 - info: normal field / name = fullpath , value = C:\B\A_PPT\#3\aaa.txt
+2017-08-28 11:28:50 - info: normal field / name = oldFullpath , value = 
+2017-08-28 11:28:50 - info: ------HANDLE ERR------
+2017-08-28 11:28:50 - info: [object Object] : Success file.
+2017-08-28 11:29:18 - info: ## Set Source Path ##
+2017-08-28 11:29:18 - info: ########## START PARSE ##########
+2017-08-28 11:29:18 - info: normal field / name = action , value = ADDED
+2017-08-28 11:29:18 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 11:29:18 - info: normal field / name = fullpath , value = C:\B\A_PPT\#3\aaa.txt
+2017-08-28 11:29:18 - info: normal field / name = oldFullpath , value = 
+2017-08-28 11:29:18 - info: ------HANDLE ERR------
+2017-08-28 11:29:18 - info: ADDED : Success file.
+2017-08-28 11:29:18 - info: ## Set Source Path ##
+2017-08-28 11:29:18 - info: ########## START PARSE ##########
+2017-08-28 11:29:18 - info: normal field / name = action , value = MODIFIED
+2017-08-28 11:29:18 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 11:29:18 - info: normal field / name = fullpath , value = C:\B\A_PPT\#3\aaa.txt
+2017-08-28 11:29:18 - info: normal field / name = oldFullpath , value = 
+2017-08-28 11:29:18 - info: ------HANDLE ERR------
+2017-08-28 11:29:18 - info: [object Object] : Success file.
+2017-08-28 11:29:29 - info: ## Set Source Path ##
+2017-08-28 11:29:29 - info: ########## START PARSE ##########
+2017-08-28 11:29:29 - info: normal field / name = action , value = CUT
+2017-08-28 11:29:29 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 11:29:29 - info: normal field / name = fullpath , value = C:\B\A_PPT\#3\aaa.txt
+2017-08-28 11:29:29 - info: normal field / name = oldFullpath , value = C:\B\A_PPT\#3\aaa.txt
+2017-08-28 11:29:29 - info: ------HANDLE ERR------
+2017-08-28 11:29:29 - info: CUT : Success file.
+2017-08-28 11:29:29 - info: ## Set Source Path ##
+2017-08-28 11:29:29 - info: ########## START PARSE ##########
+2017-08-28 11:29:29 - info: normal field / name = action , value = MODIFIED
+2017-08-28 11:29:29 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 11:29:29 - info: normal field / name = fullpath , value = C:\B\A_PPT\#3\aaa.txt
+2017-08-28 11:29:29 - info: normal field / name = oldFullpath , value = 
+2017-08-28 11:29:29 - info: ------HANDLE ERR------
+2017-08-28 11:29:29 - info: [object Object] : Success file.
+2017-08-28 11:29:35 - info: ## Set Source Path ##
+2017-08-28 11:29:35 - info: ########## START PARSE ##########
+2017-08-28 11:29:35 - info: normal field / name = action , value = CUT
+2017-08-28 11:29:35 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 11:29:35 - info: normal field / name = fullpath , value = C:\B\A_PPT\#3\aaa.txt
+2017-08-28 11:29:35 - info: normal field / name = oldFullpath , value = C:\B\A_PPT\#3\aaa.txt
+2017-08-28 11:29:35 - info: ------HANDLE ERR------
+2017-08-28 11:29:35 - info: CUT : Success file.
+2017-08-28 11:29:35 - info: ## Set Source Path ##
+2017-08-28 11:29:35 - info: ########## START PARSE ##########
+2017-08-28 11:29:35 - info: normal field / name = action , value = MODIFIED
+2017-08-28 11:29:35 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 11:29:35 - info: normal field / name = fullpath , value = C:\B\A_PPT\#3\aaa.txt
+2017-08-28 11:29:35 - info: normal field / name = oldFullpath , value = 
+2017-08-28 11:29:35 - info: ------HANDLE ERR------
+2017-08-28 11:29:35 - info: [object Object] : Success file.
+2017-08-28 11:29:43 - info: ## Set Source Path ##
+2017-08-28 11:29:43 - info: ########## START PARSE ##########
+2017-08-28 11:29:43 - info: normal field / name = action , value = CUT
+2017-08-28 11:29:43 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 11:29:43 - info: normal field / name = fullpath , value = C:\B\A_PPT\#3\aaa.txt
+2017-08-28 11:29:43 - info: normal field / name = oldFullpath , value = C:\B\A_PPT\#3\aaa.txt
+2017-08-28 11:29:43 - info: ------HANDLE ERR------
+2017-08-28 11:29:43 - info: CUT : Success file.
+2017-08-28 11:29:43 - info: ## Set Source Path ##
+2017-08-28 11:29:43 - info: ########## START PARSE ##########
+2017-08-28 11:29:43 - info: normal field / name = action , value = MODIFIED
+2017-08-28 11:29:43 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 11:29:43 - info: normal field / name = fullpath , value = C:\B\A_PPT\#3\aaa.txt
+2017-08-28 11:29:43 - info: normal field / name = oldFullpath , value = 
+2017-08-28 11:29:43 - info: ------HANDLE ERR------
+2017-08-28 11:29:43 - info: [object Object] : Success file.
+2017-08-28 11:30:01 - info: ## Set Source Path ##
+2017-08-28 11:30:01 - info: ########## START PARSE ##########
+2017-08-28 11:30:01 - info: normal field / name = action , value = ADDED
+2017-08-28 11:30:01 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 11:30:01 - info: normal field / name = fullpath , value = C:\B\A_PPT\#3\aaa.txt
+2017-08-28 11:30:01 - info: normal field / name = oldFullpath , value = 
+2017-08-28 11:30:01 - info: ------HANDLE ERR------
+2017-08-28 11:30:01 - info: ADDED : Success file.
+2017-08-28 11:30:01 - info: ## Set Source Path ##
+2017-08-28 11:30:01 - info: ########## START PARSE ##########
+2017-08-28 11:30:01 - info: normal field / name = action , value = MODIFIED
+2017-08-28 11:30:01 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 11:30:01 - info: normal field / name = fullpath , value = C:\B\A_PPT\#3\aaa.txt
+2017-08-28 11:30:01 - info: normal field / name = oldFullpath , value = 
+2017-08-28 11:30:01 - info: ------HANDLE ERR------
+2017-08-28 11:30:01 - info: [object Object] : Success file.
+2017-08-28 11:30:08 - info: ## Set Source Path ##
+2017-08-28 11:30:08 - info: ########## START PARSE ##########
+2017-08-28 11:30:08 - info: normal field / name = action , value = CUT
+2017-08-28 11:30:08 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 11:30:08 - info: normal field / name = fullpath , value = C:\B\A_PPT\#3\aaa.txt
+2017-08-28 11:30:08 - info: normal field / name = oldFullpath , value = C:\B\A_PPT\#3\aaa.txt
+2017-08-28 11:30:08 - info: ------HANDLE ERR------
+2017-08-28 11:30:08 - info: CUT : Success file.
+2017-08-28 11:30:08 - info: ## Set Source Path ##
+2017-08-28 11:30:08 - info: ########## START PARSE ##########
+2017-08-28 11:30:08 - info: normal field / name = action , value = MODIFIED
+2017-08-28 11:30:08 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 11:30:08 - info: normal field / name = fullpath , value = C:\B\A_PPT\#3\aaa.txt
+2017-08-28 11:30:08 - info: normal field / name = oldFullpath , value = 
+2017-08-28 11:30:08 - info: ------HANDLE ERR------
+2017-08-28 11:30:08 - info: [object Object] : Success file.
+2017-08-28 11:31:24 - info: ## Set Source Path ##
+2017-08-28 11:31:24 - info: ########## START PARSE ##########
+2017-08-28 11:31:24 - info: normal field / name = action , value = OVERWRITE
+2017-08-28 11:31:24 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 11:31:24 - info: normal field / name = fullpath , value = C:\B\A_PPT\#3\aaa.txt
+2017-08-28 11:31:24 - info: normal field / name = oldFullpath , value = C:\B\A_PPT\aaa.txt
+2017-08-28 11:31:24 - info: ##OVERWRITE##
+2017-08-28 11:31:54 - info: ## Set Source Path ##
+2017-08-28 11:31:54 - info: ########## START PARSE ##########
+2017-08-28 11:31:54 - info: normal field / name = action , value = ADDED
+2017-08-28 11:31:54 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 11:31:54 - info: normal field / name = fullpath , value = C:\B\A_PPT\#3\aaa.txt
+2017-08-28 11:31:54 - info: normal field / name = oldFullpath , value = 
+2017-08-28 11:31:54 - info: ------HANDLE ERR------
+2017-08-28 11:31:54 - info: ADDED : Success file.
+2017-08-28 11:31:54 - info: ## Set Source Path ##
+2017-08-28 11:31:54 - info: ########## START PARSE ##########
+2017-08-28 11:31:54 - info: normal field / name = action , value = CUT
+2017-08-28 11:31:54 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 11:31:54 - info: normal field / name = fullpath , value = C:\B\A_PPT\aaa.txt
+2017-08-28 11:31:54 - info: normal field / name = oldFullpath , value = C:\B\A_PPT\#3\aaa.txt
+2017-08-28 11:31:54 - info: ------HANDLE ERR------
+2017-08-28 11:31:54 - info: CUT : Success file.
+2017-08-28 11:32:18 - info: ## Set Source Path ##
+2017-08-28 11:32:18 - info: ########## START PARSE ##########
+2017-08-28 11:32:18 - info: normal field / name = action , value = MODIFIED
+2017-08-28 11:32:18 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 11:32:18 - info: normal field / name = fullpath , value = C:\B\A_PPT\#3\aaa.txt
+2017-08-28 11:32:18 - info: normal field / name = oldFullpath , value = 
+2017-08-28 11:32:18 - info: ------HANDLE ERR------
+2017-08-28 11:32:18 - info: [object Object] : Success file.
+2017-08-28 11:32:18 - info: ## Set Source Path ##
+2017-08-28 11:32:18 - info: ########## START PARSE ##########
+2017-08-28 11:32:18 - info: normal field / name = action , value = MODIFIED
+2017-08-28 11:32:18 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 11:32:18 - info: normal field / name = fullpath , value = C:\B\A_PPT\#3\aaa.txt
+2017-08-28 11:32:18 - info: normal field / name = oldFullpath , value = 
+2017-08-28 11:32:18 - info: ------HANDLE ERR------
+2017-08-28 11:32:18 - info: [object Object] : Success file.
+2017-08-28 11:32:25 - info: ## Set Source Path ##
+2017-08-28 11:32:25 - info: ########## START PARSE ##########
+2017-08-28 11:32:25 - info: normal field / name = action , value = CUT
+2017-08-28 11:32:25 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 11:32:25 - info: normal field / name = fullpath , value = C:\B\A_PPT\#3\aaa.txt
+2017-08-28 11:32:25 - info: normal field / name = oldFullpath , value = C:\B\A_PPT\#3\aaa.txt
+2017-08-28 11:32:25 - info: ------HANDLE ERR------
+2017-08-28 11:32:25 - info: CUT : Success file.
+2017-08-28 11:32:25 - info: ## Set Source Path ##
+2017-08-28 11:32:25 - info: ########## START PARSE ##########
+2017-08-28 11:32:25 - info: normal field / name = action , value = MODIFIED
+2017-08-28 11:32:25 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 11:32:25 - info: normal field / name = fullpath , value = C:\B\A_PPT\#3\aaa.txt
+2017-08-28 11:32:25 - info: normal field / name = oldFullpath , value = 
+2017-08-28 11:32:25 - info: ------HANDLE ERR------
+2017-08-28 11:32:25 - info: [object Object] : Success file.
+2017-08-28 11:34:29 - info: ## Set Source Path ##
+2017-08-28 11:34:29 - info: ########## START PARSE ##########
+2017-08-28 11:34:29 - info: normal field / name = action , value = ADDED
+2017-08-28 11:34:29 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 11:34:29 - info: normal field / name = fullpath , value = C:\B\A_PPT\#3\aaa.txt
+2017-08-28 11:34:29 - info: normal field / name = oldFullpath , value = 
+2017-08-28 11:34:29 - info: ------HANDLE ERR------
+2017-08-28 11:34:29 - info: ADDED : Success file.
+2017-08-28 11:34:29 - info: ## Set Source Path ##
+2017-08-28 11:34:29 - info: ########## START PARSE ##########
+2017-08-28 11:34:29 - info: normal field / name = action , value = MODIFIED
+2017-08-28 11:34:29 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 11:34:29 - info: normal field / name = fullpath , value = C:\B\A_PPT\#3\aaa.txt
+2017-08-28 11:34:29 - info: normal field / name = oldFullpath , value = 
+2017-08-28 11:34:29 - info: ------HANDLE ERR------
+2017-08-28 11:34:29 - info: [object Object] : Success file.
+2017-08-28 11:34:31 - info: ## Set Source Path ##
+2017-08-28 11:34:31 - info: ########## START PARSE ##########
+2017-08-28 11:34:31 - info: normal field / name = action , value = CUT
+2017-08-28 11:34:31 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 11:34:31 - info: normal field / name = fullpath , value = C:\B\A_PPT\#3\aaa.txt
+2017-08-28 11:34:31 - info: normal field / name = oldFullpath , value = C:\B\A_PPT\#3\aaa.txt
+2017-08-28 11:34:31 - info: ------HANDLE ERR------
+2017-08-28 11:34:31 - info: CUT : Success file.
+2017-08-28 11:34:31 - info: ## Set Source Path ##
+2017-08-28 11:34:31 - info: ########## START PARSE ##########
+2017-08-28 11:34:31 - info: normal field / name = action , value = MODIFIED
+2017-08-28 11:34:31 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 11:34:31 - info: normal field / name = fullpath , value = C:\B\A_PPT\#3\aaa.txt
+2017-08-28 11:34:31 - info: normal field / name = oldFullpath , value = 
+2017-08-28 11:34:31 - info: ------HANDLE ERR------
+2017-08-28 11:34:31 - info: [object Object] : Success file.
+2017-08-28 11:34:39 - info: ## Set Source Path ##
+2017-08-28 11:34:39 - info: ########## START PARSE ##########
+2017-08-28 11:34:39 - info: normal field / name = action , value = CUT
+2017-08-28 11:34:39 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 11:34:39 - info: normal field / name = fullpath , value = C:\B\A_PPT\aaa__\aaa.txt
+2017-08-28 11:34:39 - info: normal field / name = oldFullpath , value = C:\B\A_PPT\#3\aaa.txt
+2017-08-28 11:34:39 - info: ------HANDLE ERR------
+2017-08-28 11:34:39 - info: CUT : Success file.
+2017-08-28 11:34:39 - info: ## Set Source Path ##
+2017-08-28 11:34:39 - info: ########## START PARSE ##########
+2017-08-28 11:34:39 - info: normal field / name = action , value = MODIFIED
+2017-08-28 11:34:39 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 11:34:39 - info: normal field / name = fullpath , value = C:\B\A_PPT\aaa__\aaa.txt
+2017-08-28 11:34:39 - info: normal field / name = oldFullpath , value = 
+2017-08-28 11:34:39 - info: ------HANDLE ERR------
+2017-08-28 11:34:39 - info: [object Object] : Success file.
+2017-08-28 14:30:41 - info: ## Set Source Path ##
+2017-08-28 14:30:41 - info: ########## START PARSE ##########
+2017-08-28 14:30:41 - info: normal field / name = action , value = ADDED
+2017-08-28 14:30:41 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 14:30:41 - info: normal field / name = fullpath , value = C:\Users\Dave\Documents\CoolMessenger Files\Received Files\DO_고객사_보안솔루션현황조사서_V1.0.xlsx
+2017-08-28 14:30:41 - info: normal field / name = oldFullpath , value = 
+2017-08-28 14:30:41 - info: ------HANDLE ERR------
+2017-08-28 14:30:41 - info: ADDED : Success file.
+2017-08-28 14:30:43 - info: ## Set Source Path ##
+2017-08-28 14:30:43 - info: ########## START PARSE ##########
+2017-08-28 14:30:43 - info: normal field / name = action , value = MODIFIED
+2017-08-28 14:30:43 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 14:30:43 - info: normal field / name = fullpath , value = C:\Users\Dave\Documents\CoolMessenger Files\Received Files\DO_고객사_보안솔루션현황조사서_V1.0.xlsx
+2017-08-28 14:30:43 - info: normal field / name = oldFullpath , value = 
+2017-08-28 14:30:43 - info: ------HANDLE ERR------
+2017-08-28 14:30:43 - info: [object Object] : Success file.
+2017-08-28 14:55:29 - info: ## Set Source Path ##
+2017-08-28 14:55:29 - info: ########## START PARSE ##########
+2017-08-28 14:55:29 - info: normal field / name = action , value = RENAME
+2017-08-28 14:55:29 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 14:55:29 - info: normal field / name = fullpath , value = C:\B\A_PPT\aaa__1\00.1복사본 JS-OH개발팀-주간보고-2017년2분기-황병대 (2).xlsx
+2017-08-28 14:55:29 - info: normal field / name = oldFullpath , value = C:\B\A_PPT\aaa__\00.1복사본 JS-OH개발팀-주간보고-2017년2분기-황병대 (2).xlsx
+2017-08-28 14:55:59 - info: ## Set Source Path ##
+2017-08-28 14:55:59 - info: ########## START PARSE ##########
+2017-08-28 14:55:59 - info: normal field / name = action , value = RENAME
+2017-08-28 14:55:59 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 14:55:59 - info: normal field / name = fullpath , value = C:\B\A_PPT\aaa__1\00.1복사본 JS-OH개발팀-주간보고-2017년2분기-황병대.xlsx
+2017-08-28 14:55:59 - info: normal field / name = oldFullpath , value = C:\B\A_PPT\aaa__\00.1복사본 JS-OH개발팀-주간보고-2017년2분기-황병대.xlsx
+2017-08-28 14:56:29 - info: ## Set Source Path ##
+2017-08-28 14:56:29 - info: ########## START PARSE ##########
+2017-08-28 14:56:29 - info: normal field / name = action , value = RENAME
+2017-08-28 14:56:29 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 14:56:29 - info: normal field / name = fullpath , value = C:\B\A_PPT\aaa__1\00.RE_JS-OH개발팀-주간보고-2017년2분기-황병대_ - 복사본1.xlsx
+2017-08-28 14:56:29 - info: normal field / name = oldFullpath , value = C:\B\A_PPT\aaa__\00.RE_JS-OH개발팀-주간보고-2017년2분기-황병대_ - 복사본1.xlsx
+2017-08-28 14:56:59 - info: ## Set Source Path ##
+2017-08-28 14:56:59 - info: ########## START PARSE ##########
+2017-08-28 14:56:59 - info: normal field / name = action , value = RENAME
+2017-08-28 14:56:59 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 14:56:59 - info: normal field / name = fullpath , value = C:\B\A_PPT\aaa__1\00.RE_JS-OH개발팀-주간보고-2017년2분기-황병대_ - 복사본11111.xlsx
+2017-08-28 14:56:59 - info: normal field / name = oldFullpath , value = C:\B\A_PPT\aaa__\00.RE_JS-OH개발팀-주간보고-2017년2분기-황병대_ - 복사본11111.xlsx
+2017-08-28 14:57:29 - info: ## Set Source Path ##
+2017-08-28 14:57:29 - info: ########## START PARSE ##########
+2017-08-28 14:57:29 - info: normal field / name = action , value = RENAME
+2017-08-28 14:57:29 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 14:57:29 - info: normal field / name = fullpath , value = C:\B\A_PPT\aaa__1\2016 하반기 신규입사자 소개111_황병대.pptx
+2017-08-28 14:57:29 - info: normal field / name = oldFullpath , value = C:\B\A_PPT\aaa__\2016 하반기 신규입사자 소개111_황병대.pptx
+2017-08-28 14:57:59 - info: ## Set Source Path ##
+2017-08-28 14:57:59 - info: ########## START PARSE ##########
+2017-08-28 14:57:59 - info: normal field / name = action , value = RENAME
+2017-08-28 14:57:59 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 14:57:59 - info: normal field / name = fullpath , value = C:\B\A_PPT\aaa__1\2016 하반기 신규입사자 소개_황병대 (2).pptx
+2017-08-28 14:57:59 - info: normal field / name = oldFullpath , value = C:\B\A_PPT\aaa__\2016 하반기 신규입사자 소개_황병대 (2).pptx
+2017-08-28 14:58:29 - info: ## Set Source Path ##
+2017-08-28 14:58:29 - info: ########## START PARSE ##########
+2017-08-28 14:58:29 - info: normal field / name = action , value = RENAME
+2017-08-28 14:58:29 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 14:58:29 - info: normal field / name = fullpath , value = C:\B\A_PPT\aaa__1\2016 하반기 신규입사자 소개_황병대.pptx
+2017-08-28 14:58:29 - info: normal field / name = oldFullpath , value = C:\B\A_PPT\aaa__\2016 하반기 신규입사자 소개_황병대.pptx
+2017-08-28 14:58:59 - info: ## Set Source Path ##
+2017-08-28 14:58:59 - info: ########## START PARSE ##########
+2017-08-28 14:58:59 - info: normal field / name = action , value = RENAME
+2017-08-28 14:58:59 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 14:58:59 - info: normal field / name = fullpath , value = C:\B\A_PPT\aaa__1\DocuX API Guide_v0.00.03.3.docx
+2017-08-28 14:58:59 - info: normal field / name = oldFullpath , value = C:\B\A_PPT\aaa__\DocuX API Guide_v0.00.03.3.docx
+2017-08-28 14:59:29 - info: ## Set Source Path ##
+2017-08-28 14:59:29 - info: ########## START PARSE ##########
+2017-08-28 14:59:29 - info: normal field / name = action , value = RENAME
+2017-08-28 14:59:29 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 14:59:29 - info: normal field / name = fullpath , value = C:\B\A_PPT\aaa__1\OtherNameSave.txt
+2017-08-28 14:59:29 - info: normal field / name = oldFullpath , value = C:\B\A_PPT\aaa__\OtherNameSave.txt
+2017-08-28 14:59:59 - info: ## Set Source Path ##
+2017-08-28 14:59:59 - info: ########## START PARSE ##########
+2017-08-28 14:59:59 - info: normal field / name = action , value = RENAME
+2017-08-28 14:59:59 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 14:59:59 - info: normal field / name = fullpath , value = C:\B\A_PPT\aaa__1\OtherNameSave12.txt
+2017-08-28 14:59:59 - info: normal field / name = oldFullpath , value = C:\B\A_PPT\aaa__\OtherNameSave12.txt
+2017-08-28 15:00:29 - info: ## Set Source Path ##
+2017-08-28 15:00:29 - info: ########## START PARSE ##########
+2017-08-28 15:00:29 - info: normal field / name = action , value = RENAME
+2017-08-28 15:00:29 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 15:00:29 - info: normal field / name = fullpath , value = C:\B\A_PPT\aaa__1\aaa.txt
+2017-08-28 15:00:29 - info: normal field / name = oldFullpath , value = C:\B\A_PPT\aaa__\aaa.txt
+2017-08-28 15:00:59 - info: ## Set Source Path ##
+2017-08-28 15:00:59 - info: ########## START PARSE ##########
+2017-08-28 15:00:59 - info: normal field / name = action , value = RENAME
+2017-08-28 15:00:59 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 15:00:59 - info: normal field / name = fullpath , value = C:\B\A_PPT\aaa__1\query1.csv
+2017-08-28 15:00:59 - info: normal field / name = oldFullpath , value = C:\B\A_PPT\aaa__\query1.csv
+2017-08-28 15:04:37 - info: ## Set Source Path ##
+2017-08-28 15:04:37 - info: ########## START PARSE ##########
+2017-08-28 15:04:37 - info: normal field / name = action , value = RENAME
+2017-08-28 15:04:37 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 15:04:37 - info: normal field / name = fullpath , value = C:\B\A_PPT\SAU\2016 하반기 신규입사자 소개_황병대.pptx
+2017-08-28 15:04:37 - info: normal field / name = oldFullpath , value = C:\B\A_PPT\새 폴더\2016 하반기 신규입사자 소개_황병대.pptx
+2017-08-28 15:04:37 - info: Changed old file is : /home/dave/dev/js/DEMORTB/tmp/_sNENyNBqmP9mhcEQfnbu-qZ.pptx
+2017-08-28 15:05:07 - info: ## Set Source Path ##
+2017-08-28 15:05:07 - info: ########## START PARSE ##########
+2017-08-28 15:05:07 - info: normal field / name = action , value = RENAME
+2017-08-28 15:05:07 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 15:05:07 - info: normal field / name = fullpath , value = C:\B\A_PPT\SAU\OtherNameSave1.txt
+2017-08-28 15:05:07 - info: normal field / name = oldFullpath , value = C:\B\A_PPT\새 폴더\OtherNameSave1.txt
+2017-08-28 15:05:37 - info: ## Set Source Path ##
+2017-08-28 15:05:37 - info: ########## START PARSE ##########
+2017-08-28 15:05:37 - info: normal field / name = action , value = RENAME
+2017-08-28 15:05:37 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 15:05:37 - info: normal field / name = fullpath , value = C:\B\A_PPT\SAU\aaa.txt
+2017-08-28 15:05:37 - info: normal field / name = oldFullpath , value = C:\B\A_PPT\새 폴더\aaa.txt
+2017-08-28 15:05:37 - info: Changed old file is : /home/dave/dev/js/DEMORTB/tmp/uNkgKfMeJZ5Y7-WEMOKWEybi.txt
+2017-08-28 15:08:47 - info: ## Set Source Path ##
+2017-08-28 15:08:47 - info: ########## START PARSE ##########
+2017-08-28 15:08:47 - info: normal field / name = action , value = RENAME
+2017-08-28 15:08:47 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 15:08:47 - info: normal field / name = fullpath , value = C:\B\A_PPT\SAU1\2016 하반기 신규입사자 소개_황병대.pptx
+2017-08-28 15:08:47 - info: normal field / name = oldFullpath , value = C:\B\A_PPT\SAU\2016 하반기 신규입사자 소개_황병대.pptx
+2017-08-28 15:08:47 - info: Changed old file is : /home/dave/dev/js/DEMORTB/tmp/FpvgfS8nhZmxQd4bY9cPoGzy.pptx
+2017-08-28 15:09:17 - info: ## Set Source Path ##
+2017-08-28 15:09:17 - info: ########## START PARSE ##########
+2017-08-28 15:09:17 - info: normal field / name = action , value = RENAME
+2017-08-28 15:09:17 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 15:09:17 - info: normal field / name = fullpath , value = C:\B\A_PPT\SAU1\OtherNameSave1.txt
+2017-08-28 15:09:17 - info: normal field / name = oldFullpath , value = C:\B\A_PPT\SAU\OtherNameSave1.txt
+2017-08-28 15:09:47 - info: ## Set Source Path ##
+2017-08-28 15:09:47 - info: ########## START PARSE ##########
+2017-08-28 15:09:47 - info: normal field / name = action , value = RENAME
+2017-08-28 15:09:47 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 15:09:47 - info: normal field / name = fullpath , value = C:\B\A_PPT\SAU1\aaa.txt
+2017-08-28 15:09:47 - info: normal field / name = oldFullpath , value = C:\B\A_PPT\SAU\aaa.txt
+2017-08-28 15:09:47 - info: Changed old file is : /home/dave/dev/js/DEMORTB/tmp/ZazcC3s-4Bw3-S3AUX3ubSXZ.txt
+2017-08-28 15:11:48 - info: ## Set Source Path ##
+2017-08-28 15:11:48 - info: ########## START PARSE ##########
+2017-08-28 15:11:48 - info: normal field / name = action , value = RENAME
+2017-08-28 15:11:48 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 15:11:48 - info: normal field / name = fullpath , value = C:\B\A_PPT\SAU2\2016 하반기 신규입사자 소개_황병대.pptx
+2017-08-28 15:11:48 - info: normal field / name = oldFullpath , value = C:\B\A_PPT\SAU1\2016 하반기 신규입사자 소개_황병대.pptx
+2017-08-28 15:11:48 - info: Changed old file is : /home/dave/dev/js/DEMORTB/tmp/keMmdkkxIUCbg1qaN5NHt4dR.pptx
+2017-08-28 15:12:18 - info: ## Set Source Path ##
+2017-08-28 15:12:18 - info: ########## START PARSE ##########
+2017-08-28 15:12:18 - info: normal field / name = action , value = RENAME
+2017-08-28 15:12:18 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 15:12:18 - info: normal field / name = fullpath , value = C:\B\A_PPT\SAU2\OtherNameSave1.txt
+2017-08-28 15:12:18 - info: normal field / name = oldFullpath , value = C:\B\A_PPT\SAU1\OtherNameSave1.txt
+2017-08-28 15:12:48 - info: ## Set Source Path ##
+2017-08-28 15:12:48 - info: ########## START PARSE ##########
+2017-08-28 15:12:48 - info: normal field / name = action , value = RENAME
+2017-08-28 15:12:48 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 15:12:48 - info: normal field / name = fullpath , value = C:\B\A_PPT\SAU2\aaa.txt
+2017-08-28 15:12:48 - info: normal field / name = oldFullpath , value = C:\B\A_PPT\SAU1\aaa.txt
+2017-08-28 15:12:48 - info: Changed old file is : /home/dave/dev/js/DEMORTB/tmp/8kt1qQBjKlfXwJAmU5HLc-we.txt
+2017-08-28 15:31:10 - info: ## Set Source Path ##
+2017-08-28 15:31:10 - info: ########## START PARSE ##########
+2017-08-28 15:31:10 - info: normal field / name = action , value = RENAME
+2017-08-28 15:31:10 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 15:31:10 - info: normal field / name = fullpath , value = C:\B\A_PPT\SAU3\2016 하반기 신규입사자 소개_황병대.pptx
+2017-08-28 15:31:10 - info: normal field / name = oldFullpath , value = C:\B\A_PPT\SAU2\2016 하반기 신규입사자 소개_황병대.pptx
+2017-08-28 15:31:11 - info: Changed old file is : /home/dave/dev/js/DEMORTB/tmp/lFdENcg7es7iiTidMVQOfp92.pptx
+2017-08-28 15:31:40 - info: ## Set Source Path ##
+2017-08-28 15:31:40 - info: ########## START PARSE ##########
+2017-08-28 15:31:40 - info: normal field / name = action , value = RENAME
+2017-08-28 15:31:40 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 15:31:40 - info: normal field / name = fullpath , value = C:\B\A_PPT\SAU3\OtherNameSave1.txt
+2017-08-28 15:31:40 - info: normal field / name = oldFullpath , value = C:\B\A_PPT\SAU2\OtherNameSave1.txt
+2017-08-28 15:32:11 - info: ## Set Source Path ##
+2017-08-28 15:32:11 - info: ########## START PARSE ##########
+2017-08-28 15:32:11 - info: normal field / name = action , value = RENAME
+2017-08-28 15:32:11 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 15:32:11 - info: normal field / name = fullpath , value = C:\B\A_PPT\SAU3\aaa.txt
+2017-08-28 15:32:11 - info: normal field / name = oldFullpath , value = C:\B\A_PPT\SAU2\aaa.txt
+2017-08-28 15:32:11 - info: Changed old file is : /home/dave/dev/js/DEMORTB/tmp/J3B7-Eu0Wk10XyzEq6ERgTDt.txt
+2017-08-28 15:33:02 - info: ## Set Source Path ##
+2017-08-28 15:33:02 - info: ########## START PARSE ##########
+2017-08-28 15:33:02 - info: normal field / name = action , value = RENAME
+2017-08-28 15:33:02 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 15:33:02 - info: normal field / name = fullpath , value = C:\B\A_PPT\SAU4\2016 하반기 신규입사자 소개_황병대.pptx
+2017-08-28 15:33:02 - info: normal field / name = oldFullpath , value = C:\B\A_PPT\SAU3\2016 하반기 신규입사자 소개_황병대.pptx
+2017-08-28 15:33:02 - info: Changed old file is : /home/dave/dev/js/DEMORTB/tmp/pbFWkW2FdqK9tbLKnHZFydtx.pptx
+2017-08-28 15:33:32 - info: ## Set Source Path ##
+2017-08-28 15:33:32 - info: ########## START PARSE ##########
+2017-08-28 15:33:32 - info: normal field / name = action , value = RENAME
+2017-08-28 15:33:32 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 15:33:32 - info: normal field / name = fullpath , value = C:\B\A_PPT\SAU4\OtherNameSave1.txt
+2017-08-28 15:33:32 - info: normal field / name = oldFullpath , value = C:\B\A_PPT\SAU3\OtherNameSave1.txt
+2017-08-28 15:34:02 - info: ## Set Source Path ##
+2017-08-28 15:34:02 - info: ########## START PARSE ##########
+2017-08-28 15:34:02 - info: normal field / name = action , value = RENAME
+2017-08-28 15:34:02 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 15:34:02 - info: normal field / name = fullpath , value = C:\B\A_PPT\SAU4\aaa.txt
+2017-08-28 15:34:02 - info: normal field / name = oldFullpath , value = C:\B\A_PPT\SAU3\aaa.txt
+2017-08-28 15:34:02 - info: Changed old file is : /home/dave/dev/js/DEMORTB/tmp/D3I7QGN1HBmw2bxZBq4UTk0c.txt
+2017-08-28 16:28:35 - info: ## Set Source Path ##
+2017-08-28 16:28:35 - info: ########## START PARSE ##########
+2017-08-28 16:28:35 - info: normal field / name = action , value = RENAME
+2017-08-28 16:28:35 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 16:28:35 - info: normal field / name = fullpath , value = C:\B\A_PPT\SAU5\2016 하반기 신규입사자 소개_황병대.pptx
+2017-08-28 16:28:35 - info: normal field / name = oldFullpath , value = C:\B\A_PPT\SAU4\2016 하반기 신규입사자 소개_황병대.pptx
+2017-08-28 16:28:35 - info: Changed old file is : /home/dave/dev/js/DEMORTB/tmp/LvS8KxZm6DPmmxJozwqmZ22u.pptx
+2017-08-28 16:28:36 - info: ## Set Source Path ##
+2017-08-28 16:28:36 - info: ########## START PARSE ##########
+2017-08-28 16:28:36 - info: normal field / name = action , value = RENAME
+2017-08-28 16:28:36 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 16:28:36 - info: normal field / name = fullpath , value = C:\B\A_PPT\SAU5\OtherNameSave1.txt
+2017-08-28 16:28:36 - info: normal field / name = oldFullpath , value = C:\B\A_PPT\SAU4\OtherNameSave1.txt
+2017-08-28 16:28:36 - info: ## Set Source Path ##
+2017-08-28 16:28:36 - info: ########## START PARSE ##########
+2017-08-28 16:33:10 - info: ## Set Source Path ##
+2017-08-28 16:33:10 - info: ########## START PARSE ##########
+2017-08-28 16:33:10 - info: normal field / name = action , value = RENAME
+2017-08-28 16:33:10 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 16:33:10 - info: normal field / name = fullpath , value = C:\B\A_PPT\SAU6\2016 하반기 신규입사자 소개_황병대.pptx
+2017-08-28 16:33:10 - info: normal field / name = oldFullpath , value = C:\B\A_PPT\SAU5\2016 하반기 신규입사자 소개_황병대.pptx
+2017-08-28 16:33:10 - info: Changed old file is : /home/dave/dev/js/DEMORTB/tmp/wA5GSiqedxH3dO25yR4T-qU5.pptx
+2017-08-28 16:33:10 - info: ## Set Source Path ##
+2017-08-28 16:33:10 - info: ########## START PARSE ##########
+2017-08-28 16:33:10 - info: normal field / name = action , value = RENAME
+2017-08-28 16:33:10 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 16:33:10 - info: normal field / name = fullpath , value = C:\B\A_PPT\SAU6\OtherNameSave1.txt
+2017-08-28 16:33:10 - info: normal field / name = oldFullpath , value = C:\B\A_PPT\SAU5\OtherNameSave1.txt
+2017-08-28 16:33:10 - info: Changed old file is : /home/dave/dev/js/DEMORTB/tmp/0VJ5Zk-zwieYkvi7v89_aWRx.txt
+2017-08-28 16:33:10 - info: ## Set Source Path ##
+2017-08-28 16:33:10 - info: ########## START PARSE ##########
+2017-08-28 16:33:10 - info: normal field / name = action , value = RENAME
+2017-08-28 16:33:10 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 16:33:10 - info: normal field / name = fullpath , value = C:\B\A_PPT\SAU6\aaa.txt
+2017-08-28 16:33:10 - info: normal field / name = oldFullpath , value = C:\B\A_PPT\SAU5\aaa.txt
+2017-08-28 16:33:10 - info: Changed old file is : /home/dave/dev/js/DEMORTB/tmp/_PWXuvSeA1ArYDLki0-yQwDj.txt
+2017-08-28 16:37:01 - info: ## Set Source Path ##
+2017-08-28 16:37:01 - info: ########## START PARSE ##########
+2017-08-28 16:37:01 - info: normal field / name = action , value = RENAME
+2017-08-28 16:37:01 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 16:37:01 - info: normal field / name = fullpath , value = C:\B\A_PPT\SAU7\2016 하반기 신규입사자 소개_황병대.pptx
+2017-08-28 16:37:01 - info: normal field / name = oldFullpath , value = C:\B\A_PPT\SAU6\2016 하반기 신규입사자 소개_황병대.pptx
+2017-08-28 16:37:01 - info: Changed old file is : /home/dave/dev/js/DEMORTB/tmp/V5IUCXVyKqCwk7tCCrzTtm73.pptx
+2017-08-28 16:37:01 - info: ## Set Source Path ##
+2017-08-28 16:37:01 - info: ########## START PARSE ##########
+2017-08-28 16:37:01 - info: normal field / name = action , value = RENAME
+2017-08-28 16:37:01 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 16:37:01 - info: normal field / name = fullpath , value = C:\B\A_PPT\SAU7\OtherNameSave1.txt
+2017-08-28 16:37:01 - info: normal field / name = oldFullpath , value = C:\B\A_PPT\SAU6\OtherNameSave1.txt
+2017-08-28 16:37:01 - info: Changed old file is : /home/dave/dev/js/DEMORTB/tmp/3jJSJTm8a1djevFtG4C8Rgrc.txt
+2017-08-28 16:37:01 - info: ## Set Source Path ##
+2017-08-28 16:37:01 - info: ########## START PARSE ##########
+2017-08-28 16:37:01 - info: normal field / name = action , value = RENAME
+2017-08-28 16:37:01 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 16:37:01 - info: normal field / name = fullpath , value = C:\B\A_PPT\SAU7\aaa.txt
+2017-08-28 16:37:01 - info: normal field / name = oldFullpath , value = C:\B\A_PPT\SAU6\aaa.txt
+2017-08-28 16:37:01 - info: Changed old file is : /home/dave/dev/js/DEMORTB/tmp/q2aX21P_rpZjm7joEkla3p0f.txt
+2017-08-28 16:37:59 - info: ## Set Source Path ##
+2017-08-28 16:37:59 - info: ########## START PARSE ##########
+2017-08-28 16:37:59 - info: normal field / name = action , value = RENAME
+2017-08-28 16:37:59 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 16:37:59 - info: normal field / name = fullpath , value = C:\B\A_PPT\SAU8\2016 하반기 신규입사자 소개_황병대.pptx
+2017-08-28 16:37:59 - info: normal field / name = oldFullpath , value = C:\B\A_PPT\SAU7\2016 하반기 신규입사자 소개_황병대.pptx
+2017-08-28 16:37:59 - info: Changed old file is : /home/dave/dev/js/DEMORTB/tmp/R-Be4WV7pIh-vYpDiRByOHLJ.pptx
+2017-08-28 16:38:29 - info: ## Set Source Path ##
+2017-08-28 16:38:29 - info: ########## START PARSE ##########
+2017-08-28 16:38:29 - info: normal field / name = action , value = RENAME
+2017-08-28 16:38:29 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 16:38:29 - info: normal field / name = fullpath , value = C:\B\A_PPT\SAU8\OtherNameSave1.txt
+2017-08-28 16:38:29 - info: normal field / name = oldFullpath , value = C:\B\A_PPT\SAU7\OtherNameSave1.txt
+2017-08-28 16:38:29 - info: Changed old file is : /home/dave/dev/js/DEMORTB/tmp/F-AL8HYE6bq0dPKrX6gWF-g7.txt
+2017-08-28 16:38:59 - info: ## Set Source Path ##
+2017-08-28 16:38:59 - info: ########## START PARSE ##########
+2017-08-28 16:38:59 - info: normal field / name = action , value = RENAME
+2017-08-28 16:38:59 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 16:38:59 - info: normal field / name = fullpath , value = C:\B\A_PPT\SAU8\aaa.txt
+2017-08-28 16:38:59 - info: normal field / name = oldFullpath , value = C:\B\A_PPT\SAU7\aaa.txt
+2017-08-28 16:38:59 - info: Changed old file is : /home/dave/dev/js/DEMORTB/tmp/kR4fp_9nTon_NiKp_sHVy2QI.txt
+2017-08-28 16:42:08 - info: ## Set Source Path ##
+2017-08-28 16:42:08 - info: ########## START PARSE ##########
+2017-08-28 16:42:08 - info: normal field / name = action , value = RENAME
+2017-08-28 16:42:08 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 16:42:08 - info: normal field / name = fullpath , value = C:\B\A_PPT\SAU9\2016 하반기 신규입사자 소개_황병대.pptx
+2017-08-28 16:42:08 - info: normal field / name = oldFullpath , value = C:\B\A_PPT\SAU8\2016 하반기 신규입사자 소개_황병대.pptx
+2017-08-28 16:42:08 - info: Changed old file is : /home/dave/dev/js/DEMORTB/tmp/UBFLi3qhNTB5doqZ48O9n0Xd.pptx
+2017-08-28 16:42:08 - info: ## Set Source Path ##
+2017-08-28 16:42:08 - info: ########## START PARSE ##########
+2017-08-28 16:42:08 - info: normal field / name = action , value = RENAME
+2017-08-28 16:42:08 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 16:42:08 - info: normal field / name = fullpath , value = C:\B\A_PPT\SAU9\OtherNameSave1.txt
+2017-08-28 16:42:08 - info: normal field / name = oldFullpath , value = C:\B\A_PPT\SAU8\OtherNameSave1.txt
+2017-08-28 16:42:08 - info: Changed old file is : /home/dave/dev/js/DEMORTB/tmp/DtKXJWvkTfOVRLgWznC9bmU_.txt
+2017-08-28 16:42:08 - info: ## Set Source Path ##
+2017-08-28 16:42:08 - info: ########## START PARSE ##########
+2017-08-28 16:42:08 - info: normal field / name = action , value = RENAME
+2017-08-28 16:42:08 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 16:42:08 - info: normal field / name = fullpath , value = C:\B\A_PPT\SAU9\aaa.txt
+2017-08-28 16:42:08 - info: normal field / name = oldFullpath , value = C:\B\A_PPT\SAU8\aaa.txt
+2017-08-28 16:42:08 - info: Changed old file is : /home/dave/dev/js/DEMORTB/tmp/2Idi1dc4x5D8SIEMAMT6vOBl.txt
+2017-08-28 16:44:51 - info: ## Set Source Path ##
+2017-08-28 16:44:51 - info: ########## START PARSE ##########
+2017-08-28 16:44:51 - info: normal field / name = action , value = RENAME
+2017-08-28 16:44:51 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 16:44:51 - info: normal field / name = fullpath , value = C:\B\A_PPT\SAU10\2016 하반기 신규입사자 소개_황병대.pptx
+2017-08-28 16:44:51 - info: normal field / name = oldFullpath , value = C:\B\A_PPT\SAU9\2016 하반기 신규입사자 소개_황병대.pptx
+2017-08-28 16:44:51 - info: Changed old file is : /home/dave/dev/js/DEMORTB/tmp/__0XjAy1KMgua6jEPVJ8vL6J.pptx
+2017-08-28 16:44:51 - info: ## Set Source Path ##
+2017-08-28 16:44:51 - info: ########## START PARSE ##########
+2017-08-28 16:44:51 - info: normal field / name = action , value = RENAME
+2017-08-28 16:44:51 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 16:44:51 - info: normal field / name = fullpath , value = C:\B\A_PPT\SAU10\OtherNameSave1.txt
+2017-08-28 16:44:51 - info: normal field / name = oldFullpath , value = C:\B\A_PPT\SAU9\OtherNameSave1.txt
+2017-08-28 16:44:51 - info: Changed old file is : /home/dave/dev/js/DEMORTB/tmp/yI1tRlwBBcej3EG8rQXODLNG.txt
+2017-08-28 16:44:51 - info: ## Set Source Path ##
+2017-08-28 16:44:51 - info: ########## START PARSE ##########
+2017-08-28 16:44:51 - info: normal field / name = action , value = RENAME
+2017-08-28 16:44:51 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 16:44:51 - info: normal field / name = fullpath , value = C:\B\A_PPT\SAU10\aaa.txt
+2017-08-28 16:44:51 - info: normal field / name = oldFullpath , value = C:\B\A_PPT\SAU9\aaa.txt
+2017-08-28 16:44:51 - info: Changed old file is : /home/dave/dev/js/DEMORTB/tmp/5uRWHehh_77aZCX2kmXAsad4.txt
+2017-08-28 16:45:26 - info: ## Set Source Path ##
+2017-08-28 16:45:26 - info: ########## START PARSE ##########
+2017-08-28 16:45:26 - info: normal field / name = action , value = RENAME
+2017-08-28 16:45:26 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 16:45:26 - info: normal field / name = fullpath , value = C:\B\A_PPT\SAU11\2016 하반기 신규입사자 소개_황병대.pptx
+2017-08-28 16:45:26 - info: normal field / name = oldFullpath , value = C:\B\A_PPT\SAU10\2016 하반기 신규입사자 소개_황병대.pptx
+2017-08-28 16:45:26 - info: Changed old file is : /home/dave/dev/js/DEMORTB/tmp/GlXL2RJzAoRLmxr7L5hBiaSe.pptx
+2017-08-28 16:45:26 - info: ## Set Source Path ##
+2017-08-28 16:45:26 - info: ########## START PARSE ##########
+2017-08-28 16:45:26 - info: normal field / name = action , value = RENAME
+2017-08-28 16:45:26 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 16:45:26 - info: normal field / name = fullpath , value = C:\B\A_PPT\SAU11\OtherNameSave1.txt
+2017-08-28 16:45:26 - info: normal field / name = oldFullpath , value = C:\B\A_PPT\SAU10\OtherNameSave1.txt
+2017-08-28 16:45:26 - info: Changed old file is : /home/dave/dev/js/DEMORTB/tmp/FF5BxVWbDPnos6V0CNWxVGMz.txt
+2017-08-28 16:45:26 - info: ## Set Source Path ##
+2017-08-28 16:45:26 - info: ########## START PARSE ##########
+2017-08-28 16:45:26 - info: normal field / name = action , value = RENAME
+2017-08-28 16:45:26 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 16:45:26 - info: normal field / name = fullpath , value = C:\B\A_PPT\SAU11\aaa.txt
+2017-08-28 16:45:26 - info: normal field / name = oldFullpath , value = C:\B\A_PPT\SAU10\aaa.txt
+2017-08-28 16:45:26 - info: Changed old file is : /home/dave/dev/js/DEMORTB/tmp/vywgORfCIwwaimrSArAJ9cBP.txt
+2017-08-28 16:45:48 - info: ## Set Source Path ##
+2017-08-28 16:45:48 - info: ########## START PARSE ##########
+2017-08-28 16:45:48 - info: normal field / name = action , value = RENAME
+2017-08-28 16:45:48 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 16:45:48 - info: normal field / name = fullpath , value = C:\B\A_PPT\SAU12\2016 하반기 신규입사자 소개_황병대.pptx
+2017-08-28 16:45:48 - info: normal field / name = oldFullpath , value = C:\B\A_PPT\SAU11\2016 하반기 신규입사자 소개_황병대.pptx
+2017-08-28 16:45:48 - info: Changed old file is : /home/dave/dev/js/DEMORTB/tmp/snOUgEd4tbp05ljxb3Wuizow.pptx
+2017-08-28 16:45:48 - info: ## Set Source Path ##
+2017-08-28 16:45:48 - info: ########## START PARSE ##########
+2017-08-28 16:45:48 - info: normal field / name = action , value = RENAME
+2017-08-28 16:45:48 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 16:45:48 - info: normal field / name = fullpath , value = C:\B\A_PPT\SAU12\OtherNameSave1.txt
+2017-08-28 16:45:48 - info: normal field / name = oldFullpath , value = C:\B\A_PPT\SAU11\OtherNameSave1.txt
+2017-08-28 16:45:48 - info: Changed old file is : /home/dave/dev/js/DEMORTB/tmp/022Rr39B5NCA3HZctFLNraRp.txt
+2017-08-28 16:45:48 - info: ## Set Source Path ##
+2017-08-28 16:45:48 - info: ########## START PARSE ##########
+2017-08-28 16:45:48 - info: normal field / name = action , value = RENAME
+2017-08-28 16:45:48 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 16:45:48 - info: normal field / name = fullpath , value = C:\B\A_PPT\SAU12\aaa.txt
+2017-08-28 16:45:48 - info: normal field / name = oldFullpath , value = C:\B\A_PPT\SAU11\aaa.txt
+2017-08-28 16:45:48 - info: Changed old file is : /home/dave/dev/js/DEMORTB/tmp/UXkO12Pw20a489ebq_j2zd4R.txt
+2017-08-28 16:48:01 - info: ## Set Source Path ##
+2017-08-28 16:48:01 - info: ########## START PARSE ##########
+2017-08-28 16:48:01 - info: normal field / name = action , value = RENAME
+2017-08-28 16:48:01 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 16:48:01 - info: normal field / name = fullpath , value = C:\B\A_PPT\SAU13\2016 하반기 신규입사자 소개_황병대.pptx
+2017-08-28 16:48:01 - info: normal field / name = oldFullpath , value = C:\B\A_PPT\SAU12\2016 하반기 신규입사자 소개_황병대.pptx
+2017-08-28 16:48:01 - info: Changed old file is : /home/dave/dev/js/DEMORTB/tmp/cfIRMhU9jfkeKiaivd-94gHr.pptx
+2017-08-28 16:48:01 - info: ## Set Source Path ##
+2017-08-28 16:48:01 - info: ########## START PARSE ##########
+2017-08-28 16:48:01 - info: normal field / name = action , value = RENAME
+2017-08-28 16:48:01 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 16:48:01 - info: normal field / name = fullpath , value = C:\B\A_PPT\SAU13\OtherNameSave1.txt
+2017-08-28 16:48:01 - info: normal field / name = oldFullpath , value = C:\B\A_PPT\SAU12\OtherNameSave1.txt
+2017-08-28 16:48:01 - info: Changed old file is : /home/dave/dev/js/DEMORTB/tmp/UnUaFB4Gv-gdaoRwnRjiqOJP.txt
+2017-08-28 16:48:01 - info: ## Set Source Path ##
+2017-08-28 16:48:01 - info: ########## START PARSE ##########
+2017-08-28 16:48:01 - info: normal field / name = action , value = RENAME
+2017-08-28 16:48:01 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 16:48:01 - info: normal field / name = fullpath , value = C:\B\A_PPT\SAU13\aaa.txt
+2017-08-28 16:48:01 - info: normal field / name = oldFullpath , value = C:\B\A_PPT\SAU12\aaa.txt
+2017-08-28 16:48:01 - info: Changed old file is : /home/dave/dev/js/DEMORTB/tmp/Y8PcYOecFGfcrXxlv5z-yAfm.txt
+2017-08-28 16:49:22 - info: ## Set Source Path ##
+2017-08-28 16:49:22 - info: ########## START PARSE ##########
+2017-08-28 16:49:23 - info: normal field / name = action , value = RENAME
+2017-08-28 16:49:23 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 16:49:23 - info: normal field / name = fullpath , value = C:\B\A_PPT\SAU14\2016 하반기 신규입사자 소개_황병대.pptx
+2017-08-28 16:49:23 - info: normal field / name = oldFullpath , value = C:\B\A_PPT\SAU13\2016 하반기 신규입사자 소개_황병대.pptx
+2017-08-28 16:49:23 - info: Changed old file is : /home/dave/dev/js/DEMORTB/tmp/Kjd8dJTIarbfR6xxGIHw-37w.pptx
+2017-08-28 16:49:23 - info: ## Set Source Path ##
+2017-08-28 16:49:23 - info: ########## START PARSE ##########
+2017-08-28 16:49:23 - info: normal field / name = action , value = RENAME
+2017-08-28 16:49:23 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 16:49:23 - info: normal field / name = fullpath , value = C:\B\A_PPT\SAU14\OtherNameSave1.txt
+2017-08-28 16:49:23 - info: normal field / name = oldFullpath , value = C:\B\A_PPT\SAU13\OtherNameSave1.txt
+2017-08-28 16:49:23 - info: Changed old file is : /home/dave/dev/js/DEMORTB/tmp/rgzFkuolHXWHINR8mn-xit5Y.txt
+2017-08-28 16:49:23 - info: ## Set Source Path ##
+2017-08-28 16:49:23 - info: ########## START PARSE ##########
+2017-08-28 16:49:23 - info: normal field / name = action , value = RENAME
+2017-08-28 16:49:23 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 16:49:23 - info: normal field / name = fullpath , value = C:\B\A_PPT\SAU14\aaa.txt
+2017-08-28 16:49:23 - info: normal field / name = oldFullpath , value = C:\B\A_PPT\SAU13\aaa.txt
+2017-08-28 16:49:23 - info: Changed old file is : /home/dave/dev/js/DEMORTB/tmp/TX61_0pE8rwUM3Am3mFSGDgA.txt
+2017-08-28 16:49:44 - info: ## Set Source Path ##
+2017-08-28 16:49:44 - info: ########## START PARSE ##########
+2017-08-28 16:49:44 - info: normal field / name = action , value = RENAME
+2017-08-28 16:49:44 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 16:49:44 - info: normal field / name = fullpath , value = C:\B\A_PPT\SAU1\2016 하반기 신규입사자 소개_황병대.pptx
+2017-08-28 16:49:44 - info: normal field / name = oldFullpath , value = C:\B\A_PPT\SAU14\2016 하반기 신규입사자 소개_황병대.pptx
+2017-08-28 16:49:44 - info: ## Set Source Path ##
+2017-08-28 16:49:44 - info: ########## START PARSE ##########
+2017-08-28 16:49:44 - info: normal field / name = action , value = RENAME
+2017-08-28 16:49:44 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 16:49:44 - info: normal field / name = fullpath , value = C:\B\A_PPT\SAU1\OtherNameSave1.txt
+2017-08-28 16:49:44 - info: normal field / name = oldFullpath , value = C:\B\A_PPT\SAU14\OtherNameSave1.txt
+2017-08-28 16:49:44 - info: ## Set Source Path ##
+2017-08-28 16:49:44 - info: ########## START PARSE ##########
+2017-08-28 16:49:44 - info: normal field / name = action , value = RENAME
+2017-08-28 16:49:44 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 16:49:44 - info: normal field / name = fullpath , value = C:\B\A_PPT\SAU1\aaa.txt
+2017-08-28 16:49:44 - info: normal field / name = oldFullpath , value = C:\B\A_PPT\SAU14\aaa.txt
+2017-08-28 16:50:10 - info: ## Set Source Path ##
+2017-08-28 16:50:10 - info: ########## START PARSE ##########
+2017-08-28 16:50:10 - info: normal field / name = action , value = RENAME
+2017-08-28 16:50:10 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 16:50:10 - info: normal field / name = fullpath , value = C:\B\A_PPT\SAU2\2016 하반기 신규입사자 소개_황병대.pptx
+2017-08-28 16:50:10 - info: normal field / name = oldFullpath , value = C:\B\A_PPT\SAU1\2016 하반기 신규입사자 소개_황병대.pptx
+2017-08-28 16:50:10 - info: ## Set Source Path ##
+2017-08-28 16:50:10 - info: ########## START PARSE ##########
+2017-08-28 16:50:10 - info: normal field / name = action , value = RENAME
+2017-08-28 16:50:10 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 16:50:10 - info: normal field / name = fullpath , value = C:\B\A_PPT\SAU2\OtherNameSave1.txt
+2017-08-28 16:50:10 - info: normal field / name = oldFullpath , value = C:\B\A_PPT\SAU1\OtherNameSave1.txt
+2017-08-28 16:50:10 - info: ## Set Source Path ##
+2017-08-28 16:50:10 - info: ########## START PARSE ##########
+2017-08-28 16:50:10 - info: normal field / name = action , value = RENAME
+2017-08-28 16:50:10 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 16:50:10 - info: normal field / name = fullpath , value = C:\B\A_PPT\SAU2\aaa.txt
+2017-08-28 16:50:10 - info: normal field / name = oldFullpath , value = C:\B\A_PPT\SAU1\aaa.txt
+2017-08-28 17:08:20 - info: ## Set Source Path ##
+2017-08-28 17:08:20 - info: ########## START PARSE ##########
+2017-08-28 17:08:20 - info: normal field / name = action , value = RENAME
+2017-08-28 17:08:20 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 17:08:20 - info: normal field / name = fullpath , value = C:\B\A_PPT\SAU3\2016 하반기 신규입사자 소개_황병대.pptx
+2017-08-28 17:08:20 - info: normal field / name = oldFullpath , value = C:\B\A_PPT\SAU2\2016 하반기 신규입사자 소개_황병대.pptx
+2017-08-28 17:08:20 - info: ## Set Source Path ##
+2017-08-28 17:08:20 - info: ########## START PARSE ##########
+2017-08-28 17:08:20 - info: normal field / name = action , value = RENAME
+2017-08-28 17:08:20 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 17:08:20 - info: normal field / name = fullpath , value = C:\B\A_PPT\SAU3\OtherNameSave1.txt
+2017-08-28 17:08:20 - info: normal field / name = oldFullpath , value = C:\B\A_PPT\SAU2\OtherNameSave1.txt
+2017-08-28 17:08:20 - info: ## Set Source Path ##
+2017-08-28 17:08:20 - info: ########## START PARSE ##########
+2017-08-28 17:08:20 - info: normal field / name = action , value = RENAME
+2017-08-28 17:08:20 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 17:08:20 - info: normal field / name = fullpath , value = C:\B\A_PPT\SAU3\aaa.txt
+2017-08-28 17:08:20 - info: normal field / name = oldFullpath , value = C:\B\A_PPT\SAU2\aaa.txt
+2017-08-28 17:09:42 - info: ## Set Source Path ##
+2017-08-28 17:09:42 - info: ########## START PARSE ##########
+2017-08-28 17:09:42 - info: normal field / name = action , value = RENAME
+2017-08-28 17:09:42 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 17:09:42 - info: normal field / name = fullpath , value = C:\B\A_PPT\SAU4\2016 하반기 신규입사자 소개_황병대.pptx
+2017-08-28 17:09:42 - info: normal field / name = oldFullpath , value = C:\B\A_PPT\SAU3\2016 하반기 신규입사자 소개_황병대.pptx
+2017-08-28 17:09:42 - info: ## Set Source Path ##
+2017-08-28 17:09:42 - info: ########## START PARSE ##########
+2017-08-28 17:09:42 - info: normal field / name = action , value = RENAME
+2017-08-28 17:09:42 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 17:09:42 - info: normal field / name = fullpath , value = C:\B\A_PPT\SAU4\OtherNameSave1.txt
+2017-08-28 17:09:42 - info: normal field / name = oldFullpath , value = C:\B\A_PPT\SAU3\OtherNameSave1.txt
+2017-08-28 17:09:42 - info: ## Set Source Path ##
+2017-08-28 17:09:42 - info: ########## START PARSE ##########
+2017-08-28 17:09:42 - info: normal field / name = action , value = RENAME
+2017-08-28 17:09:42 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 17:09:42 - info: normal field / name = fullpath , value = C:\B\A_PPT\SAU4\aaa.txt
+2017-08-28 17:09:42 - info: normal field / name = oldFullpath , value = C:\B\A_PPT\SAU3\aaa.txt
+2017-08-28 17:09:55 - info: ## Set Source Path ##
+2017-08-28 17:09:55 - info: ########## START PARSE ##########
+2017-08-28 17:09:55 - info: normal field / name = action , value = RENAME
+2017-08-28 17:09:55 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 17:09:55 - info: normal field / name = fullpath , value = C:\B\A_PPT\SAU5\2016 하반기 신규입사자 소개_황병대.pptx
+2017-08-28 17:09:55 - info: normal field / name = oldFullpath , value = C:\B\A_PPT\SAU4\2016 하반기 신규입사자 소개_황병대.pptx
+2017-08-28 17:09:55 - info: ## Set Source Path ##
+2017-08-28 17:09:55 - info: ########## START PARSE ##########
+2017-08-28 17:09:55 - info: normal field / name = action , value = RENAME
+2017-08-28 17:09:55 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 17:09:55 - info: normal field / name = fullpath , value = C:\B\A_PPT\SAU5\OtherNameSave1.txt
+2017-08-28 17:09:55 - info: normal field / name = oldFullpath , value = C:\B\A_PPT\SAU4\OtherNameSave1.txt
+2017-08-28 17:09:55 - info: ## Set Source Path ##
+2017-08-28 17:09:55 - info: ########## START PARSE ##########
+2017-08-28 17:09:55 - info: normal field / name = action , value = RENAME
+2017-08-28 17:09:55 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 17:09:55 - info: normal field / name = fullpath , value = C:\B\A_PPT\SAU5\aaa.txt
+2017-08-28 17:09:55 - info: normal field / name = oldFullpath , value = C:\B\A_PPT\SAU4\aaa.txt
+2017-08-28 17:12:02 - info: ## Set Source Path ##
+2017-08-28 17:12:02 - info: ########## START PARSE ##########
+2017-08-28 17:12:02 - info: normal field / name = action , value = RENAME
+2017-08-28 17:12:02 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 17:12:02 - info: normal field / name = fullpath , value = C:\B\A_PPT\SAU6\2016 하반기 신규입사자 소개_황병대.pptx
+2017-08-28 17:12:02 - info: normal field / name = oldFullpath , value = C:\B\A_PPT\SAU5\2016 하반기 신규입사자 소개_황병대.pptx
+2017-08-28 17:12:02 - info: ## Set Source Path ##
+2017-08-28 17:12:02 - info: ########## START PARSE ##########
+2017-08-28 17:12:02 - info: normal field / name = action , value = RENAME
+2017-08-28 17:12:02 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 17:12:02 - info: normal field / name = fullpath , value = C:\B\A_PPT\SAU6\OtherNameSave1.txt
+2017-08-28 17:12:02 - info: normal field / name = oldFullpath , value = C:\B\A_PPT\SAU5\OtherNameSave1.txt
+2017-08-28 17:12:02 - info: ## Set Source Path ##
+2017-08-28 17:12:02 - info: ########## START PARSE ##########
+2017-08-28 17:12:02 - info: normal field / name = action , value = RENAME
+2017-08-28 17:12:02 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 17:12:02 - info: normal field / name = fullpath , value = C:\B\A_PPT\SAU6\aaa.txt
+2017-08-28 17:12:02 - info: normal field / name = oldFullpath , value = C:\B\A_PPT\SAU5\aaa.txt
+2017-08-28 17:13:37 - info: ## Set Source Path ##
+2017-08-28 17:13:37 - info: ########## START PARSE ##########
+2017-08-28 17:13:37 - info: normal field / name = action , value = RENAME
+2017-08-28 17:13:37 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 17:13:37 - info: normal field / name = fullpath , value = C:\B\A_PPT\SAU7\2016 하반기 신규입사자 소개_황병대.pptx
+2017-08-28 17:13:37 - info: normal field / name = oldFullpath , value = C:\B\A_PPT\SAU6\2016 하반기 신규입사자 소개_황병대.pptx
+2017-08-28 17:13:37 - info: ## Set Source Path ##
+2017-08-28 17:13:37 - info: ########## START PARSE ##########
+2017-08-28 17:13:37 - info: normal field / name = action , value = RENAME
+2017-08-28 17:13:37 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 17:13:37 - info: normal field / name = fullpath , value = C:\B\A_PPT\SAU7\OtherNameSave1.txt
+2017-08-28 17:13:37 - info: normal field / name = oldFullpath , value = C:\B\A_PPT\SAU6\OtherNameSave1.txt
+2017-08-28 17:13:37 - info: ## Set Source Path ##
+2017-08-28 17:13:37 - info: ########## START PARSE ##########
+2017-08-28 17:13:37 - info: normal field / name = action , value = RENAME
+2017-08-28 17:13:37 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 17:13:37 - info: normal field / name = fullpath , value = C:\B\A_PPT\SAU7\aaa.txt
+2017-08-28 17:13:37 - info: normal field / name = oldFullpath , value = C:\B\A_PPT\SAU6\aaa.txt
+2017-08-28 17:14:42 - info: ## Set Source Path ##
+2017-08-28 17:14:42 - info: ########## START PARSE ##########
+2017-08-28 17:14:42 - info: normal field / name = action , value = RENAME
+2017-08-28 17:14:42 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 17:14:42 - info: normal field / name = fullpath , value = C:\B\A_PPT\SAU8\2016 하반기 신규입사자 소개_황병대.pptx
+2017-08-28 17:14:42 - info: normal field / name = oldFullpath , value = C:\B\A_PPT\SAU7\2016 하반기 신규입사자 소개_황병대.pptx
+2017-08-28 17:14:42 - info: ## Set Source Path ##
+2017-08-28 17:14:42 - info: ########## START PARSE ##########
+2017-08-28 17:14:42 - info: normal field / name = action , value = RENAME
+2017-08-28 17:14:42 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 17:14:42 - info: normal field / name = fullpath , value = C:\B\A_PPT\SAU8\OtherNameSave1.txt
+2017-08-28 17:14:42 - info: normal field / name = oldFullpath , value = C:\B\A_PPT\SAU7\OtherNameSave1.txt
+2017-08-28 17:14:42 - info: ## Set Source Path ##
+2017-08-28 17:14:42 - info: ########## START PARSE ##########
+2017-08-28 17:14:42 - info: normal field / name = action , value = RENAME
+2017-08-28 17:14:42 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 17:14:42 - info: normal field / name = fullpath , value = C:\B\A_PPT\SAU8\aaa.txt
+2017-08-28 17:14:42 - info: normal field / name = oldFullpath , value = C:\B\A_PPT\SAU7\aaa.txt
+2017-08-28 17:15:36 - info: ## Set Source Path ##
+2017-08-28 17:15:36 - info: ########## START PARSE ##########
+2017-08-28 17:15:36 - info: normal field / name = action , value = RENAME
+2017-08-28 17:15:36 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 17:15:36 - info: normal field / name = fullpath , value = C:\B\A_PPT\SAU9\2016 하반기 신규입사자 소개_황병대.pptx
+2017-08-28 17:15:36 - info: normal field / name = oldFullpath , value = C:\B\A_PPT\SAU8\2016 하반기 신규입사자 소개_황병대.pptx
+2017-08-28 17:15:36 - info: ## Set Source Path ##
+2017-08-28 17:15:36 - info: ########## START PARSE ##########
+2017-08-28 17:15:36 - info: normal field / name = action , value = RENAME
+2017-08-28 17:15:36 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 17:15:36 - info: normal field / name = fullpath , value = C:\B\A_PPT\SAU9\OtherNameSave1.txt
+2017-08-28 17:15:36 - info: normal field / name = oldFullpath , value = C:\B\A_PPT\SAU8\OtherNameSave1.txt
+2017-08-28 17:15:37 - info: ## Set Source Path ##
+2017-08-28 17:15:37 - info: ########## START PARSE ##########
+2017-08-28 17:15:37 - info: normal field / name = action , value = RENAME
+2017-08-28 17:15:37 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 17:15:37 - info: normal field / name = fullpath , value = C:\B\A_PPT\SAU9\aaa.txt
+2017-08-28 17:15:37 - info: normal field / name = oldFullpath , value = C:\B\A_PPT\SAU8\aaa.txt
+2017-08-28 17:17:05 - info: ## Set Source Path ##
+2017-08-28 17:17:05 - info: ########## START PARSE ##########
+2017-08-28 17:17:05 - info: normal field / name = action , value = RENAME
+2017-08-28 17:17:05 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 17:17:05 - info: normal field / name = fullpath , value = C:\B\A_PPT\SAU10\2016 하반기 신규입사자 소개_황병대.pptx
+2017-08-28 17:17:05 - info: normal field / name = oldFullpath , value = C:\B\A_PPT\SAU9\2016 하반기 신규입사자 소개_황병대.pptx
+2017-08-28 17:17:05 - info: ## Set Source Path ##
+2017-08-28 17:17:05 - info: ########## START PARSE ##########
+2017-08-28 17:17:05 - info: normal field / name = action , value = RENAME
+2017-08-28 17:17:05 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 17:17:05 - info: normal field / name = fullpath , value = C:\B\A_PPT\SAU10\OtherNameSave1.txt
+2017-08-28 17:17:05 - info: normal field / name = oldFullpath , value = C:\B\A_PPT\SAU9\OtherNameSave1.txt
+2017-08-28 17:17:05 - info: ## Set Source Path ##
+2017-08-28 17:17:05 - info: ########## START PARSE ##########
+2017-08-28 17:17:05 - info: normal field / name = action , value = RENAME
+2017-08-28 17:17:05 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 17:17:05 - info: normal field / name = fullpath , value = C:\B\A_PPT\SAU10\aaa.txt
+2017-08-28 17:17:05 - info: normal field / name = oldFullpath , value = C:\B\A_PPT\SAU9\aaa.txt
+2017-08-28 17:24:38 - info: ## Set Source Path ##
+2017-08-28 17:24:38 - info: ########## START PARSE ##########
+2017-08-28 17:24:38 - info: normal field / name = action , value = RENAME
+2017-08-28 17:24:38 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 17:24:38 - info: normal field / name = fullpath , value = C:\B\A_PPT\SAU11\2016 하반기 신규입사자 소개_황병대.pptx
+2017-08-28 17:24:38 - info: normal field / name = oldFullpath , value = C:\B\A_PPT\SAU10\2016 하반기 신규입사자 소개_황병대.pptx
+2017-08-28 17:24:38 - info: ## Set Source Path ##
+2017-08-28 17:24:38 - info: ########## START PARSE ##########
+2017-08-28 17:24:38 - info: normal field / name = action , value = RENAME
+2017-08-28 17:24:38 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 17:24:38 - info: normal field / name = fullpath , value = C:\B\A_PPT\SAU11\OtherNameSave1.txt
+2017-08-28 17:24:38 - info: normal field / name = oldFullpath , value = C:\B\A_PPT\SAU10\OtherNameSave1.txt
+2017-08-28 17:24:38 - info: ## Set Source Path ##
+2017-08-28 17:24:38 - info: ########## START PARSE ##########
+2017-08-28 17:24:38 - info: normal field / name = action , value = RENAME
+2017-08-28 17:24:38 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 17:24:38 - info: normal field / name = fullpath , value = C:\B\A_PPT\SAU11\aaa.txt
+2017-08-28 17:24:38 - info: normal field / name = oldFullpath , value = C:\B\A_PPT\SAU10\aaa.txt
+2017-08-28 17:30:11 - info: ## Set Source Path ##
+2017-08-28 17:30:11 - info: ########## START PARSE ##########
+2017-08-28 17:30:11 - info: normal field / name = action , value = RENAME
+2017-08-28 17:30:11 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 17:30:11 - info: normal field / name = fullpath , value = C:\B\A_PPT\SAU12\2016 하반기 신규입사자 소개_황병대.pptx
+2017-08-28 17:30:11 - info: normal field / name = oldFullpath , value = C:\B\A_PPT\SAU11\2016 하반기 신규입사자 소개_황병대.pptx
+2017-08-28 17:30:11 - info: ## Set Source Path ##
+2017-08-28 17:30:11 - info: ########## START PARSE ##########
+2017-08-28 17:30:11 - info: normal field / name = action , value = RENAME
+2017-08-28 17:30:11 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 17:30:11 - info: normal field / name = fullpath , value = C:\B\A_PPT\SAU12\OtherNameSave1.txt
+2017-08-28 17:30:11 - info: normal field / name = oldFullpath , value = C:\B\A_PPT\SAU11\OtherNameSave1.txt
+2017-08-28 17:30:11 - info: ## Set Source Path ##
+2017-08-28 17:30:11 - info: ########## START PARSE ##########
+2017-08-28 17:30:11 - info: normal field / name = action , value = RENAME
+2017-08-28 17:30:11 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 17:30:11 - info: normal field / name = fullpath , value = C:\B\A_PPT\SAU12\aaa.txt
+2017-08-28 17:30:11 - info: normal field / name = oldFullpath , value = C:\B\A_PPT\SAU11\aaa.txt
+2017-08-28 17:30:59 - info: ## Set Source Path ##
+2017-08-28 17:30:59 - info: ########## START PARSE ##########
+2017-08-28 17:30:59 - info: normal field / name = action , value = RENAME
+2017-08-28 17:30:59 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 17:30:59 - info: normal field / name = fullpath , value = C:\B\A_PPT\SAU13\2016 하반기 신규입사자 소개_황병대.pptx
+2017-08-28 17:30:59 - info: normal field / name = oldFullpath , value = C:\B\A_PPT\SAU12\2016 하반기 신규입사자 소개_황병대.pptx
+2017-08-28 17:30:59 - info: ## Set Source Path ##
+2017-08-28 17:30:59 - info: ########## START PARSE ##########
+2017-08-28 17:30:59 - info: normal field / name = action , value = RENAME
+2017-08-28 17:30:59 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 17:30:59 - info: normal field / name = fullpath , value = C:\B\A_PPT\SAU13\OtherNameSave1.txt
+2017-08-28 17:30:59 - info: normal field / name = oldFullpath , value = C:\B\A_PPT\SAU12\OtherNameSave1.txt
+2017-08-28 17:31:00 - info: ## Set Source Path ##
+2017-08-28 17:31:00 - info: ########## START PARSE ##########
+2017-08-28 17:31:00 - info: normal field / name = action , value = RENAME
+2017-08-28 17:31:00 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 17:31:00 - info: normal field / name = fullpath , value = C:\B\A_PPT\SAU13\aaa.txt
+2017-08-28 17:31:00 - info: normal field / name = oldFullpath , value = C:\B\A_PPT\SAU12\aaa.txt
+2017-08-28 17:31:40 - info: ## Set Source Path ##
+2017-08-28 17:31:40 - info: ########## START PARSE ##########
+2017-08-28 17:31:40 - info: normal field / name = action , value = RENAME
+2017-08-28 17:31:40 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 17:31:40 - info: normal field / name = fullpath , value = C:\B\A_PPT\SAU14\2016 하반기 신규입사자 소개_황병대.pptx
+2017-08-28 17:31:40 - info: normal field / name = oldFullpath , value = C:\B\A_PPT\SAU13\2016 하반기 신규입사자 소개_황병대.pptx
+2017-08-28 17:31:40 - info: ## Set Source Path ##
+2017-08-28 17:31:40 - info: ########## START PARSE ##########
+2017-08-28 17:31:41 - info: normal field / name = action , value = RENAME
+2017-08-28 17:31:41 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 17:31:41 - info: normal field / name = fullpath , value = C:\B\A_PPT\SAU14\OtherNameSave1.txt
+2017-08-28 17:31:41 - info: normal field / name = oldFullpath , value = C:\B\A_PPT\SAU13\OtherNameSave1.txt
+2017-08-28 17:31:41 - info: ## Set Source Path ##
+2017-08-28 17:31:41 - info: ########## START PARSE ##########
+2017-08-28 17:31:41 - info: normal field / name = action , value = RENAME
+2017-08-28 17:31:41 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 17:31:41 - info: normal field / name = fullpath , value = C:\B\A_PPT\SAU14\aaa.txt
+2017-08-28 17:31:41 - info: normal field / name = oldFullpath , value = C:\B\A_PPT\SAU13\aaa.txt
+2017-08-28 17:34:31 - info: ## Set Source Path ##
+2017-08-28 17:34:31 - info: ########## START PARSE ##########
+2017-08-28 17:34:31 - info: normal field / name = action , value = RENAME
+2017-08-28 17:34:31 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 17:34:31 - info: normal field / name = fullpath , value = C:\B\A_PPT\SAU15\2016 하반기 신규입사자 소개_황병대.pptx
+2017-08-28 17:34:31 - info: normal field / name = oldFullpath , value = C:\B\A_PPT\SAU14\2016 하반기 신규입사자 소개_황병대.pptx
+2017-08-28 17:34:31 - info: ## Set Source Path ##
+2017-08-28 17:34:31 - info: ########## START PARSE ##########
+2017-08-28 17:34:31 - info: normal field / name = action , value = RENAME
+2017-08-28 17:34:31 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 17:34:31 - info: normal field / name = fullpath , value = C:\B\A_PPT\SAU15\OtherNameSave1.txt
+2017-08-28 17:34:31 - info: normal field / name = oldFullpath , value = C:\B\A_PPT\SAU14\OtherNameSave1.txt
+2017-08-28 17:34:31 - info: ## Set Source Path ##
+2017-08-28 17:34:31 - info: ########## START PARSE ##########
+2017-08-28 17:34:31 - info: normal field / name = action , value = RENAME
+2017-08-28 17:34:31 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 17:34:31 - info: normal field / name = fullpath , value = C:\B\A_PPT\SAU15\aaa.txt
+2017-08-28 17:34:31 - info: normal field / name = oldFullpath , value = C:\B\A_PPT\SAU14\aaa.txt
+2017-08-28 17:35:12 - info: ## Set Source Path ##
+2017-08-28 17:35:12 - info: ########## START PARSE ##########
+2017-08-28 17:35:12 - info: normal field / name = action , value = RENAME
+2017-08-28 17:35:12 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 17:35:12 - info: normal field / name = fullpath , value = C:\B\A_PPT\SAU16\2016 하반기 신규입사자 소개_황병대.pptx
+2017-08-28 17:35:12 - info: normal field / name = oldFullpath , value = C:\B\A_PPT\SAU15\2016 하반기 신규입사자 소개_황병대.pptx
+2017-08-28 17:35:12 - info: ## Set Source Path ##
+2017-08-28 17:35:12 - info: ########## START PARSE ##########
+2017-08-28 17:35:12 - info: normal field / name = action , value = RENAME
+2017-08-28 17:35:12 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 17:35:12 - info: normal field / name = fullpath , value = C:\B\A_PPT\SAU16\OtherNameSave1.txt
+2017-08-28 17:35:12 - info: normal field / name = oldFullpath , value = C:\B\A_PPT\SAU15\OtherNameSave1.txt
+2017-08-28 17:35:12 - info: ## Set Source Path ##
+2017-08-28 17:35:12 - info: ########## START PARSE ##########
+2017-08-28 17:35:12 - info: normal field / name = action , value = RENAME
+2017-08-28 17:35:12 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 17:35:12 - info: normal field / name = fullpath , value = C:\B\A_PPT\SAU16\aaa.txt
+2017-08-28 17:35:12 - info: normal field / name = oldFullpath , value = C:\B\A_PPT\SAU15\aaa.txt
+2017-08-28 17:51:07 - info: ## Set Source Path ##
+2017-08-28 17:51:07 - info: ########## START PARSE ##########
+2017-08-28 17:51:07 - info: normal field / name = action , value = RENAME
+2017-08-28 17:51:07 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 17:51:07 - info: normal field / name = fullpath , value = C:\B\A_PPT\SAU17\2016 하반기 신규입사자 소개_황병대.pptx
+2017-08-28 17:51:07 - info: normal field / name = oldFullpath , value = C:\B\A_PPT\SAU16\2016 하반기 신규입사자 소개_황병대.pptx
+2017-08-28 17:51:07 - info: ## Set Source Path ##
+2017-08-28 17:51:07 - info: ########## START PARSE ##########
+2017-08-28 17:51:07 - info: normal field / name = action , value = RENAME
+2017-08-28 17:51:07 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 17:51:07 - info: normal field / name = fullpath , value = C:\B\A_PPT\SAU17\OtherNameSave1.txt
+2017-08-28 17:51:07 - info: normal field / name = oldFullpath , value = C:\B\A_PPT\SAU16\OtherNameSave1.txt
+2017-08-28 17:51:07 - info: ## Set Source Path ##
+2017-08-28 17:51:07 - info: ########## START PARSE ##########
+2017-08-28 17:51:07 - info: normal field / name = action , value = RENAME
+2017-08-28 17:51:07 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 17:51:07 - info: normal field / name = fullpath , value = C:\B\A_PPT\SAU17\aaa.txt
+2017-08-28 17:51:07 - info: normal field / name = oldFullpath , value = C:\B\A_PPT\SAU16\aaa.txt
+2017-08-28 17:51:41 - info: ## Set Source Path ##
+2017-08-28 17:51:41 - info: ########## START PARSE ##########
+2017-08-28 17:51:41 - info: normal field / name = action , value = RENAME
+2017-08-28 17:51:41 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 17:51:41 - info: normal field / name = fullpath , value = C:\B\A_PPT\SAU18\2016 하반기 신규입사자 소개_황병대.pptx
+2017-08-28 17:51:41 - info: normal field / name = oldFullpath , value = C:\B\A_PPT\SAU17\2016 하반기 신규입사자 소개_황병대.pptx
+2017-08-28 17:51:41 - info: ## Set Source Path ##
+2017-08-28 17:51:41 - info: ########## START PARSE ##########
+2017-08-28 17:51:41 - info: normal field / name = action , value = RENAME
+2017-08-28 17:51:41 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 17:51:41 - info: normal field / name = fullpath , value = C:\B\A_PPT\SAU18\OtherNameSave1.txt
+2017-08-28 17:51:41 - info: normal field / name = oldFullpath , value = C:\B\A_PPT\SAU17\OtherNameSave1.txt
+2017-08-28 17:51:41 - info: ## Set Source Path ##
+2017-08-28 17:51:41 - info: ########## START PARSE ##########
+2017-08-28 17:51:41 - info: normal field / name = action , value = RENAME
+2017-08-28 17:51:41 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 17:51:41 - info: normal field / name = fullpath , value = C:\B\A_PPT\SAU18\aaa.txt
+2017-08-28 17:51:41 - info: normal field / name = oldFullpath , value = C:\B\A_PPT\SAU17\aaa.txt
+2017-08-28 17:58:40 - info: ## Set Source Path ##
+2017-08-28 17:58:40 - info: ########## START PARSE ##########
+2017-08-28 17:58:40 - info: normal field / name = action , value = RENAME
+2017-08-28 17:58:40 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 17:58:40 - info: normal field / name = fullpath , value = C:\B\A_PPT\SAU19\2016 하반기 신규입사자 소개_황병대.pptx
+2017-08-28 17:58:40 - info: normal field / name = oldFullpath , value = C:\B\A_PPT\SAU18\2016 하반기 신규입사자 소개_황병대.pptx
+2017-08-28 17:58:40 - info: ## Set Source Path ##
+2017-08-28 17:58:40 - info: ########## START PARSE ##########
+2017-08-28 17:58:40 - info: normal field / name = action , value = RENAME
+2017-08-28 17:58:40 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 17:58:40 - info: normal field / name = fullpath , value = C:\B\A_PPT\SAU19\OtherNameSave1.txt
+2017-08-28 17:58:40 - info: normal field / name = oldFullpath , value = C:\B\A_PPT\SAU18\OtherNameSave1.txt
+2017-08-28 17:58:40 - info: ## Set Source Path ##
+2017-08-28 17:58:40 - info: ########## START PARSE ##########
+2017-08-28 17:58:40 - info: normal field / name = action , value = RENAME
+2017-08-28 17:58:40 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 17:58:40 - info: normal field / name = fullpath , value = C:\B\A_PPT\SAU19\aaa.txt
+2017-08-28 17:58:40 - info: normal field / name = oldFullpath , value = C:\B\A_PPT\SAU18\aaa.txt
+2017-08-28 17:59:02 - info: ## Set Source Path ##
+2017-08-28 17:59:02 - info: ########## START PARSE ##########
+2017-08-28 17:59:02 - info: normal field / name = action , value = RENAME
+2017-08-28 17:59:02 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 17:59:02 - info: normal field / name = fullpath , value = C:\B\A_PPT\SAU20\2016 하반기 신규입사자 소개_황병대.pptx
+2017-08-28 17:59:02 - info: normal field / name = oldFullpath , value = C:\B\A_PPT\SAU19\2016 하반기 신규입사자 소개_황병대.pptx
+2017-08-28 17:59:02 - info: ## Set Source Path ##
+2017-08-28 17:59:02 - info: ########## START PARSE ##########
+2017-08-28 17:59:02 - info: normal field / name = action , value = RENAME
+2017-08-28 17:59:02 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 17:59:02 - info: normal field / name = fullpath , value = C:\B\A_PPT\SAU20\OtherNameSave1.txt
+2017-08-28 17:59:02 - info: normal field / name = oldFullpath , value = C:\B\A_PPT\SAU19\OtherNameSave1.txt
+2017-08-28 17:59:02 - info: ## Set Source Path ##
+2017-08-28 17:59:02 - info: ########## START PARSE ##########
+2017-08-28 17:59:02 - info: normal field / name = action , value = RENAME
+2017-08-28 17:59:02 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 17:59:02 - info: normal field / name = fullpath , value = C:\B\A_PPT\SAU20\aaa.txt
+2017-08-28 17:59:02 - info: normal field / name = oldFullpath , value = C:\B\A_PPT\SAU19\aaa.txt
+2017-08-28 18:05:45 - info: ## Set Source Path ##
+2017-08-28 18:05:45 - info: ########## START PARSE ##########
+2017-08-28 18:05:45 - info: normal field / name = action , value = RENAME
+2017-08-28 18:05:45 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 18:05:45 - info: normal field / name = fullpath , value = C:\B\A_PPT\SAU22\OtherNameSave1.txt
+2017-08-28 18:05:45 - info: normal field / name = oldFullpath , value = C:\B\A_PPT\SAU20\OtherNameSave1.txt
+2017-08-28 18:05:45 - info: ## Set Source Path ##
+2017-08-28 18:05:45 - info: ########## START PARSE ##########
+2017-08-28 18:05:45 - info: normal field / name = action , value = RENAME
+2017-08-28 18:05:45 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 18:05:45 - info: normal field / name = fullpath , value = C:\B\A_PPT\SAU22\aaa.txt
+2017-08-28 18:05:45 - info: normal field / name = oldFullpath , value = C:\B\A_PPT\SAU20\aaa.txt
+2017-08-28 18:05:49 - info: ## Set Source Path ##
+2017-08-28 18:05:49 - info: ########## START PARSE ##########
+2017-08-28 18:05:49 - info: normal field / name = action , value = RENAME
+2017-08-28 18:05:49 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 18:05:49 - info: normal field / name = fullpath , value = C:\B\A_PPT\SAU23\2016 하반기 신규입사자 소개_황병대.pptx
+2017-08-28 18:05:49 - info: normal field / name = oldFullpath , value = C:\B\A_PPT\SAU22\2016 하반기 신규입사자 소개_황병대.pptx
+2017-08-28 18:05:49 - info: Changed old file is : /home/dave/dev/js/DEMORTB/tmp/Oe4s9rPAApnWB0Yeq4r5WHUU.pptx
+2017-08-28 18:05:49 - info: ## Set Source Path ##
+2017-08-28 18:05:49 - info: ########## START PARSE ##########
+2017-08-28 18:05:49 - info: normal field / name = action , value = RENAME
+2017-08-28 18:05:49 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 18:05:49 - info: normal field / name = fullpath , value = C:\B\A_PPT\SAU23\OtherNameSave1.txt
+2017-08-28 18:05:49 - info: normal field / name = oldFullpath , value = C:\B\A_PPT\SAU22\OtherNameSave1.txt
+2017-08-28 18:05:49 - info: ## Set Source Path ##
+2017-08-28 18:05:49 - info: ########## START PARSE ##########
+2017-08-28 18:05:49 - info: normal field / name = action , value = RENAME
+2017-08-28 18:05:49 - info: normal field / name = hashValue , value = Nothing
+2017-08-28 18:05:49 - info: normal field / name = fullpath , value = C:\B\A_PPT\SAU23\aaa.txt
+2017-08-28 18:05:49 - info: normal field / name = oldFullpath , value = C:\B\A_PPT\SAU22\aaa.txt

@@ -1,0 +1,331 @@
+[14:22:35.864] [ CMainFrame::CloseAllDialog ] Called.
+
+[14:22:35.887] [ COfficeHardVEXApp::ExitInstance ] 
+
+[14:22:39.062]
+
+====================================================================== VEX ======================================================================
+ [ COfficeHardVEXApp::InitInstance ] Mutex Create!
+
+[14:22:39.703]
+************************************************************************************************************************** 
+	 ARCHITECTURE = 32-bit 
+
+	WINDOWS VERSION = Windows 7 [  6 . 1 ]
+ **************************************************************************************************************************
+
+[14:22:39.707][ COfficeHardVEXApp::InitInstance ] Privilege = ADMINISTRATOR [ jaesung.choi ]
+
+[14:22:39.710] [ COfficeHardVEXApp::InitInstance ] File Version = v3.0.3.75
+
+[14:22:39.714][System Process]
+  - System
+  - smss.exe
+  - csrss.exe
+  - wininit.exe
+  - csrss.exe
+  - services.exe
+  - lsass.exe
+  - lsm.exe
+  - svchost.exe
+  - winlogon.exe
+  - svchost.exe
+  - svchost.exe
+  - svchost.exe
+  - svchost.exe
+  - svchost.exe
+  - svchost.exe
+  - svchost.exe
+  - svchost.exe
+  - snac.exe
+  - spoolsv.exe
+  - svchost.exe
+  - I3GMainSvc.exe
+  - armsvc.exe
+  - AGSService.exe
+  - AnySign4PCLauncher.exe
+  - mDNSResponder.exe
+  - ObCrossEXService.exe
+  - svchost.exe
+  - dsNcService.exe
+  - G4CWSLocalServer.exe
+  - IMGSF50Svc.exe
+  - IniClientSvc.exe
+  - innosvc.exe
+  - IPROSetMonitor.exe
+  - KOSSvc.exe
+  - LBAEvent.exe
+  - MaWebDRMSVC.exe
+  - n5agent.exe
+  - NaverAdminAPISvc.exe
+  - svchost.exe
+  - nossvc.exe
+  - npkfxsvc.exe
+  - svchost.exe
+  - ASDSvc.exe
+  - ccSvcHst.exe
+  - SignKoreaWD.exe
+  - svchost.exe
+  - TsService.exe
+  - VPWalletService.exe
+  - wpmsvc.exe
+  - WmiPrvSE.exe
+  - xPrintClient.exe
+  - unsecapp.exe
+  - SearchIndexer.exe
+  - svchost.exe
+  - taskhost.exe
+  - AnySign4PC.exe
+  - IMGSF50Start_x86.exe
+  - nosstarter.npe
+  - dwm.exe
+  - explorer.exe
+  - INISAFECrossWebEXSvc.exe
+  - KOSinj.exe
+  - CrossEXService.exe
+  - MaWebDRMAgent.exe
+  - SKCertService.exe
+  - I3GProc.exe
+  - ccSvcHst.exe
+  - hkcmd.exe
+  - igfxpers.exe
+  - iusb3mon.exe
+  - communicator.exe
+  - concentr.exe
+  - acrotray.exe
+  - veraport.exe
+  - wfcrun32.exe
+  - xWatcher.exe
+  - StSess.exe
+  - keysharpnxbiz.exe
+  - jusched.exe
+  - PAPIHost.exe
+  - Pass.exe
+  - NaverAgent.exe
+  - SMemo.exe
+  - wmpnetwk.exe
+  - UcMapi.exe
+  - jucheck.exe
+  - iexplore.exe
+  - iexplore.exe
+  - OUTLOOK.EXE
+  - DM.exe
+  - Interceptor.exe
+  - explorer.exe
+  - mstsc.exe
+  - chrome.exe
+  - chrome.exe
+  - chrome.exe
+  - chrome.exe
+  - NaverCapture.exe
+  - chrome.exe
+  - INISAFETrayEX.exe
+  - delfino.exe
+  - chrome.exe
+  - chrome.exe
+  - Acrobat.exe
+  - WINWORD.EXE
+  - POWERPNT.EXE
+  - taskhost.exe
+  - n5client.exe
+  - n5swExt2_Ldr.exe
+  - ncwinmgr.exe
+  - iexplore.exe
+  - Honeyview.exe
+  - notepad.exe
+  - chrome.exe
+  - Honeyview.exe
+  - iexplore.exe
+  - iexplore.exe
+  - SearchProtocolHost.exe
+  - chrome.exe
+  - audiodg.exe
+  - taskeng.exe
+  - SearchFilterHost.exe
+  - taskeng.exe
+  - NDR_Logger.exe
+  - OfficeHardVEX.exe
+  - 
+
+[14:22:40.264][ CheckNetworkThread ] START!
+
+[14:22:40.286][ COHDProto::CheckNetwork ] INTERNET_CONNECTION_LAN
+
+[14:22:40.290][ COHDProto::CheckNetwork ] INTERNET_RAS_INSTALLED
+
+[14:22:40.293][ CheckNetworkThread ] NETWORK CONNECTED! 
+
+[14:22:40.297][ CheckNetworkThread ] CheckUpdate TRUE -- Update START! 
+
+[14:22:40.300][ CMainFrame::OnUpdateStart] START!
+
+[14:22:40.304]SERVER ADDR = [ 10.10.220.181 ]	 PORT = [ 8300 ]
+
+[14:22:40.309] ************************************** SOCKET CONNECT! ************************************** 10.10.220.181
+
+[14:22:40.395]    ▶▶▶    SEND [ A2 ] C_DOMAIN_LIST : [ 4132 ]
+
+[14:22:40.400]
+*************************************** [ DOMAIN_LIST 0 ] ***************************************
+- D-IDX = 1
+- D-NAME = KC-VDR
+- D-Addr = https://10.10.220.181
+- MAIN Title = KC-VDR
+- Message Title = KC-VDR
+
+[14:22:40.403]
+*************************************** [ DOMAIN_LIST : OPT ]***************************************
+- CUSTOM FLAG = KIMCHANG
+- VERSION_INFO = 3.0.05-16
+- CONNECT TIMEOUT = 
+- SOCKET TIMEOUT = 
+- RETRY TIMEOUT = 
+- RETRY CNT = 
+- SERVER_IN = 
+- SERVER_OUT = 
+- TITLEBAR_COLOR = 
+- UPDATE_URL = https://10.10.220.181
+- AD_DOMAIN = 
+- INT_PREFIX = 
+- EXT_PREFIX = 
+- UPLOAD LIMIT = 0
+
+[14:22:40.408]
+ [ LOGIN OPTION ] = 1111101000001
+ LOGIN - 도메인 보여주기 = 1
+ LOGIN - 언어선택 보여주기 = 1
+ LOGIN - ID입력 보여주기 = 1
+ LOGIN - PW입력 보여주기 = 1
+ LOGIN - ID저장 보여주기 = 1
+ LOGIN - ID저장 체크하기 = 0
+ LOGIN - 자동로그인 보여주기 = 1
+ LOGIN - 자동로그인 체크하기 = 0
+ LOGIN - AD로그인(1:normal,2:initech,3:Active-X) = 0
+ LOGIN - WEB SSO사용하기 = 0
+ LOGIN - 로그아웃시 프로그램종료하기 = 0
+ LOGIN - 짧은 로그인창 = 0
+ LOGIN - AD로그인 실패시 프로그램종료하기 = 1
+ LOGIN - ID TEXT = 
+ LOGIN - PW TEXT = 
+
+[14:22:40.410]    ◀◀◀    RECEIVE [ 4132 ] Success!
+
+[14:22:40.432][ CMainFrame::OnUpdateStart ] UPDATE URL = https://10.10.220.181
+
+[14:22:40.440][ CMainFrame::ResetUpdateImage] FALSE!
+
+[14:22:40.442][ COHDUpdate::IsUpdate ] START!
+
+[14:22:40.447][ COHDUpdate::HTTPDown ] START!
+
+[14:22:40.450]
+************************************************************************************************************************** 
+	 URL = https://10.10.220.181/control/app/Update.ini.enc 
+
+	DEST DIR = C:\Users\jaesung.choi\Documents\OfficeHDVEX\Update\Update.ini.enc 
+ **************************************************************************************************************************
+
+[14:22:40.456][ COHDUpdate::OpenURLThread ] InternetOpenUrl START 
+
+[14:22:40.852][ COHDUpdate::OpenURLThread ] InternetOpenUrl END  
+
+[14:22:40.859][ COHDUpdate::OpenURLThread ] ERROR!  m_hURL == NULL!  [ 12038 ]
+
+[14:22:40.867][ COHDUpdate::HTTPDown ] HttpQueryInfo FAILED : [ 6 ]
+
+[14:22:40.874]HTTP DOWNLOAD FAILED -->  https://10.10.220.181/control/app/Update.ini.enc [ 6 ]
+
+[14:22:40.881][ COHDUpdate::IsUpdate ] nUpdateModule return : -1 !
+
+[14:22:40.888][ COHDUpdate::HTTPDown ] START!
+
+[14:22:40.894]
+************************************************************************************************************************** 
+	 URL = https://10.10.220.181/control/image/Customize.ini.enc 
+
+	DEST DIR = C:\Users\jaesung.choi\Documents\OfficeHDVEX\Update\Customize.ini.enc 
+ **************************************************************************************************************************
+
+[14:22:40.901][ COHDUpdate::OpenURLThread ] InternetOpenUrl START 
+
+[14:22:40.988][ COHDUpdate::OpenURLThread ] InternetOpenUrl END  
+
+[14:22:40.993][ COHDUpdate::OpenURLThread ] ERROR!  m_hURL == NULL!  [ 12038 ]
+
+[14:22:40.998][ COHDUpdate::HTTPDown ] HttpQueryInfo FAILED : [ 6 ]
+
+[14:22:41.003][ COHDUpdate::IsUpdateImage ] HTTPDown Failed! [ 6 ] 
+
+[14:22:41.009] [ DeleteOldImagesNIcons ] return -1 
+
+[14:22:41.014][ COHDUpdate::IsUpdate ] nUpdateImage return : -1 !
+
+[14:22:41.020][ CMainFrame::ResetUpdateImage] TRUE!
+
+[14:22:41.032]    ▶▶▶    SEND [ A2 ] C_DOMAIN_LIST : [ 4132 ]
+
+[14:22:41.037]
+*************************************** [ DOMAIN_LIST 0 ] ***************************************
+- D-IDX = 1
+- D-NAME = KC-VDR
+- D-Addr = https://10.10.220.181
+- MAIN Title = KC-VDR
+- Message Title = KC-VDR
+
+[14:22:41.043]
+*************************************** [ DOMAIN_LIST : OPT ]***************************************
+- CUSTOM FLAG = KIMCHANG
+- VERSION_INFO = 3.0.05-16
+- CONNECT TIMEOUT = 
+- SOCKET TIMEOUT = 
+- RETRY TIMEOUT = 
+- RETRY CNT = 
+- SERVER_IN = 
+- SERVER_OUT = 
+- TITLEBAR_COLOR = 
+- UPDATE_URL = https://10.10.220.181
+- AD_DOMAIN = 
+- INT_PREFIX = 
+- EXT_PREFIX = 
+- UPLOAD LIMIT = 0
+
+[14:22:41.049]
+ [ LOGIN OPTION ] = 1111101000001
+ LOGIN - 도메인 보여주기 = 1
+ LOGIN - 언어선택 보여주기 = 1
+ LOGIN - ID입력 보여주기 = 1
+ LOGIN - PW입력 보여주기 = 1
+ LOGIN - ID저장 보여주기 = 1
+ LOGIN - ID저장 체크하기 = 0
+ LOGIN - 자동로그인 보여주기 = 1
+ LOGIN - 자동로그인 체크하기 = 0
+ LOGIN - AD로그인(1:normal,2:initech,3:Active-X) = 0
+ LOGIN - WEB SSO사용하기 = 0
+ LOGIN - 로그아웃시 프로그램종료하기 = 0
+ LOGIN - 짧은 로그인창 = 0
+ LOGIN - AD로그인 실패시 프로그램종료하기 = 1
+ LOGIN - ID TEXT = 
+ LOGIN - PW TEXT = 
+
+[14:22:41.056]    ◀◀◀    RECEIVE [ 4132 ] Success!
+
+[14:22:41.063] [ CMainFrame::RunLoginUI ] CUSTOM FLAG = [ KIMCHANG ]
+
+[14:22:41.070]    ▶▶▶    SEND [ A5 ] C_LANG_LIST : [ 4135 ]
+
+[14:22:41.078]    ◀◀◀    RECEIVE [ 4135 ] Success!
+
+[14:22:41.114][ CLoginDlg::OnInitDialog ] [ LOGIN_ID_SAVE_SHOW ] SHOW!
+
+[14:22:41.121][ CLoginDlg::OnInitDialog ] [ LOGIN_ID_SAVE_CHECK ] UNCHECKED!
+
+[14:22:41.129][ CLoginDlg::OnInitDialog ] [ LOGIN_AUTO_LOGIN_SHOW ] SHOW!
+
+[14:22:41.137][ CLoginDlg::OnInitDialog ] [ LOGIN_AUTO_LOGIN_CHECK ] UNCHECKED!
+
+[14:22:41.146][ CLoginDlg::MoveControlPos ] Called.
+
+[14:22:41.190][ CheckNetworkThread ] END!
+
+[14:22:51.075] ************************************** SOCKET DISCONNECT! ************************************** 
+

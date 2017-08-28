@@ -1,0 +1,981 @@
+[15:20:54.066]
+
+====================================================================== VEX ======================================================================
+ [ COfficeHardVEXApp::InitInstance ] Mutex Create!
+
+[15:20:54.602]
+************************************************************************************************************************** 
+	 ARCHITECTURE = 64-bit 
+
+	WINDOWS VERSION = Windows 7 [  6 . 1 ]
+ **************************************************************************************************************************
+
+[15:20:54.616][ COfficeHardVEXApp::InitInstance ] Privilege = ADMINISTRATOR [ Administrator ]
+
+[15:20:54.625] [ COfficeHardVEXApp::InitInstance ] File Version = v3.0.3.74
+
+[15:20:54.632][System Process]
+  - System
+  - smss.exe
+  - csrss.exe
+  - wininit.exe
+  - csrss.exe
+  - services.exe
+  - lsass.exe
+  - lsm.exe
+  - svchost.exe
+  - svchost.exe
+  - svchost.exe
+  - svchost.exe
+  - svchost.exe
+  - svchost.exe
+  - svchost.exe
+  - igfxCUIService.exe
+  - svchost.exe
+  - winlogon.exe
+  - wlanext.exe
+  - conhost.exe
+  - spoolsv.exe
+  - svchost.exe
+  - AnySign4PCLauncher.exe
+  - OfficeClickToRun.exe
+  - svchost.exe
+  - esif_uf.exe
+  - EvtEng.exe
+  - GnStart.exe
+  - ibtsiva.exe
+  - IMGSF50Svc.exe
+  - innosvc7.exe
+  - jsplcmgr_service.exe
+  - jssvcmon.exe
+  - nossvc.exe
+  - NTRTScan.exe
+  - nxTSSvc.exe
+  - RegSrvc.exe
+  - ASDSvc.exe
+  - Goji.exe
+  - svchost.exe
+  - VPWalletService.exe
+  - wpmsvc.exe
+  - ZeroConfigService.exe
+  - TmListen.exe
+  - taskhost.exe
+  - AnySign4PC.exe
+  - esif_assist.exe
+  - dwm.exe
+  - unsecapp.exe
+  - explorer.exe
+  - VPWalletDaemon.exe
+  - conhost.exe
+  - WmiPrvSE.exe
+  - DocuONE.exe
+  - GnAgent.exe
+  - VestCert.exe
+  - rundll32.exe
+  - ETDCtrl.exe
+  - RAVCpl64.exe
+  - StSess.exe
+  - PowerManager.exe
+  - CoolMessenger.exe
+  - BoxBot.exe
+  - CrossEXService.exe
+  - nosstarter.npe
+  - PresentationFontCache.exe
+  - StikyNot.exe
+  - g2brun.exe
+  - ETDCtrlHelper.exe
+  - jsfsflt_service.exe
+  - IMGSF50Start_x64.exe
+  - IMGSF50Start_x86.exe
+  - svchost.exe
+  - DocuONE.exe
+  - SearchIndexer.exe
+  - jsupmon.exe
+  - WUDFHost.exe
+  - jspltmon.exe
+  - jscpmon.exe
+  - igfxEM.exe
+  - igfxHK.exe
+  - GnPlugin.exe
+  - GiljabiStart.exe
+  - devmonsrv.exe
+  - jsflprtmon.exe
+  - iusb3mon.exe
+  - nxTS.exe
+  - HotkeyManager.exe
+  - CNTAoSMgr.exe
+  - conhost.exe
+  - veraport.exe
+  - obexsrv.exe
+  - mediasrv.exe
+  - PccNTMon.exe
+  - jsnetmon.exe
+  - UniCRSLocalServer.exe
+  - svchost.exe
+  - jsnpmon.exe
+  - jscfmrtmon.exe
+  - jscfmmnmon.exe
+  - YCMMirage.exe
+  - Coolendar.exe
+  - YouCamTray.exe
+  - wmpnetwk.exe
+  - StSess32.exe
+  - TmCCSF.exe
+  - MWPGMonitor.exe
+  - jhi_service.exe
+  - LMS.exe
+  - svchost.exe
+  - TMBMSRV.exe
+  - OUTLOOK.EXE
+  - OSPPSVC.EXE
+  - iexplore.exe
+  - iexplore.exe
+  - CompatTelRunner.exe
+  - conhost.exe
+  - CompatTelRunner.exe
+  - EXCEL.EXE
+  - splwow64.exe
+  - iexplore.exe
+  - delfino.exe
+  - MsSpellCheckingFacility.exe
+  - ASPLnchr.exe
+  - MWPGBackAgent.exe
+  - I3GProc.exe
+  - I3GMainSvc.exe
+  - ONENOTE.EXE
+  - iexplore.exe
+  - iexplore.exe
+  - audiodg.exe
+  - subprocess.exe
+  - rssemgr.exe
+  - rsengmgr.exe
+  - rsuimgr.exe
+  - SearchProtocolHost.exe
+  - SearchFilterHost.exe
+  - WmiPrvSE.exe
+  - NDR_Logger.exe
+  - OfficeHardVEX.exe
+  - 
+
+[15:20:55.553][ CheckNetworkThread ] START!
+
+[15:20:55.591][ COHDProto::CheckNetwork ] INTERNET_CONNECTION_LAN
+
+[15:20:55.601][ COHDProto::CheckNetwork ] INTERNET_RAS_INSTALLED
+
+[15:20:55.610][ CheckNetworkThread ] NETWORK CONNECTED! 
+
+[15:20:55.626][ CheckNetworkThread ] CheckUpdate TRUE -- Update START! 
+
+[15:20:55.634][ CMainFrame::OnUpdateStart] START!
+
+[15:20:55.645]SERVER ADDR = [ vex.jiransecurity.com ]	 PORT = [ 8300 ]
+
+[15:20:55.654] ************************************** SOCKET CONNECT! ************************************** vex.jiransecurity.com
+
+[15:20:55.956]    ¢º¢º¢º    SEND [ A2 ] C_DOMAIN_LIST : [ 4132 ]
+
+[15:20:55.964]
+*************************************** [ DOMAIN_LIST 0 ] ***************************************
+- D-IDX = 1
+- D-NAME = Áö¶õÁö±³½ÃÅ¥¸®Æ¼
+- D-Addr = http://vex.jiransecurity.com
+- MAIN Title = VEX SECURITY
+- Message Title = JIRANSECURITY
+
+[15:20:55.985]
+*************************************** [ DOMAIN_LIST 1 ] ***************************************
+- D-IDX = 2
+- D-NAME = VEX QA
+- D-Addr = http://vexqa.jiransecurity.com
+- MAIN Title = OFFICEHARD VEX
+- Message Title = OFFICEHARD VEX
+
+[15:20:55.993]
+*************************************** [ DOMAIN_LIST : OPT ]***************************************
+- CUSTOM FLAG = JS
+- VERSION_INFO = 3.0.05-13
+- CONNECT TIMEOUT = 
+- SOCKET TIMEOUT = 
+- RETRY TIMEOUT = 
+- RETRY CNT = 
+- SERVER_IN = 
+- SERVER_OUT = 
+- LOGIN OPTION = 1111101000001
+- TITLEBAR_COLOR = 
+- UPDATE_URL = http://vex.jiransecurity.com
+- AD_DOMAIN = 
+- INT_PREFIX = 
+- EXT_PREFIX = 
+- UPLOAD LIMIT = 0
+
+[15:20:56.001]
+- ID TEXT = 
+- PWD TEXT = 
+
+[15:20:56.006]    ¢¸¢¸¢¸    RECEIVE [ 4132 ] Success!
+
+[15:20:56.015][ CMainFrame::OnUpdateStart ] UPDATE URL = http://vex.jiransecurity.com
+
+[15:20:56.021][ CMainFrame::ResetUpdateImage] FALSE!
+
+[15:20:56.028][ COHDUpdate::IsUpdate ] START!
+
+[15:20:56.036][ COHDUpdate::HTTPDown ] START!
+
+[15:20:56.041]
+************************************************************************************************************************** 
+	 URL = http://vex.jiransecurity.com/control/app/Update.ini.enc 
+
+	DEST DIR = C:\Users\Administrator\Documents\OfficeHDVEX\Update\Update.ini.enc 
+ **************************************************************************************************************************
+
+[15:20:56.052][ COHDUpdate::OpenURLThread ] InternetOpenUrl START 
+
+[15:20:56.735][ COHDUpdate::OpenURLThread ] InternetOpenUrl END  
+
+[15:20:56.752][ COHDUpdate::HTTPDown ] GOTO_CLEAN - END!
+
+[15:20:56.857][ IsUpdateModule] [ C:\Program Files (x86)\Jiransoft\OfficeHDVEX\OfficeHardVEX.exe ]
+[ 3.0.3.74 ]
+[ 3.0.3.74 ]
+ 
+[15:20:56.873][ IsUpdateModule] [ C:\Program Files (x86)\Jiransoft\OfficeHDVEX\OHDLanguage.dll ]
+[ 1.0.1.66 ]
+[ 1.0.1.66 ]
+ 
+[15:20:56.885][ IsUpdateModule] [ C:\Program Files (x86)\Jiransoft\OfficeHDVEX\OHDMessage.dll ]
+[ 1.0.1.42 ]
+[ 1.0.1.42 ]
+ 
+[15:20:56.895][ IsUpdateModule] [ C:\Program Files (x86)\Jiransoft\OfficeHDVEX\OHDInterface.dll ]
+[ 1.0.3.83 ]
+[ 1.0.3.83 ]
+ 
+[15:20:56.904][ IsUpdateModule] [ C:\Program Files (x86)\Jiransoft\OfficeHDVEX\OHDDBUtil.dll ]
+[ 1.0.0.2 ]
+[ 1.0.0.2 ]
+ 
+[15:20:56.915][ IsUpdateModule] [ C:\Program Files (x86)\Jiransoft\OfficeHDVEX\OHDConnect.dll ]
+[ 1.0.2.70 ]
+[ 1.0.2.70 ]
+ 
+[15:20:56.922][ IsUpdateModule] LASTEST VERSION! 
+
+[15:20:56.929][ COHDUpdate::IsUpdate ] nUpdateModule return : -1 !
+
+[15:20:56.936][ COHDUpdate::HTTPDown ] START!
+
+[15:20:56.942]
+************************************************************************************************************************** 
+	 URL = http://vex.jiransecurity.com/control/image/Customize.ini.enc 
+
+	DEST DIR = C:\Users\Administrator\Documents\OfficeHDVEX\Update\Customize.ini.enc 
+ **************************************************************************************************************************
+
+[15:20:56.948][ COHDUpdate::OpenURLThread ] InternetOpenUrl START 
+
+[15:20:57.283][ COHDUpdate::OpenURLThread ] InternetOpenUrl END  
+
+[15:20:57.289][ COHDUpdate::HTTPDown ] HttpQueryInfo return [ 201 ]
+
+[15:20:57.297][ COHDUpdate::IsUpdateImage ] HTTPDown Failed! [ 6 ] 
+
+[15:20:57.316] [ DeleteOldImagesNIcons ] return -1 
+
+[15:20:57.332][ COHDUpdate::IsUpdate ] nUpdateImage return : -1 !
+
+[15:20:57.338][ CMainFrame::ResetUpdateImage] TRUE!
+
+[15:20:57.372]    ¢º¢º¢º    SEND [ A2 ] C_DOMAIN_LIST : [ 4132 ]
+
+[15:20:57.378]
+*************************************** [ DOMAIN_LIST 0 ] ***************************************
+- D-IDX = 1
+- D-NAME = Áö¶õÁö±³½ÃÅ¥¸®Æ¼
+- D-Addr = http://vex.jiransecurity.com
+- MAIN Title = VEX SECURITY
+- Message Title = JIRANSECURITY
+
+[15:20:57.386]
+*************************************** [ DOMAIN_LIST 1 ] ***************************************
+- D-IDX = 2
+- D-NAME = VEX QA
+- D-Addr = http://vexqa.jiransecurity.com
+- MAIN Title = OFFICEHARD VEX
+- Message Title = OFFICEHARD VEX
+
+[15:20:57.392]
+*************************************** [ DOMAIN_LIST : OPT ]***************************************
+- CUSTOM FLAG = JS
+- VERSION_INFO = 3.0.05-13
+- CONNECT TIMEOUT = 
+- SOCKET TIMEOUT = 
+- RETRY TIMEOUT = 
+- RETRY CNT = 
+- SERVER_IN = 
+- SERVER_OUT = 
+- LOGIN OPTION = 1111101000001
+- TITLEBAR_COLOR = 
+- UPDATE_URL = http://vex.jiransecurity.com
+- AD_DOMAIN = 
+- INT_PREFIX = 
+- EXT_PREFIX = 
+- UPLOAD LIMIT = 0
+
+[15:20:57.397]
+- ID TEXT = 
+- PWD TEXT = 
+
+[15:20:57.403]    ¢¸¢¸¢¸    RECEIVE [ 4132 ] Success!
+
+[15:20:57.410] [ CMainFrame::RunLoginUI ] CUSTOM FLAG = [ JS ]
+
+[15:20:57.416]    ¢º¢º¢º    SEND [ A5 ] C_LANG_LIST : [ 4135 ]
+
+[15:20:57.421]    ¢¸¢¸¢¸    RECEIVE [ 4135 ] Success!
+
+[15:20:57.541][ CLoginDlg::OnInitDialog ] [ LOGIN_ID_SAVE_SHOW ] SHOW!
+
+[15:20:57.549][ CLoginDlg::OnInitDialog ] [ LOGIN_ID_SAVE_CHECK ] UNCHECKED!
+
+[15:20:57.556][ CLoginDlg::OnInitDialog ] [ LOGIN_AUTO_LOGIN_SHOW ] SHOW!
+
+[15:20:57.562][ CLoginDlg::OnInitDialog ] [ LOGIN_AUTO_LOGIN_CHECK ] UNCHECKED!
+
+[15:20:57.571][ CLoginDlg::MoveControlPos ] Called.
+
+[15:20:57.736][ CFileUtils::GetMacList ] 00-E0-4C-54-37-DB|4E-EB-42-E3-EF-45|4E-EB-42-E3-EF-46|4C-EB-42-E3-EF-45
+
+[15:20:57.749][ CheckNetworkThread ] END!
+
+[15:20:57.753]    ¢º¢º¢º    SEND [ B0 ] C_LOGIN : [ 4230 ]
+
+[15:20:57.912]
+*************************************** [ LOGIN ] ***************************************
+- SESSION ID = 598d4cbf2604a03e29016b6f
+- USER NAME = ¹ÚÇØÀ±
+- USER POSNAME = ´ë¸®/ÆÀ¿ø
+- LAST LOGIN = 2017-08-11 15:00:20
+- LAST LOGIN IP = 
+- RESET PASSWORD = N
+- GEUST LOGIN = (null)
+- USER ID = hypark1
+- GROUP FULLPATH = 1,5,53
+
+[15:20:57.914]    ¢¸¢¸¢¸    RECEIVE [ 4230 ] Success!
+
+[15:20:57.935]    ¢º¢º¢º    SEND [ A1 ] C_OPTION : [ 4131 ]
+
+[15:20:57.995] [ ParsingContextStr ] CONTEXT MENU STRING! 
+ < APPOVAL REQUEST > : °áÀç¿äÃ»$Approval Request$Ì½î¨é©ôë
+ < APPROVAL REQUEST OUT > : °áÀç¿äÃ»¿ÜºÎ$Approval Request$Ì½î¨é©ôë
+< APPROVAL REQUEST ENC > : DRMÇØÁ¦$Approval Request$Ì½î¨é©ôë
+ < NETWORK TRANSFER > :¸Á°£ÆÄÀÏÀü¼Û$Transfer to other network$«Í«Ã«È«ï?«¯«Õ«¡«¤«ë?áê
+ < FILE TRANSFER > :ÆÄÀÏÀü¼Û$File Transfer$«Õ«¡«¤«ë?áê
+
+[15:20:58.015] °áÀç¿äÃ» : [ °áÀç¿äÃ»  /  Approval Request  /  Ì½î¨é©ôë ]
+
+[15:20:58.025] °áÀç¿äÃ» Out : [ °áÀç¿äÃ»¿ÜºÎ  /  Approval Request  /  Ì½î¨é©ôë ]
+
+[15:20:58.034] °áÀç¿äÃ» ENC : [ DRMÇØÁ¦  /  Approval Request  /  Ì½î¨é©ôë ]
+
+[15:20:58.050] ¸Á°£ÆÄÀÏÀü¼Û : [ ¸Á°£ÆÄÀÏÀü¼Û  /  Transfer to other network  /  «Í«Ã«È«ï?«¯«Õ«¡«¤«ë?áê ]
+
+[15:20:58.059] ÆÄÀÏÀü¼Û : [ ÆÄÀÏÀü¼Û  /  File Transfer  /  «Õ«¡«¤«ë?áê ]
+
+[15:20:58.070]
+*************************************** [ OPTION ] ***************************************
+- PRIVACY MODEL = 
+- DIRECT EDIT = Y
+- DRAFT = 
+- APPROVAL = 
+- MANUAL_URL = 
+- USE_ONLINE_HELP = N
+- DBCLICK_DIRECTEDIT = 
+- SYS_IDLE_TIME = 0
+- UPLOAD_CLOSE = 
+- DOWNLOAD_CLOSE = 
+- PW_MUST_USE = 
+- USER_FILE_LIMITIED = Y
+- UPLOAD_RESULT_MSG = 
+- SUB OPTION = NNYNNNN
+- DBCLICK_NO_ACTION = 
+- DISABLE_SHARE_WRITE = 
+
+[15:20:58.079]
+- UPLOAD FACTOR = 
+- USE SHORTCUT =
+- USE RECEIVED CNT = 
+- DRM_ICON = 
+- IE OPTION = 
+- CUSTOM DOWNLOAD = 
+- NET ERR MSG = 
+,- MENUBAR OPT = 
+
+[15:20:58.091]    ¢¸¢¸¢¸    RECEIVE [ 4131 ] Success!
+
+[15:20:58.097]SessionUpdate TIME = 600000
+
+[15:20:58.262] [ CClientTreeCtrl::IsDisplay ] ILIsEqual( pidlFullyQual, m_pIdlControls )
+
+[15:20:58.370] [ CClientTreeCtrl::IsDisplay ] LIBRARY : ILIsEqual( pidlFullyQual, m_pIdlLibrary ) 
+
+[15:20:58.396] [ CClientTreeCtrl::IsDisplay ] NETWORK :  ILIsEqual( pidlFullyQual, m_pIdlNetwork ) 
+
+[15:20:58.568]    ¢º¢º¢º    SEND [ D0 ] C_FD_LIST : [ 4430 ]     ---  file count = 1 --- capacity = 0
+
+[15:20:58.583][ D0 ] CONTINUE = N
+
+[15:20:58.592]    ¢¸¢¸¢¸    RECEIVE [ 4430 ] Success!
+
+[15:20:58.599] [ C_ALARM_UPDATE ] 
+ -- SHARE = 0
+ -- LINK = 
+ -- DRAFT = 23
+ -- APPROVAL = 
+ -- DELETE = 
+ -- SHORTCUT = 
+
+[15:20:58.606][ COHDProto::GetQuotaUpdate ] C_QUOTA_LIST 
+
+[15:20:58.614]    ¢º¢º¢º    SEND [ B5 ] C_QUOTA_LIST : [ 4235 ]
+
+[15:20:58.621] [ C_QUOTA_LIST ] ( 1882068227 ) / ( 10737418240 ) - 20 sec
+
+[15:20:58.632] [ CInfoBarDlg::SetMyDiskUsage ] 1.8 GB(17%) / 10.0 GB
+
+[15:20:58.645] [ CFileUtils::LoadPlacement ] (173, 74, 1517, 970) - Login : 1
+
+[15:20:58.697]    ¢º¢º¢º    SEND [ D0 ] C_FD_LIST : [ 4430 ]     ---  file count = 1 --- capacity = 0
+
+[15:20:58.715][ D0 ] CONTINUE = N
+
+[15:20:58.730]    ¢¸¢¸¢¸    RECEIVE [ 4430 ] Success!
+
+[15:20:58.761]    ¢º¢º¢º    SEND [ D0 ] C_FD_LIST : [ 4430 ]     ---  file count = 1 --- capacity = 0
+
+[15:20:58.777][ D0 ] CONTINUE = Y
+
+[15:20:58.792]    ¢¸¢¸¢¸    RECEIVE [ 4430 ] Success!
+
+[15:20:58.810]    ¢º¢º¢º    SEND [ D0 ] C_FD_LIST : [ 4430 ]     ---  file count = 4 --- capacity = 3
+
+[15:20:58.835][ D0 ] CONTINUE = N
+
+[15:20:58.855]    ¢¸¢¸¢¸    RECEIVE [ 4430 ] Success!
+
+[15:20:58.927] [ CMainFrame::LoadWindowSize ] SplitSize : Wid = 228, Hei = 356 
+
+[15:20:59.009] [ CMainFrame::OnMaximiseFromTray ] 
+
+[15:20:59.238][ COHDRegistry::GetLastFullPath ]
+FullPathServer : 72966/162/72337/72344/72356
+FullPathClient :  
+
+[15:20:59.441] [ CClientTreeCtrl::IsDisplay ] DRIVETYPE = DRIVE_REMOTE 
+
+[15:20:59.525] [ CClientTreeCtrl::IsDisplay ] DRIVETYPE = DRIVE_REMOTE 
+
+[15:20:59.579] [ CClientTreeCtrl::IsDisplay ] ILIsEqual( pidlFullyQual, m_pIdlControls )
+
+[15:20:59.591] [ CClientTreeCtrl::IsDisplay ] LIBRARY : ILIsEqual( pidlFullyQual, m_pIdlLibrary ) 
+
+[15:20:59.600] [ CClientTreeCtrl::IsDisplay ]  ILIsEqual( pidlFullyQual, m_pIdlControlsOfDesk )
+
+[15:20:59.609] [ CClientTreeCtrl::IsDisplay ] NETWORK :  ILIsEqual( pidlFullyQual, m_pIdlNetwork ) 
+
+[15:22:07.775]  ====================================       FOCUS !!      ====================================   
+[15:22:08.407]  ====================================       FOCUS !!      ====================================   
+[15:22:08.586]  ====================================       FOCUS !!      ====================================   
+[15:22:08.758]  ====================================       FOCUS !!      ====================================   
+[15:22:08.927]  ====================================       FOCUS !!      ====================================   
+[15:22:09.071]  ====================================       FOCUS !!      ====================================   
+[15:22:09.232]  ====================================       FOCUS !!      ====================================   
+[15:22:09.412]  ====================================       FOCUS !!      ====================================   
+[15:22:11.679]
+
+====================================================================== VEX ======================================================================
+ [ COfficeHardVEXApp::InitInstance ] Mutex Create!
+
+[15:22:12.143]
+************************************************************************************************************************** 
+	 ARCHITECTURE = 64-bit 
+
+	WINDOWS VERSION = Windows 7 [  6 . 1 ]
+ **************************************************************************************************************************
+
+[15:22:12.158][ COfficeHardVEXApp::InitInstance ] Privilege = ADMINISTRATOR [ Administrator ]
+
+[15:22:12.164] [ COfficeHardVEXApp::InitInstance ] File Version = v3.0.3.74
+
+[15:22:12.171][System Process]
+  - System
+  - smss.exe
+  - csrss.exe
+  - wininit.exe
+  - csrss.exe
+  - services.exe
+  - lsass.exe
+  - lsm.exe
+  - svchost.exe
+  - svchost.exe
+  - svchost.exe
+  - svchost.exe
+  - svchost.exe
+  - svchost.exe
+  - svchost.exe
+  - igfxCUIService.exe
+  - svchost.exe
+  - winlogon.exe
+  - wlanext.exe
+  - conhost.exe
+  - spoolsv.exe
+  - svchost.exe
+  - AnySign4PCLauncher.exe
+  - OfficeClickToRun.exe
+  - svchost.exe
+  - esif_uf.exe
+  - EvtEng.exe
+  - GnStart.exe
+  - ibtsiva.exe
+  - IMGSF50Svc.exe
+  - innosvc7.exe
+  - jsplcmgr_service.exe
+  - jssvcmon.exe
+  - nossvc.exe
+  - NTRTScan.exe
+  - nxTSSvc.exe
+  - RegSrvc.exe
+  - ASDSvc.exe
+  - Goji.exe
+  - svchost.exe
+  - VPWalletService.exe
+  - wpmsvc.exe
+  - ZeroConfigService.exe
+  - TmListen.exe
+  - taskhost.exe
+  - AnySign4PC.exe
+  - esif_assist.exe
+  - dwm.exe
+  - unsecapp.exe
+  - explorer.exe
+  - VPWalletDaemon.exe
+  - conhost.exe
+  - WmiPrvSE.exe
+  - DocuONE.exe
+  - GnAgent.exe
+  - VestCert.exe
+  - rundll32.exe
+  - ETDCtrl.exe
+  - RAVCpl64.exe
+  - StSess.exe
+  - PowerManager.exe
+  - CoolMessenger.exe
+  - BoxBot.exe
+  - CrossEXService.exe
+  - nosstarter.npe
+  - PresentationFontCache.exe
+  - StikyNot.exe
+  - g2brun.exe
+  - ETDCtrlHelper.exe
+  - jsfsflt_service.exe
+  - IMGSF50Start_x64.exe
+  - IMGSF50Start_x86.exe
+  - svchost.exe
+  - DocuONE.exe
+  - SearchIndexer.exe
+  - jsupmon.exe
+  - WUDFHost.exe
+  - jspltmon.exe
+  - jscpmon.exe
+  - igfxEM.exe
+  - igfxHK.exe
+  - GnPlugin.exe
+  - GiljabiStart.exe
+  - devmonsrv.exe
+  - jsflprtmon.exe
+  - iusb3mon.exe
+  - nxTS.exe
+  - HotkeyManager.exe
+  - CNTAoSMgr.exe
+  - conhost.exe
+  - veraport.exe
+  - obexsrv.exe
+  - mediasrv.exe
+  - PccNTMon.exe
+  - jsnetmon.exe
+  - UniCRSLocalServer.exe
+  - svchost.exe
+  - jsnpmon.exe
+  - jscfmrtmon.exe
+  - jscfmmnmon.exe
+  - YCMMirage.exe
+  - Coolendar.exe
+  - YouCamTray.exe
+  - wmpnetwk.exe
+  - StSess32.exe
+  - TmCCSF.exe
+  - MWPGMonitor.exe
+  - jhi_service.exe
+  - LMS.exe
+  - svchost.exe
+  - TMBMSRV.exe
+  - OUTLOOK.EXE
+  - OSPPSVC.EXE
+  - iexplore.exe
+  - iexplore.exe
+  - CompatTelRunner.exe
+  - conhost.exe
+  - CompatTelRunner.exe
+  - EXCEL.EXE
+  - splwow64.exe
+  - iexplore.exe
+  - delfino.exe
+  - MsSpellCheckingFacility.exe
+  - ASPLnchr.exe
+  - MWPGBackAgent.exe
+  - I3GProc.exe
+  - I3GMainSvc.exe
+  - ONENOTE.EXE
+  - iexplore.exe
+  - iexplore.exe
+  - audiodg.exe
+  - subprocess.exe
+  - rssemgr.exe
+  - rsengmgr.exe
+  - rsuimgr.exe
+  - WmiPrvSE.exe
+  - NDR_Logger.exe
+  - svchost.exe
+  - OfficeHardVEX.exe
+  - 
+
+[15:22:13.116][ CheckNetworkThread ] START!
+
+[15:22:13.171][ COHDProto::CheckNetwork ] INTERNET_CONNECTION_LAN
+
+[15:22:13.181][ COHDProto::CheckNetwork ] INTERNET_RAS_INSTALLED
+
+[15:22:13.191][ CheckNetworkThread ] NETWORK CONNECTED! 
+
+[15:22:13.206][ CheckNetworkThread ] CheckUpdate TRUE -- Update START! 
+
+[15:22:13.213][ CMainFrame::OnUpdateStart] START!
+
+[15:22:13.218]SERVER ADDR = [ vex.jiransecurity.com ]	 PORT = [ 8300 ]
+
+[15:22:13.225] ************************************** SOCKET CONNECT! ************************************** vex.jiransecurity.com
+
+[15:22:13.399]    ¢º¢º¢º    SEND [ A2 ] C_DOMAIN_LIST : [ 4132 ]
+
+[15:22:13.406]
+*************************************** [ DOMAIN_LIST 0 ] ***************************************
+- D-IDX = 1
+- D-NAME = Áö¶õÁö±³½ÃÅ¥¸®Æ¼
+- D-Addr = http://vex.jiransecurity.com
+- MAIN Title = VEX SECURITY
+- Message Title = JIRANSECURITY
+
+[15:22:13.412]
+*************************************** [ DOMAIN_LIST 1 ] ***************************************
+- D-IDX = 2
+- D-NAME = VEX QA
+- D-Addr = http://vexqa.jiransecurity.com
+- MAIN Title = OFFICEHARD VEX
+- Message Title = OFFICEHARD VEX
+
+[15:22:13.422]
+*************************************** [ DOMAIN_LIST : OPT ]***************************************
+- CUSTOM FLAG = JS
+- VERSION_INFO = 3.0.05-13
+- CONNECT TIMEOUT = 
+- SOCKET TIMEOUT = 
+- RETRY TIMEOUT = 
+- RETRY CNT = 
+- SERVER_IN = 
+- SERVER_OUT = 
+- LOGIN OPTION = 1111101000001
+- TITLEBAR_COLOR = 
+- UPDATE_URL = http://vex.jiransecurity.com
+- AD_DOMAIN = 
+- INT_PREFIX = 
+- EXT_PREFIX = 
+- UPLOAD LIMIT = 0
+
+[15:22:13.427]
+- ID TEXT = 
+- PWD TEXT = 
+
+[15:22:13.432]    ¢¸¢¸¢¸    RECEIVE [ 4132 ] Success!
+
+[15:22:13.441][ CMainFrame::OnUpdateStart ] UPDATE URL = http://vex.jiransecurity.com
+
+[15:22:13.447][ CMainFrame::ResetUpdateImage] FALSE!
+
+[15:22:13.452][ COHDUpdate::IsUpdate ] START!
+
+[15:22:13.482][ COHDUpdate::HTTPDown ] START!
+
+[15:22:13.489]
+************************************************************************************************************************** 
+	 URL = http://vex.jiransecurity.com/control/app/Update.ini.enc 
+
+	DEST DIR = C:\Users\Administrator\Documents\OfficeHDVEX\Update\Update.ini.enc 
+ **************************************************************************************************************************
+
+[15:22:13.499][ COHDUpdate::OpenURLThread ] InternetOpenUrl START 
+
+[15:22:13.573][ COHDUpdate::OpenURLThread ] InternetOpenUrl END  
+
+[15:22:13.585][ COHDUpdate::HTTPDown ] GOTO_CLEAN - END!
+
+[15:22:13.687][ IsUpdateModule] [ C:\Program Files (x86)\Jiransoft\OfficeHDVEX\OfficeHardVEX.exe ]
+[ 3.0.3.74 ]
+[ 3.0.3.74 ]
+ 
+[15:22:13.697][ IsUpdateModule] [ C:\Program Files (x86)\Jiransoft\OfficeHDVEX\OHDLanguage.dll ]
+[ 1.0.1.66 ]
+[ 1.0.1.66 ]
+ 
+[15:22:13.711][ IsUpdateModule] [ C:\Program Files (x86)\Jiransoft\OfficeHDVEX\OHDMessage.dll ]
+[ 1.0.1.42 ]
+[ 1.0.1.42 ]
+ 
+[15:22:13.727][ IsUpdateModule] [ C:\Program Files (x86)\Jiransoft\OfficeHDVEX\OHDInterface.dll ]
+[ 1.0.3.83 ]
+[ 1.0.3.83 ]
+ 
+[15:22:13.740][ IsUpdateModule] [ C:\Program Files (x86)\Jiransoft\OfficeHDVEX\OHDDBUtil.dll ]
+[ 1.0.0.2 ]
+[ 1.0.0.2 ]
+ 
+[15:22:13.763][ IsUpdateModule] [ C:\Program Files (x86)\Jiransoft\OfficeHDVEX\OHDConnect.dll ]
+[ 1.0.2.70 ]
+[ 1.0.2.70 ]
+ 
+[15:22:13.776][ IsUpdateModule] LASTEST VERSION! 
+
+[15:22:13.792][ COHDUpdate::IsUpdate ] nUpdateModule return : -1 !
+
+[15:22:13.806][ COHDUpdate::HTTPDown ] START!
+
+[15:22:13.817]
+************************************************************************************************************************** 
+	 URL = http://vex.jiransecurity.com/control/image/Customize.ini.enc 
+
+	DEST DIR = C:\Users\Administrator\Documents\OfficeHDVEX\Update\Customize.ini.enc 
+ **************************************************************************************************************************
+
+[15:22:13.830][ COHDUpdate::OpenURLThread ] InternetOpenUrl START 
+
+[15:22:13.869][ COHDUpdate::OpenURLThread ] InternetOpenUrl END  
+
+[15:22:13.888][ COHDUpdate::HTTPDown ] HttpQueryInfo return [ 201 ]
+
+[15:22:13.903][ COHDUpdate::IsUpdateImage ] HTTPDown Failed! [ 6 ] 
+
+[15:22:13.927] [ DeleteOldImagesNIcons ] return -1 
+
+[15:22:13.935][ COHDUpdate::IsUpdate ] nUpdateImage return : -1 !
+
+[15:22:13.970][ CMainFrame::ResetUpdateImage] TRUE!
+
+[15:22:14.033]    ¢º¢º¢º    SEND [ A2 ] C_DOMAIN_LIST : [ 4132 ]
+
+[15:22:14.051]
+*************************************** [ DOMAIN_LIST 0 ] ***************************************
+- D-IDX = 1
+- D-NAME = Áö¶õÁö±³½ÃÅ¥¸®Æ¼
+- D-Addr = http://vex.jiransecurity.com
+- MAIN Title = VEX SECURITY
+- Message Title = JIRANSECURITY
+
+[15:22:14.078]
+*************************************** [ DOMAIN_LIST 1 ] ***************************************
+- D-IDX = 2
+- D-NAME = VEX QA
+- D-Addr = http://vexqa.jiransecurity.com
+- MAIN Title = OFFICEHARD VEX
+- Message Title = OFFICEHARD VEX
+
+[15:22:14.093]
+*************************************** [ DOMAIN_LIST : OPT ]***************************************
+- CUSTOM FLAG = JS
+- VERSION_INFO = 3.0.05-13
+- CONNECT TIMEOUT = 
+- SOCKET TIMEOUT = 
+- RETRY TIMEOUT = 
+- RETRY CNT = 
+- SERVER_IN = 
+- SERVER_OUT = 
+- LOGIN OPTION = 1111101000001
+- TITLEBAR_COLOR = 
+- UPDATE_URL = http://vex.jiransecurity.com
+- AD_DOMAIN = 
+- INT_PREFIX = 
+- EXT_PREFIX = 
+- UPLOAD LIMIT = 0
+
+[15:22:14.102]
+- ID TEXT = 
+- PWD TEXT = 
+
+[15:22:14.125]    ¢¸¢¸¢¸    RECEIVE [ 4132 ] Success!
+
+[15:22:14.134] [ CMainFrame::RunLoginUI ] CUSTOM FLAG = [ JS ]
+
+[15:22:14.144]    ¢º¢º¢º    SEND [ A5 ] C_LANG_LIST : [ 4135 ]
+
+[15:22:14.153]    ¢¸¢¸¢¸    RECEIVE [ 4135 ] Success!
+
+[15:22:14.288][ CLoginDlg::OnInitDialog ] [ LOGIN_ID_SAVE_SHOW ] SHOW!
+
+[15:22:14.301][ CLoginDlg::OnInitDialog ] [ LOGIN_ID_SAVE_CHECK ] UNCHECKED!
+
+[15:22:14.306][ CLoginDlg::OnInitDialog ] [ LOGIN_AUTO_LOGIN_SHOW ] SHOW!
+
+[15:22:14.314][ CLoginDlg::OnInitDialog ] [ LOGIN_AUTO_LOGIN_CHECK ] UNCHECKED!
+
+[15:22:14.325][ CLoginDlg::MoveControlPos ] Called.
+
+[15:22:14.478][ CFileUtils::GetMacList ] 00-E0-4C-54-37-DB|4E-EB-42-E3-EF-45|4E-EB-42-E3-EF-46|4C-EB-42-E3-EF-45
+
+[15:22:14.490][ CheckNetworkThread ] END!
+
+[15:22:14.494]    ¢º¢º¢º    SEND [ B0 ] C_LOGIN : [ 4230 ]
+
+[15:22:14.564]
+*************************************** [ LOGIN ] ***************************************
+- SESSION ID = 598d4d0bda6f8048a0016b6f
+- USER NAME = ¹ÚÇØÀ±
+- USER POSNAME = ´ë¸®/ÆÀ¿ø
+- LAST LOGIN = 2017-08-11 15:20:47
+- LAST LOGIN IP = 
+- RESET PASSWORD = N
+- GEUST LOGIN = (null)
+- USER ID = hypark1
+- GROUP FULLPATH = 1,5,53
+
+[15:22:14.572]    ¢¸¢¸¢¸    RECEIVE [ 4230 ] Success!
+
+[15:22:14.642]    ¢º¢º¢º    SEND [ A1 ] C_OPTION : [ 4131 ]
+
+[15:22:14.696] [ ParsingContextStr ] CONTEXT MENU STRING! 
+ < APPOVAL REQUEST > : °áÀç¿äÃ»$Approval Request$Ì½î¨é©ôë
+ < APPROVAL REQUEST OUT > : °áÀç¿äÃ»¿ÜºÎ$Approval Request$Ì½î¨é©ôë
+< APPROVAL REQUEST ENC > : DRMÇØÁ¦$Approval Request$Ì½î¨é©ôë
+ < NETWORK TRANSFER > :¸Á°£ÆÄÀÏÀü¼Û$Transfer to other network$«Í«Ã«È«ï?«¯«Õ«¡«¤«ë?áê
+ < FILE TRANSFER > :ÆÄÀÏÀü¼Û$File Transfer$«Õ«¡«¤«ë?áê
+
+[15:22:14.708] °áÀç¿äÃ» : [ °áÀç¿äÃ»  /  Approval Request  /  Ì½î¨é©ôë ]
+
+[15:22:14.723] °áÀç¿äÃ» Out : [ °áÀç¿äÃ»¿ÜºÎ  /  Approval Request  /  Ì½î¨é©ôë ]
+
+[15:22:14.743] °áÀç¿äÃ» ENC : [ DRMÇØÁ¦  /  Approval Request  /  Ì½î¨é©ôë ]
+
+[15:22:14.764] ¸Á°£ÆÄÀÏÀü¼Û : [ ¸Á°£ÆÄÀÏÀü¼Û  /  Transfer to other network  /  «Í«Ã«È«ï?«¯«Õ«¡«¤«ë?áê ]
+
+[15:22:14.795] ÆÄÀÏÀü¼Û : [ ÆÄÀÏÀü¼Û  /  File Transfer  /  «Õ«¡«¤«ë?áê ]
+
+[15:22:14.815]
+*************************************** [ OPTION ] ***************************************
+- PRIVACY MODEL = 
+- DIRECT EDIT = Y
+- DRAFT = 
+- APPROVAL = 
+- MANUAL_URL = 
+- USE_ONLINE_HELP = N
+- DBCLICK_DIRECTEDIT = 
+- SYS_IDLE_TIME = 0
+- UPLOAD_CLOSE = 
+- DOWNLOAD_CLOSE = 
+- PW_MUST_USE = 
+- USER_FILE_LIMITIED = Y
+- UPLOAD_RESULT_MSG = 
+- SUB OPTION = NNYNNNN
+- DBCLICK_NO_ACTION = 
+- DISABLE_SHARE_WRITE = 
+
+[15:22:14.829]
+- UPLOAD FACTOR = 
+- USE SHORTCUT =
+- USE RECEIVED CNT = 
+- DRM_ICON = 
+- IE OPTION = 
+- CUSTOM DOWNLOAD = 
+- NET ERR MSG = 
+,- MENUBAR OPT = 
+
+[15:22:14.872]    ¢¸¢¸¢¸    RECEIVE [ 4131 ] Success!
+
+[15:22:14.888]SessionUpdate TIME = 600000
+
+[15:22:14.998] [ CClientTreeCtrl::IsDisplay ] ILIsEqual( pidlFullyQual, m_pIdlControls )
+
+[15:22:15.085] [ CClientTreeCtrl::IsDisplay ] LIBRARY : ILIsEqual( pidlFullyQual, m_pIdlLibrary ) 
+
+[15:22:15.112] [ CClientTreeCtrl::IsDisplay ] NETWORK :  ILIsEqual( pidlFullyQual, m_pIdlNetwork ) 
+
+[15:22:15.252]    ¢º¢º¢º    SEND [ D0 ] C_FD_LIST : [ 4430 ]     ---  file count = 1 --- capacity = 0
+
+[15:22:15.267][ D0 ] CONTINUE = N
+
+[15:22:15.273]    ¢¸¢¸¢¸    RECEIVE [ 4430 ] Success!
+
+[15:22:15.288] [ C_ALARM_UPDATE ] 
+ -- SHARE = 0
+ -- LINK = 
+ -- DRAFT = 23
+ -- APPROVAL = 
+ -- DELETE = 
+ -- SHORTCUT = 
+
+[15:22:15.300][ COHDProto::GetQuotaUpdate ] C_QUOTA_LIST 
+
+[15:22:15.310]    ¢º¢º¢º    SEND [ B5 ] C_QUOTA_LIST : [ 4235 ]
+
+[15:22:15.318] [ C_QUOTA_LIST ] ( 1882068227 ) / ( 10737418240 ) - 20 sec
+
+[15:22:15.336] [ CInfoBarDlg::SetMyDiskUsage ] 1.8 GB(17%) / 10.0 GB
+
+[15:22:15.356] [ CFileUtils::LoadPlacement ] (173, 74, 1517, 970) - Login : 1
+
+[15:22:15.417]    ¢º¢º¢º    SEND [ D0 ] C_FD_LIST : [ 4430 ]     ---  file count = 1 --- capacity = 0
+
+[15:22:15.434][ D0 ] CONTINUE = N
+
+[15:22:15.447]    ¢¸¢¸¢¸    RECEIVE [ 4430 ] Success!
+
+[15:22:15.479]    ¢º¢º¢º    SEND [ D0 ] C_FD_LIST : [ 4430 ]     ---  file count = 1 --- capacity = 0
+
+[15:22:15.498][ D0 ] CONTINUE = Y
+
+[15:22:15.517]    ¢¸¢¸¢¸    RECEIVE [ 4430 ] Success!
+
+[15:22:15.541]    ¢º¢º¢º    SEND [ D0 ] C_FD_LIST : [ 4430 ]     ---  file count = 4 --- capacity = 3
+
+[15:22:15.563][ D0 ] CONTINUE = N
+
+[15:22:15.574]    ¢¸¢¸¢¸    RECEIVE [ 4430 ] Success!
+
+[15:22:15.625] [ CMainFrame::LoadWindowSize ] SplitSize : Wid = 228, Hei = 356 
+
+[15:22:15.727] [ CMainFrame::OnMaximiseFromTray ] 
+
+[15:22:15.936][ COHDRegistry::GetLastFullPath ]
+FullPathServer : 72966/162/72337/72344/72356
+FullPathClient :  
+
+[15:22:16.159] [ CClientTreeCtrl::IsDisplay ] DRIVETYPE = DRIVE_REMOTE 
+
+[15:22:16.247] [ CClientTreeCtrl::IsDisplay ] DRIVETYPE = DRIVE_REMOTE 
+
+[15:22:16.301] [ CClientTreeCtrl::IsDisplay ] ILIsEqual( pidlFullyQual, m_pIdlControls )
+
+[15:22:16.312] [ CClientTreeCtrl::IsDisplay ] LIBRARY : ILIsEqual( pidlFullyQual, m_pIdlLibrary ) 
+
+[15:22:16.322] [ CClientTreeCtrl::IsDisplay ]  ILIsEqual( pidlFullyQual, m_pIdlControlsOfDesk )
+
+[15:22:16.330] [ CClientTreeCtrl::IsDisplay ] NETWORK :  ILIsEqual( pidlFullyQual, m_pIdlNetwork ) 
+

@@ -1,0 +1,1616 @@
+[15:36:04.797]
+
+====================================================================== VEX ======================================================================
+ [ COfficeHardVEXApp::InitInstance ] Mutex Create!
+
+[15:36:04.813]CreateMutext --> ERROR_ALREADY_EXISTS!! Return!!
+
+[15:36:04.813] [ COfficeHardVEXApp::ExitInstance ] 
+
+[15:36:32.426]
+
+====================================================================== VEX ======================================================================
+ [ COfficeHardVEXApp::InitInstance ] Mutex Create!
+
+[15:36:33.302]
+************************************************************************************************************************** 
+	 ARCHITECTURE = 64-bit 
+
+	WINDOWS VERSION = Windows 7 [  6 . 1 ]
+ **************************************************************************************************************************
+
+[15:36:33.302][ COfficeHardVEXApp::InitInstance ] Privilege = ADMINISTRATOR [ user ]
+
+[15:36:33.317] [ COfficeHardVEXApp::InitInstance ] File Version = v3.0.3.75
+
+[15:36:33.333][System Process]
+  - System
+  - smss.exe
+  - csrss.exe
+  - wininit.exe
+  - csrss.exe
+  - services.exe
+  - lsass.exe
+  - lsm.exe
+  - svchost.exe
+  - svchost.exe
+  - winlogon.exe
+  - svchost.exe
+  - svchost.exe
+  - svchost.exe
+  - svchost.exe
+  - igfxCUIService.exe
+  - wlanext.exe
+  - conhost.exe
+  - spoolsv.exe
+  - svchost.exe
+  - svchost.exe
+  - I3GMainSvc.exe
+  - armsvc.exe
+  - AnySign4PCLauncher.exe
+  - mDNSResponder.exe
+  - ObCrossEXService.exe
+  - CxAudMsg64.exe
+  - svchost.exe
+  - esif_uf.exe
+  - EvtEng.exe
+  - GnStart.exe
+  - GomHelperSvc.exe
+  - ibtsiva.exe
+  - IMGSF50Svc.exe
+  - IniClientSvc.exe
+  - jsplcmgr_service.exe
+  - jssvcmon.exe
+  - nossvc.exe
+  - npkfxsvc.exe
+  - NTRTScan.exe
+  - RegSrvc.exe
+  - SASrv.exe
+  - Goji.exe
+  - svchost.exe
+  - TENXW_SVR.exe
+  - TEWebP.exe
+  - VPWalletService.exe
+  - wpmsvc.exe
+  - TEWebP64.exe
+  - unsecapp.exe
+  - WmiPrvSE.exe
+  - WooriBankSecLogGather.exe
+  - ZeroConfigService.exe
+  - TmListen.exe
+  - jsfsflt_service.exe
+  - svchost.exe
+  - WUDFHost.exe
+  - svchost.exe
+  - CNTAoSMgr.exe
+  - conhost.exe
+  - taskhost.exe
+  - AnySign4PC.exe
+  - esif_assist.exe
+  - PresentationFontCache.exe
+  - dwm.exe
+  - IMGSF50Start_x64.exe
+  - explorer.exe
+  - IMGSF50Start_x86.exe
+  - jsnetmon.exe
+  - DocuONE.exe
+  - TEWeb.exe
+  - CrossEXService.exe
+  - delfino.exe
+  - GnAgent.exe
+  - VestCert.exe
+  - TEWeb64.exe
+  - INISAFECrossWebEXSvc.exe
+  - TmCCSF.exe
+  - veraport.exe
+  - igfxEM.exe
+  - igfxHK.exe
+  - nosstarter.npe
+  - I3GProc.exe
+  - DocuONE.exe
+  - jspltmon.exe
+  - keysharpnxbiz.exe
+  - jscpmon.exe
+  - CAudioFilterAgent64.exe
+  - jsnpmon.exe
+  - GnPlugin.exe
+  - jscfmrtmon.exe
+  - PowerManager.exe
+  - ETDCtrl.exe
+  - rundll32.exe
+  - jscfmmnmon.exe
+  - CoolMessenger.exe
+  - jsflprtmon.exe
+  - StikyNot.exe
+  - MWPGBackAgent.exe
+  - APO3GUI.exe
+  - SearchIndexer.exe
+  - g2brun.exe
+  - dts_apo_service.exe
+  - ETDCtrlHelper.exe
+  - devmonsrv.exe
+  - iusb3mon.exe
+  - svchost.exe
+  - HotkeyManager.exe
+  - jsupmon.exe
+  - obexsrv.exe
+  - HncCheck.exe
+  - UniCRSLocalServer.exe
+  - PccNTMon.exe
+  - jusched.exe
+  - mediasrv.exe
+  - wmpnetwk.exe
+  - jhi_service.exe
+  - LMS.exe
+  - Coolendar.exe
+  - MWPGMonitor.exe
+  - TMBMSRV.exe
+  - OUTLOOK.EXE
+  - chrome.exe
+  - chrome.exe
+  - chrome.exe
+  - chrome.exe
+  - chrome.exe
+  - jucheck.exe
+  - EXCEL.EXE
+  - splwow64.exe
+  - taskeng.exe
+  - audiodg.exe
+  - chrome.exe
+  - SearchProtocolHost.exe
+  - SearchFilterHost.exe
+  - WmiPrvSE.exe
+  - NDR_Logger.exe
+  - OfficeHardVEX.exe
+  - 
+
+[15:36:34.113] [ COfficeHardVEXApp::InitInstance ] PARAMETER = [ /NOUPDATE ] 
+
+[15:36:34.144]-------------------- /NOUPDATE --------------------
+
+[15:36:34.144][ CheckNetworkThread ] START!
+
+[15:36:34.175][ COHDProto::CheckNetwork ] INTERNET_CONNECTION_LAN
+
+[15:36:34.191][ COHDProto::CheckNetwork ] INTERNET_RAS_INSTALLED
+
+[15:36:34.207][ CheckNetworkThread ] NETWORK CONNECTED! 
+
+[15:36:34.207][ CheckNetworkThread ] CheckUpdate FALSE -- Login START! 
+
+[15:36:34.253] ************************************** SOCKET CONNECT! ************************************** vex.jiransecurity.com
+
+[15:36:34.679]    ▶▶▶    SEND [ A2 ] C_DOMAIN_LIST : [ 4132 ]
+
+[15:36:34.741]
+*************************************** [ DOMAIN_LIST 0 ] ***************************************
+- D-IDX = 1
+- D-NAME = 지란지교시큐리티
+- D-Addr = http://vex.jiransecurity.com
+- MAIN Title = VEX SECURITY
+- Message Title = JIRANSECURITY
+
+[15:36:34.773]
+*************************************** [ DOMAIN_LIST 1 ] ***************************************
+- D-IDX = 2
+- D-NAME = VEX QA
+- D-Addr = http://vexqa.jiransecurity.com
+- MAIN Title = OFFICEHARD VEX
+- Message Title = OFFICEHARD VEX
+
+[15:36:34.788]
+*************************************** [ DOMAIN_LIST : OPT ]***************************************
+- CUSTOM FLAG = JS
+- VERSION_INFO = 3.0.05-13
+- CONNECT TIMEOUT = 
+- SOCKET TIMEOUT = 
+- RETRY TIMEOUT = 
+- RETRY CNT = 
+- SERVER_IN = 
+- SERVER_OUT = 
+- TITLEBAR_COLOR = 
+- UPDATE_URL = http://vex.jiransecurity.com
+- AD_DOMAIN = 
+- INT_PREFIX = 
+- EXT_PREFIX = 
+- UPLOAD LIMIT = 0
+
+[15:36:34.804]
+ [ LOGIN OPTION ] = 1111101000001
+ LOGIN - 도메인 보여주기 = 1
+ LOGIN - 언어선택 보여주기 = 1
+ LOGIN - ID입력 보여주기 = 1
+ LOGIN - PW입력 보여주기 = 1
+ LOGIN - ID저장 보여주기 = 1
+ LOGIN - ID저장 체크하기 = 0
+ LOGIN - 자동로그인 보여주기 = 1
+ LOGIN - 자동로그인 체크하기 = 0
+ LOGIN - AD로그인(1:normal,2:initech,3:Active-X) = 0
+ LOGIN - WEB SSO사용하기 = 0
+ LOGIN - 로그아웃시 프로그램종료하기 = 0
+ LOGIN - 짧은 로그인창 = 0
+ LOGIN - AD로그인 실패시 프로그램종료하기 = 1
+ LOGIN - ID TEXT = 
+ LOGIN - PW TEXT = 
+
+[15:36:34.819]    ◀◀◀    RECEIVE [ 4132 ] Success!
+
+[15:36:34.835] [ CMainFrame::RunLoginUI ] CUSTOM FLAG = [ JS ]
+
+[15:36:34.851]    ▶▶▶    SEND [ A5 ] C_LANG_LIST : [ 4135 ]
+
+[15:36:34.866]    ◀◀◀    RECEIVE [ 4135 ] Success!
+
+[15:36:35.038][ CLoginDlg::OnInitDialog ] [ LOGIN_ID_SAVE_SHOW ] SHOW!
+
+[15:36:35.053][ CLoginDlg::OnInitDialog ] [ LOGIN_ID_SAVE_CHECK ] UNCHECKED!
+
+[15:36:35.069][ CLoginDlg::OnInitDialog ] [ LOGIN_AUTO_LOGIN_SHOW ] SHOW!
+
+[15:36:35.085][ CLoginDlg::OnInitDialog ] [ LOGIN_AUTO_LOGIN_CHECK ] UNCHECKED!
+
+[15:36:35.100][ CLoginDlg::MoveControlPos ] Called.
+
+[15:36:35.131][ CheckNetworkThread ] END!
+
+[15:36:39.411] [ CMainFrame::CloseAllDialog ] Called.
+
+[15:36:39.442] ************************************** SOCKET DISCONNECT! ************************************** 
+
+[15:36:39.489] [ COfficeHardVEXApp::ExitInstance ] 
+
+[15:36:42.346]
+
+====================================================================== VEX ======================================================================
+ [ COfficeHardVEXApp::InitInstance ] Mutex Create!
+
+[15:36:43.297]
+************************************************************************************************************************** 
+	 ARCHITECTURE = 64-bit 
+
+	WINDOWS VERSION = Windows 7 [  6 . 1 ]
+ **************************************************************************************************************************
+
+[15:36:43.313][ COfficeHardVEXApp::InitInstance ] Privilege = ADMINISTRATOR [ user ]
+
+[15:36:43.313] [ COfficeHardVEXApp::InitInstance ] File Version = v3.0.3.75
+
+[15:36:43.344][System Process]
+  - System
+  - smss.exe
+  - csrss.exe
+  - wininit.exe
+  - csrss.exe
+  - services.exe
+  - lsass.exe
+  - lsm.exe
+  - svchost.exe
+  - svchost.exe
+  - winlogon.exe
+  - svchost.exe
+  - svchost.exe
+  - svchost.exe
+  - svchost.exe
+  - igfxCUIService.exe
+  - wlanext.exe
+  - conhost.exe
+  - spoolsv.exe
+  - svchost.exe
+  - svchost.exe
+  - I3GMainSvc.exe
+  - armsvc.exe
+  - AnySign4PCLauncher.exe
+  - mDNSResponder.exe
+  - ObCrossEXService.exe
+  - CxAudMsg64.exe
+  - svchost.exe
+  - esif_uf.exe
+  - EvtEng.exe
+  - GnStart.exe
+  - GomHelperSvc.exe
+  - ibtsiva.exe
+  - IMGSF50Svc.exe
+  - IniClientSvc.exe
+  - jsplcmgr_service.exe
+  - jssvcmon.exe
+  - nossvc.exe
+  - npkfxsvc.exe
+  - NTRTScan.exe
+  - RegSrvc.exe
+  - SASrv.exe
+  - Goji.exe
+  - svchost.exe
+  - TENXW_SVR.exe
+  - TEWebP.exe
+  - VPWalletService.exe
+  - wpmsvc.exe
+  - TEWebP64.exe
+  - unsecapp.exe
+  - WmiPrvSE.exe
+  - WooriBankSecLogGather.exe
+  - ZeroConfigService.exe
+  - TmListen.exe
+  - jsfsflt_service.exe
+  - svchost.exe
+  - WUDFHost.exe
+  - svchost.exe
+  - CNTAoSMgr.exe
+  - conhost.exe
+  - taskhost.exe
+  - AnySign4PC.exe
+  - esif_assist.exe
+  - PresentationFontCache.exe
+  - dwm.exe
+  - IMGSF50Start_x64.exe
+  - explorer.exe
+  - IMGSF50Start_x86.exe
+  - jsnetmon.exe
+  - DocuONE.exe
+  - TEWeb.exe
+  - CrossEXService.exe
+  - delfino.exe
+  - GnAgent.exe
+  - VestCert.exe
+  - TEWeb64.exe
+  - INISAFECrossWebEXSvc.exe
+  - TmCCSF.exe
+  - veraport.exe
+  - igfxEM.exe
+  - igfxHK.exe
+  - nosstarter.npe
+  - I3GProc.exe
+  - DocuONE.exe
+  - jspltmon.exe
+  - keysharpnxbiz.exe
+  - jscpmon.exe
+  - CAudioFilterAgent64.exe
+  - jsnpmon.exe
+  - GnPlugin.exe
+  - jscfmrtmon.exe
+  - PowerManager.exe
+  - ETDCtrl.exe
+  - rundll32.exe
+  - jscfmmnmon.exe
+  - CoolMessenger.exe
+  - jsflprtmon.exe
+  - StikyNot.exe
+  - MWPGBackAgent.exe
+  - APO3GUI.exe
+  - SearchIndexer.exe
+  - g2brun.exe
+  - dts_apo_service.exe
+  - ETDCtrlHelper.exe
+  - devmonsrv.exe
+  - iusb3mon.exe
+  - svchost.exe
+  - HotkeyManager.exe
+  - jsupmon.exe
+  - obexsrv.exe
+  - HncCheck.exe
+  - UniCRSLocalServer.exe
+  - PccNTMon.exe
+  - jusched.exe
+  - mediasrv.exe
+  - wmpnetwk.exe
+  - jhi_service.exe
+  - LMS.exe
+  - Coolendar.exe
+  - MWPGMonitor.exe
+  - TMBMSRV.exe
+  - OUTLOOK.EXE
+  - chrome.exe
+  - chrome.exe
+  - chrome.exe
+  - chrome.exe
+  - chrome.exe
+  - jucheck.exe
+  - EXCEL.EXE
+  - splwow64.exe
+  - taskeng.exe
+  - audiodg.exe
+  - chrome.exe
+  - SearchProtocolHost.exe
+  - SearchFilterHost.exe
+  - WmiPrvSE.exe
+  - NDR_Logger.exe
+  - OfficeHardVEX.exe
+  - TEWebP.exe
+  - 
+
+[15:36:44.093] [ COfficeHardVEXApp::InitInstance ] PARAMETER = [ /NOUPDATE ] 
+
+[15:36:44.124]-------------------- /NOUPDATE --------------------
+
+[15:36:44.140][ CheckNetworkThread ] START!
+
+[15:36:44.202][ COHDProto::CheckNetwork ] INTERNET_CONNECTION_LAN
+
+[15:36:44.218][ COHDProto::CheckNetwork ] INTERNET_RAS_INSTALLED
+
+[15:36:44.218][ CheckNetworkThread ] NETWORK CONNECTED! 
+
+[15:36:44.218][ CheckNetworkThread ] CheckUpdate FALSE -- Login START! 
+
+[15:36:44.249] ************************************** SOCKET CONNECT! ************************************** vex.jiransecurity.com
+
+[15:36:44.578]    ▶▶▶    SEND [ A2 ] C_DOMAIN_LIST : [ 4132 ]
+
+[15:36:44.578]
+*************************************** [ DOMAIN_LIST 0 ] ***************************************
+- D-IDX = 1
+- D-NAME = 지란지교시큐리티
+- D-Addr = http://vex.jiransecurity.com
+- MAIN Title = VEX SECURITY
+- Message Title = JIRANSECURITY
+
+[15:36:44.594]
+*************************************** [ DOMAIN_LIST 1 ] ***************************************
+- D-IDX = 2
+- D-NAME = VEX QA
+- D-Addr = http://vexqa.jiransecurity.com
+- MAIN Title = OFFICEHARD VEX
+- Message Title = OFFICEHARD VEX
+
+[15:36:44.594]
+*************************************** [ DOMAIN_LIST : OPT ]***************************************
+- CUSTOM FLAG = JS
+- VERSION_INFO = 3.0.05-13
+- CONNECT TIMEOUT = 
+- SOCKET TIMEOUT = 
+- RETRY TIMEOUT = 
+- RETRY CNT = 
+- SERVER_IN = 
+- SERVER_OUT = 
+- TITLEBAR_COLOR = 
+- UPDATE_URL = http://vex.jiransecurity.com
+- AD_DOMAIN = 
+- INT_PREFIX = 
+- EXT_PREFIX = 
+- UPLOAD LIMIT = 0
+
+[15:36:44.610]
+ [ LOGIN OPTION ] = 1111101000001
+ LOGIN - 도메인 보여주기 = 1
+ LOGIN - 언어선택 보여주기 = 1
+ LOGIN - ID입력 보여주기 = 1
+ LOGIN - PW입력 보여주기 = 1
+ LOGIN - ID저장 보여주기 = 1
+ LOGIN - ID저장 체크하기 = 0
+ LOGIN - 자동로그인 보여주기 = 1
+ LOGIN - 자동로그인 체크하기 = 0
+ LOGIN - AD로그인(1:normal,2:initech,3:Active-X) = 0
+ LOGIN - WEB SSO사용하기 = 0
+ LOGIN - 로그아웃시 프로그램종료하기 = 0
+ LOGIN - 짧은 로그인창 = 0
+ LOGIN - AD로그인 실패시 프로그램종료하기 = 1
+ LOGIN - ID TEXT = 
+ LOGIN - PW TEXT = 
+
+[15:36:44.610]    ◀◀◀    RECEIVE [ 4132 ] Success!
+
+[15:36:44.625] [ CMainFrame::RunLoginUI ] CUSTOM FLAG = [ JS ]
+
+[15:36:44.641]    ▶▶▶    SEND [ A5 ] C_LANG_LIST : [ 4135 ]
+
+[15:36:44.641]    ◀◀◀    RECEIVE [ 4135 ] Success!
+
+[15:36:44.797][ CLoginDlg::OnInitDialog ] [ LOGIN_ID_SAVE_SHOW ] SHOW!
+
+[15:36:44.797][ CLoginDlg::OnInitDialog ] [ LOGIN_ID_SAVE_CHECK ] UNCHECKED!
+
+[15:36:44.812][ CLoginDlg::OnInitDialog ] [ LOGIN_AUTO_LOGIN_SHOW ] SHOW!
+
+[15:36:44.828][ CLoginDlg::OnInitDialog ] [ LOGIN_AUTO_LOGIN_CHECK ] UNCHECKED!
+
+[15:36:44.844][ CLoginDlg::MoveControlPos ] Called.
+
+[15:36:44.953][ CheckNetworkThread ] END!
+
+[15:36:46.669] [ CMainFrame::CloseAllDialog ] Called.
+
+[15:36:46.778] ************************************** SOCKET DISCONNECT! ************************************** 
+
+[15:36:46.794] [ COfficeHardVEXApp::ExitInstance ] 
+
+[15:36:53.720]
+
+====================================================================== VEX ======================================================================
+ [ COfficeHardVEXApp::InitInstance ] Mutex Create!
+
+[15:36:54.329]
+************************************************************************************************************************** 
+	 ARCHITECTURE = 64-bit 
+
+	WINDOWS VERSION = Windows 7 [  6 . 1 ]
+ **************************************************************************************************************************
+
+[15:36:54.360][ COfficeHardVEXApp::InitInstance ] Privilege = ADMINISTRATOR [ user ]
+
+[15:36:54.376] [ COfficeHardVEXApp::InitInstance ] File Version = v3.0.3.75
+
+[15:36:54.391][System Process]
+  - System
+  - smss.exe
+  - csrss.exe
+  - wininit.exe
+  - csrss.exe
+  - services.exe
+  - lsass.exe
+  - lsm.exe
+  - svchost.exe
+  - svchost.exe
+  - winlogon.exe
+  - svchost.exe
+  - svchost.exe
+  - svchost.exe
+  - svchost.exe
+  - igfxCUIService.exe
+  - wlanext.exe
+  - conhost.exe
+  - spoolsv.exe
+  - svchost.exe
+  - svchost.exe
+  - I3GMainSvc.exe
+  - armsvc.exe
+  - AnySign4PCLauncher.exe
+  - mDNSResponder.exe
+  - ObCrossEXService.exe
+  - CxAudMsg64.exe
+  - svchost.exe
+  - esif_uf.exe
+  - EvtEng.exe
+  - GnStart.exe
+  - GomHelperSvc.exe
+  - ibtsiva.exe
+  - IMGSF50Svc.exe
+  - IniClientSvc.exe
+  - jsplcmgr_service.exe
+  - jssvcmon.exe
+  - nossvc.exe
+  - npkfxsvc.exe
+  - NTRTScan.exe
+  - RegSrvc.exe
+  - SASrv.exe
+  - Goji.exe
+  - svchost.exe
+  - TENXW_SVR.exe
+  - TEWebP.exe
+  - VPWalletService.exe
+  - wpmsvc.exe
+  - TEWebP64.exe
+  - unsecapp.exe
+  - WmiPrvSE.exe
+  - WooriBankSecLogGather.exe
+  - ZeroConfigService.exe
+  - TmListen.exe
+  - jsfsflt_service.exe
+  - svchost.exe
+  - WUDFHost.exe
+  - svchost.exe
+  - CNTAoSMgr.exe
+  - conhost.exe
+  - taskhost.exe
+  - AnySign4PC.exe
+  - esif_assist.exe
+  - PresentationFontCache.exe
+  - dwm.exe
+  - IMGSF50Start_x64.exe
+  - explorer.exe
+  - IMGSF50Start_x86.exe
+  - jsnetmon.exe
+  - DocuONE.exe
+  - TEWeb.exe
+  - CrossEXService.exe
+  - delfino.exe
+  - GnAgent.exe
+  - VestCert.exe
+  - TEWeb64.exe
+  - INISAFECrossWebEXSvc.exe
+  - TmCCSF.exe
+  - veraport.exe
+  - igfxEM.exe
+  - igfxHK.exe
+  - nosstarter.npe
+  - I3GProc.exe
+  - DocuONE.exe
+  - jspltmon.exe
+  - keysharpnxbiz.exe
+  - jscpmon.exe
+  - CAudioFilterAgent64.exe
+  - jsnpmon.exe
+  - GnPlugin.exe
+  - jscfmrtmon.exe
+  - PowerManager.exe
+  - ETDCtrl.exe
+  - rundll32.exe
+  - jscfmmnmon.exe
+  - CoolMessenger.exe
+  - jsflprtmon.exe
+  - StikyNot.exe
+  - MWPGBackAgent.exe
+  - APO3GUI.exe
+  - SearchIndexer.exe
+  - g2brun.exe
+  - dts_apo_service.exe
+  - ETDCtrlHelper.exe
+  - devmonsrv.exe
+  - iusb3mon.exe
+  - svchost.exe
+  - HotkeyManager.exe
+  - jsupmon.exe
+  - obexsrv.exe
+  - HncCheck.exe
+  - UniCRSLocalServer.exe
+  - PccNTMon.exe
+  - jusched.exe
+  - mediasrv.exe
+  - wmpnetwk.exe
+  - jhi_service.exe
+  - LMS.exe
+  - Coolendar.exe
+  - MWPGMonitor.exe
+  - TMBMSRV.exe
+  - OUTLOOK.EXE
+  - chrome.exe
+  - chrome.exe
+  - chrome.exe
+  - chrome.exe
+  - chrome.exe
+  - jucheck.exe
+  - EXCEL.EXE
+  - splwow64.exe
+  - taskeng.exe
+  - audiodg.exe
+  - chrome.exe
+  - SearchProtocolHost.exe
+  - SearchFilterHost.exe
+  - WmiPrvSE.exe
+  - NDR_Logger.exe
+  - dllhost.exe
+  - OfficeHardVEX.exe
+  - TEWebP.exe
+  - 
+
+[15:36:55.265][ CheckNetworkThread ] START!
+
+[15:36:55.312][ COHDProto::CheckNetwork ] INTERNET_CONNECTION_LAN
+
+[15:36:55.327][ COHDProto::CheckNetwork ] INTERNET_RAS_INSTALLED
+
+[15:36:55.327][ CheckNetworkThread ] NETWORK CONNECTED! 
+
+[15:36:55.343][ CheckNetworkThread ] CheckUpdate TRUE -- Update START! 
+
+[15:36:55.358][ CMainFrame::OnUpdateStart] START!
+
+[15:36:55.374]SERVER ADDR = [ vex.jiransecurity.com ]	 PORT = [ 8300 ]
+
+[15:36:55.374] ************************************** SOCKET CONNECT! ************************************** vex.jiransecurity.com
+
+[15:36:55.686]    ▶▶▶    SEND [ A2 ] C_DOMAIN_LIST : [ 4132 ]
+
+[15:36:55.702]
+*************************************** [ DOMAIN_LIST 0 ] ***************************************
+- D-IDX = 1
+- D-NAME = 지란지교시큐리티
+- D-Addr = http://vex.jiransecurity.com
+- MAIN Title = VEX SECURITY
+- Message Title = JIRANSECURITY
+
+[15:36:55.702]
+*************************************** [ DOMAIN_LIST 1 ] ***************************************
+- D-IDX = 2
+- D-NAME = VEX QA
+- D-Addr = http://vexqa.jiransecurity.com
+- MAIN Title = OFFICEHARD VEX
+- Message Title = OFFICEHARD VEX
+
+[15:36:55.717]
+*************************************** [ DOMAIN_LIST : OPT ]***************************************
+- CUSTOM FLAG = JS
+- VERSION_INFO = 3.0.05-13
+- CONNECT TIMEOUT = 
+- SOCKET TIMEOUT = 
+- RETRY TIMEOUT = 
+- RETRY CNT = 
+- SERVER_IN = 
+- SERVER_OUT = 
+- TITLEBAR_COLOR = 
+- UPDATE_URL = http://vex.jiransecurity.com
+- AD_DOMAIN = 
+- INT_PREFIX = 
+- EXT_PREFIX = 
+- UPLOAD LIMIT = 0
+
+[15:36:55.733]
+ [ LOGIN OPTION ] = 1111101000001
+ LOGIN - 도메인 보여주기 = 1
+ LOGIN - 언어선택 보여주기 = 1
+ LOGIN - ID입력 보여주기 = 1
+ LOGIN - PW입력 보여주기 = 1
+ LOGIN - ID저장 보여주기 = 1
+ LOGIN - ID저장 체크하기 = 0
+ LOGIN - 자동로그인 보여주기 = 1
+ LOGIN - 자동로그인 체크하기 = 0
+ LOGIN - AD로그인(1:normal,2:initech,3:Active-X) = 0
+ LOGIN - WEB SSO사용하기 = 0
+ LOGIN - 로그아웃시 프로그램종료하기 = 0
+ LOGIN - 짧은 로그인창 = 0
+ LOGIN - AD로그인 실패시 프로그램종료하기 = 1
+ LOGIN - ID TEXT = 
+ LOGIN - PW TEXT = 
+
+[15:36:55.748]    ◀◀◀    RECEIVE [ 4132 ] Success!
+
+[15:36:55.764][ CMainFrame::OnUpdateStart ] UPDATE URL = http://vex.jiransecurity.com
+
+[15:36:55.780][ CMainFrame::ResetUpdateImage] FALSE!
+
+[15:36:55.795][ COHDUpdate::IsUpdate ] START!
+
+[15:36:55.811][ COHDUpdate::HTTPDown ] START!
+
+[15:36:55.826]
+************************************************************************************************************************** 
+	 URL = http://vex.jiransecurity.com/control/app/Update.ini.enc 
+
+	DEST DIR = C:\Users\user\Documents\OfficeHDVEX\Update\Update.ini.enc 
+ **************************************************************************************************************************
+
+[15:36:55.842][ COHDUpdate::OpenURLThread ] InternetOpenUrl START 
+
+[15:36:56.585][ COHDUpdate::OpenURLThread ] InternetOpenUrl END  
+
+[15:36:56.600][ COHDUpdate::HTTPDown ] GOTO_CLEAN - END!
+
+[15:36:56.741][ IsUpdateModule] SET_DOWNLOAD_DATA
+ 
+[15:36:56.756][ COHDUpdate::HTTPDown ] START!
+
+[15:36:56.772]
+************************************************************************************************************************** 
+	 URL = http://vex.jiransecurity.com/control/app/OfficeHardUpdate.exe.enc 
+
+	DEST DIR = C:\Users\user\Documents\OfficeHDVEX\Update\OfficeHardUpdate.exe.enc 
+ **************************************************************************************************************************
+
+[15:36:56.787][ COHDUpdate::OpenURLThread ] InternetOpenUrl START 
+
+[15:36:57.193][ COHDUpdate::OpenURLThread ] InternetOpenUrl END  
+
+[15:36:57.209][ COHDUpdate::HTTPDown ] GOTO_CLEAN - END!
+
+[15:36:57.240][ IsUpdateModule] HASH compare!
+C8D6C89460290CBA7C2B2E39065AF1727C0CF3BA
+C8D6C89460290CBA7C2B2E39065AF1727C0CF3BA
+ 
+[15:36:57.255][ IsUpdateModule] DeleteFile [ C:\Program Files (x86)\Jiransoft\OfficeHDVEX\OfficeHardUpdate.exe ]
+
+[15:36:57.255][ IsUpdateModule] MoveFile [ C:\Users\user\Documents\OfficeHDVEX\Update\OfficeHardUpdate.exe  to  C:\Program Files (x86)\Jiransoft\OfficeHDVEX\OfficeHardUpdate.exe ] 
+ 
+[15:36:57.271][ IsUpdateModule] [ C:\Program Files (x86)\Jiransoft\OfficeHDVEX\OfficeHardVEX.exe ]
+[ 3.0.3.75 ]
+[ 3.0.3.74 ]
+ 
+[15:36:57.287][ IsUpdateModule] [ C:\Program Files (x86)\Jiransoft\OfficeHDVEX\OHDLanguage.dll ]
+[ 1.0.1.66 ]
+[ 1.0.1.66 ]
+ 
+[15:36:57.302][ IsUpdateModule] [ C:\Program Files (x86)\Jiransoft\OfficeHDVEX\OHDMessage.dll ]
+[ 1.0.1.42 ]
+[ 1.0.1.42 ]
+ 
+[15:36:57.302][ IsUpdateModule] [ C:\Program Files (x86)\Jiransoft\OfficeHDVEX\OHDInterface.dll ]
+[ 1.0.3.84 ]
+[ 1.0.3.83 ]
+ 
+[15:36:57.318][ IsUpdateModule] [ C:\Program Files (x86)\Jiransoft\OfficeHDVEX\OHDDBUtil.dll ]
+[ 1.0.0.2 ]
+[ 1.0.0.2 ]
+ 
+[15:36:57.318][ IsUpdateModule] [ C:\Program Files (x86)\Jiransoft\OfficeHDVEX\OHDConnect.dll ]
+[ 1.0.2.71 ]
+[ 1.0.2.70 ]
+ 
+[15:36:57.333][ IsUpdateModule] LASTEST VERSION! 
+
+[15:36:57.333][ COHDUpdate::IsUpdate ] nUpdateModule return : -1 !
+
+[15:36:57.349][ COHDUpdate::HTTPDown ] START!
+
+[15:36:57.365]
+************************************************************************************************************************** 
+	 URL = http://vex.jiransecurity.com/control/image/Customize.ini.enc 
+
+	DEST DIR = C:\Users\user\Documents\OfficeHDVEX\Update\Customize.ini.enc 
+ **************************************************************************************************************************
+
+[15:36:57.365][ COHDUpdate::OpenURLThread ] InternetOpenUrl START 
+
+[15:36:57.723][ COHDUpdate::OpenURLThread ] InternetOpenUrl END  
+
+[15:36:57.739][ COHDUpdate::HTTPDown ] HttpQueryInfo return [ 201 ]
+
+[15:36:57.755][ COHDUpdate::IsUpdateImage ] HTTPDown Failed! [ 6 ] 
+
+[15:36:57.770] [ DeleteOldImagesNIcons ] return -1 
+
+[15:36:57.770][ COHDUpdate::IsUpdate ] nUpdateImage return : -1 !
+
+[15:36:57.786][ CMainFrame::ResetUpdateImage] TRUE!
+
+[15:36:57.801]    ▶▶▶    SEND [ A2 ] C_DOMAIN_LIST : [ 4132 ]
+
+[15:36:57.817]
+*************************************** [ DOMAIN_LIST 0 ] ***************************************
+- D-IDX = 1
+- D-NAME = 지란지교시큐리티
+- D-Addr = http://vex.jiransecurity.com
+- MAIN Title = VEX SECURITY
+- Message Title = JIRANSECURITY
+
+[15:36:57.833]
+*************************************** [ DOMAIN_LIST 1 ] ***************************************
+- D-IDX = 2
+- D-NAME = VEX QA
+- D-Addr = http://vexqa.jiransecurity.com
+- MAIN Title = OFFICEHARD VEX
+- Message Title = OFFICEHARD VEX
+
+[15:36:57.848]
+*************************************** [ DOMAIN_LIST : OPT ]***************************************
+- CUSTOM FLAG = JS
+- VERSION_INFO = 3.0.05-13
+- CONNECT TIMEOUT = 
+- SOCKET TIMEOUT = 
+- RETRY TIMEOUT = 
+- RETRY CNT = 
+- SERVER_IN = 
+- SERVER_OUT = 
+- TITLEBAR_COLOR = 
+- UPDATE_URL = http://vex.jiransecurity.com
+- AD_DOMAIN = 
+- INT_PREFIX = 
+- EXT_PREFIX = 
+- UPLOAD LIMIT = 0
+
+[15:36:57.848]
+ [ LOGIN OPTION ] = 1111101000001
+ LOGIN - 도메인 보여주기 = 1
+ LOGIN - 언어선택 보여주기 = 1
+ LOGIN - ID입력 보여주기 = 1
+ LOGIN - PW입력 보여주기 = 1
+ LOGIN - ID저장 보여주기 = 1
+ LOGIN - ID저장 체크하기 = 0
+ LOGIN - 자동로그인 보여주기 = 1
+ LOGIN - 자동로그인 체크하기 = 0
+ LOGIN - AD로그인(1:normal,2:initech,3:Active-X) = 0
+ LOGIN - WEB SSO사용하기 = 0
+ LOGIN - 로그아웃시 프로그램종료하기 = 0
+ LOGIN - 짧은 로그인창 = 0
+ LOGIN - AD로그인 실패시 프로그램종료하기 = 1
+ LOGIN - ID TEXT = 
+ LOGIN - PW TEXT = 
+
+[15:36:57.864]    ◀◀◀    RECEIVE [ 4132 ] Success!
+
+[15:36:57.879] [ CMainFrame::RunLoginUI ] CUSTOM FLAG = [ JS ]
+
+[15:36:57.895]    ▶▶▶    SEND [ A5 ] C_LANG_LIST : [ 4135 ]
+
+[15:36:57.911]    ◀◀◀    RECEIVE [ 4135 ] Success!
+
+[15:36:57.957][ CLoginDlg::OnInitDialog ] [ LOGIN_ID_SAVE_SHOW ] SHOW!
+
+[15:36:57.973][ CLoginDlg::OnInitDialog ] [ LOGIN_ID_SAVE_CHECK ] UNCHECKED!
+
+[15:36:57.989][ CLoginDlg::OnInitDialog ] [ LOGIN_AUTO_LOGIN_SHOW ] SHOW!
+
+[15:36:58.004][ CLoginDlg::OnInitDialog ] [ LOGIN_AUTO_LOGIN_CHECK ] UNCHECKED!
+
+[15:36:58.020][ CLoginDlg::MoveControlPos ] Called.
+
+[15:36:58.035][ CheckNetworkThread ] END!
+
+[15:37:07.919] ************************************** SOCKET DISCONNECT! ************************************** 
+
+[15:37:35.266] ************************************** SOCKET CONNECT! ************************************** 10.53.164.45
+
+[15:37:35.359]    ▶▶▶    SEND [ A2 ] C_DOMAIN_LIST : [ 4132 ]
+
+[15:37:35.391]
+*************************************** [ DOMAIN_LIST 0 ] ***************************************
+- D-IDX = 1
+- D-NAME = dbtest
+- D-Addr = http://10.53.164.45
+- MAIN Title = OFFICEHARD VEX
+- Message Title = OFFICEHARD VEX
+
+[15:37:35.391]
+*************************************** [ DOMAIN_LIST : OPT ]***************************************
+- CUSTOM FLAG = DEV136
+- VERSION_INFO = 3.0.05-14
+- CONNECT TIMEOUT = 
+- SOCKET TIMEOUT = 
+- RETRY TIMEOUT = 
+- RETRY CNT = 
+- SERVER_IN = 
+- SERVER_OUT = 
+- TITLEBAR_COLOR = 
+- UPDATE_URL = http://10.53.164.45
+- AD_DOMAIN = 
+- INT_PREFIX = 
+- EXT_PREFIX = 
+- UPLOAD LIMIT = 0
+
+[15:37:35.406]
+ [ LOGIN OPTION ] = 1111101000001
+ LOGIN - 도메인 보여주기 = 1
+ LOGIN - 언어선택 보여주기 = 1
+ LOGIN - ID입력 보여주기 = 1
+ LOGIN - PW입력 보여주기 = 1
+ LOGIN - ID저장 보여주기 = 1
+ LOGIN - ID저장 체크하기 = 0
+ LOGIN - 자동로그인 보여주기 = 1
+ LOGIN - 자동로그인 체크하기 = 0
+ LOGIN - AD로그인(1:normal,2:initech,3:Active-X) = 0
+ LOGIN - WEB SSO사용하기 = 0
+ LOGIN - 로그아웃시 프로그램종료하기 = 0
+ LOGIN - 짧은 로그인창 = 0
+ LOGIN - AD로그인 실패시 프로그램종료하기 = 1
+ LOGIN - ID TEXT = 
+ LOGIN - PW TEXT = 
+
+[15:37:35.406]    ◀◀◀    RECEIVE [ 4132 ] Success!
+
+[15:37:35.422]    ▶▶▶    SEND [ A5 ] C_LANG_LIST : [ 4135 ]
+
+[15:37:35.437]    ◀◀◀    RECEIVE [ 4135 ] Success!
+
+[15:37:35.469] [ RunAsStdUser ] START! [ OfficeHardVEX.exe ]
+
+[15:37:36.498][ UPDATE ][ RunAsStdUser ] END! return 1 
+
+[15:37:36.514] [ CMainFrame::CloseAllDialog ] Called.
+
+[15:37:36.635] ************************************** SOCKET DISCONNECT! ************************************** 
+
+[15:37:36.651] [ COfficeHardVEXApp::ExitInstance ] 
+
+[15:37:38.304]
+
+====================================================================== VEX ======================================================================
+ [ COfficeHardVEXApp::InitInstance ] Mutex Create!
+
+[15:37:39.240]
+************************************************************************************************************************** 
+	 ARCHITECTURE = 64-bit 
+
+	WINDOWS VERSION = Windows 7 [  6 . 1 ]
+ **************************************************************************************************************************
+
+[15:37:39.271][ COfficeHardVEXApp::InitInstance ] Privilege = ADMINISTRATOR [ user ]
+
+[15:37:39.271] [ COfficeHardVEXApp::InitInstance ] File Version = v3.0.3.75
+
+[15:37:39.287][System Process]
+  - System
+  - smss.exe
+  - csrss.exe
+  - wininit.exe
+  - csrss.exe
+  - services.exe
+  - lsass.exe
+  - lsm.exe
+  - svchost.exe
+  - svchost.exe
+  - winlogon.exe
+  - svchost.exe
+  - svchost.exe
+  - svchost.exe
+  - svchost.exe
+  - igfxCUIService.exe
+  - wlanext.exe
+  - conhost.exe
+  - spoolsv.exe
+  - svchost.exe
+  - svchost.exe
+  - I3GMainSvc.exe
+  - armsvc.exe
+  - AnySign4PCLauncher.exe
+  - mDNSResponder.exe
+  - ObCrossEXService.exe
+  - CxAudMsg64.exe
+  - svchost.exe
+  - esif_uf.exe
+  - EvtEng.exe
+  - GnStart.exe
+  - GomHelperSvc.exe
+  - ibtsiva.exe
+  - IMGSF50Svc.exe
+  - IniClientSvc.exe
+  - jsplcmgr_service.exe
+  - jssvcmon.exe
+  - nossvc.exe
+  - npkfxsvc.exe
+  - NTRTScan.exe
+  - RegSrvc.exe
+  - SASrv.exe
+  - Goji.exe
+  - svchost.exe
+  - TENXW_SVR.exe
+  - TEWebP.exe
+  - VPWalletService.exe
+  - wpmsvc.exe
+  - TEWebP64.exe
+  - unsecapp.exe
+  - WmiPrvSE.exe
+  - WooriBankSecLogGather.exe
+  - ZeroConfigService.exe
+  - TmListen.exe
+  - jsfsflt_service.exe
+  - svchost.exe
+  - WUDFHost.exe
+  - svchost.exe
+  - CNTAoSMgr.exe
+  - conhost.exe
+  - taskhost.exe
+  - AnySign4PC.exe
+  - esif_assist.exe
+  - PresentationFontCache.exe
+  - dwm.exe
+  - IMGSF50Start_x64.exe
+  - explorer.exe
+  - IMGSF50Start_x86.exe
+  - jsnetmon.exe
+  - DocuONE.exe
+  - TEWeb.exe
+  - CrossEXService.exe
+  - delfino.exe
+  - GnAgent.exe
+  - VestCert.exe
+  - TEWeb64.exe
+  - INISAFECrossWebEXSvc.exe
+  - TmCCSF.exe
+  - veraport.exe
+  - igfxEM.exe
+  - igfxHK.exe
+  - nosstarter.npe
+  - I3GProc.exe
+  - DocuONE.exe
+  - jspltmon.exe
+  - keysharpnxbiz.exe
+  - jscpmon.exe
+  - CAudioFilterAgent64.exe
+  - jsnpmon.exe
+  - GnPlugin.exe
+  - jscfmrtmon.exe
+  - PowerManager.exe
+  - ETDCtrl.exe
+  - rundll32.exe
+  - jscfmmnmon.exe
+  - CoolMessenger.exe
+  - jsflprtmon.exe
+  - StikyNot.exe
+  - MWPGBackAgent.exe
+  - APO3GUI.exe
+  - SearchIndexer.exe
+  - g2brun.exe
+  - dts_apo_service.exe
+  - ETDCtrlHelper.exe
+  - devmonsrv.exe
+  - iusb3mon.exe
+  - svchost.exe
+  - HotkeyManager.exe
+  - jsupmon.exe
+  - obexsrv.exe
+  - HncCheck.exe
+  - UniCRSLocalServer.exe
+  - PccNTMon.exe
+  - jusched.exe
+  - mediasrv.exe
+  - wmpnetwk.exe
+  - jhi_service.exe
+  - LMS.exe
+  - Coolendar.exe
+  - MWPGMonitor.exe
+  - TMBMSRV.exe
+  - OUTLOOK.EXE
+  - chrome.exe
+  - chrome.exe
+  - chrome.exe
+  - chrome.exe
+  - chrome.exe
+  - jucheck.exe
+  - EXCEL.EXE
+  - splwow64.exe
+  - taskeng.exe
+  - audiodg.exe
+  - chrome.exe
+  - SearchProtocolHost.exe
+  - SearchFilterHost.exe
+  - NDR_Logger.exe
+  - taskeng.exe
+  - OfficeHardVEX.exe
+  - 
+
+[15:37:40.866][ CheckNetworkThread ] START!
+
+[15:37:41.006][ COHDProto::CheckNetwork ] INTERNET_CONNECTION_LAN
+
+[15:37:41.006][ COHDProto::CheckNetwork ] INTERNET_RAS_INSTALLED
+
+[15:37:41.022][ CheckNetworkThread ] NETWORK CONNECTED! 
+
+[15:37:41.037][ CheckNetworkThread ] CheckUpdate TRUE -- Update START! 
+
+[15:37:41.053][ CMainFrame::OnUpdateStart] START!
+
+[15:37:41.053]SERVER ADDR = [ 10.53.164.45 ]	 PORT = [ 8300 ]
+
+[15:37:41.068] ************************************** SOCKET CONNECT! ************************************** 10.53.164.45
+
+[15:37:41.365]    ▶▶▶    SEND [ A2 ] C_DOMAIN_LIST : [ 4132 ]
+
+[15:37:41.396]
+*************************************** [ DOMAIN_LIST 0 ] ***************************************
+- D-IDX = 1
+- D-NAME = dbtest
+- D-Addr = http://10.53.164.45
+- MAIN Title = OFFICEHARD VEX
+- Message Title = OFFICEHARD VEX
+
+[15:37:41.412]
+*************************************** [ DOMAIN_LIST : OPT ]***************************************
+- CUSTOM FLAG = DEV136
+- VERSION_INFO = 3.0.05-14
+- CONNECT TIMEOUT = 
+- SOCKET TIMEOUT = 
+- RETRY TIMEOUT = 
+- RETRY CNT = 
+- SERVER_IN = 
+- SERVER_OUT = 
+- TITLEBAR_COLOR = 
+- UPDATE_URL = http://10.53.164.45
+- AD_DOMAIN = 
+- INT_PREFIX = 
+- EXT_PREFIX = 
+- UPLOAD LIMIT = 0
+
+[15:37:41.412]
+ [ LOGIN OPTION ] = 1111101000001
+ LOGIN - 도메인 보여주기 = 1
+ LOGIN - 언어선택 보여주기 = 1
+ LOGIN - ID입력 보여주기 = 1
+ LOGIN - PW입력 보여주기 = 1
+ LOGIN - ID저장 보여주기 = 1
+ LOGIN - ID저장 체크하기 = 0
+ LOGIN - 자동로그인 보여주기 = 1
+ LOGIN - 자동로그인 체크하기 = 0
+ LOGIN - AD로그인(1:normal,2:initech,3:Active-X) = 0
+ LOGIN - WEB SSO사용하기 = 0
+ LOGIN - 로그아웃시 프로그램종료하기 = 0
+ LOGIN - 짧은 로그인창 = 0
+ LOGIN - AD로그인 실패시 프로그램종료하기 = 1
+ LOGIN - ID TEXT = 
+ LOGIN - PW TEXT = 
+
+[15:37:41.427]    ◀◀◀    RECEIVE [ 4132 ] Success!
+
+[15:37:41.443][ CMainFrame::OnUpdateStart ] UPDATE URL = http://10.53.164.45
+
+[15:37:41.458][ CMainFrame::ResetUpdateImage] FALSE!
+
+[15:37:41.474][ COHDUpdate::IsUpdate ] START!
+
+[15:37:41.490][ COHDUpdate::HTTPDown ] START!
+
+[15:37:41.505]
+************************************************************************************************************************** 
+	 URL = http://10.53.164.45/control/app/Update.ini.enc 
+
+	DEST DIR = C:\Users\user\Documents\OfficeHDVEX\Update\Update.ini.enc 
+ **************************************************************************************************************************
+
+[15:37:41.521][ COHDUpdate::OpenURLThread ] InternetOpenUrl START 
+
+[15:37:54.166][ COHDUpdate::OpenURLThread ] InternetOpenUrl END  
+
+[15:37:54.166][ COHDUpdate::OpenURLThread ] ERROR!  m_hURL == NULL!  [ 12017 ]
+
+[15:37:54.181][ COHDUpdate::HTTPDown ] INTERNET_OPEN_TIMEOUT!
+
+[15:37:54.197]HTTP DOWNLOAD FAILED -->  http://10.53.164.45/control/app/Update.ini.enc [ 0 ]
+
+[15:37:54.197][ COHDUpdate::IsUpdate ] nUpdateModule return : -1 !
+
+[15:37:54.213][ COHDUpdate::HTTPDown ] START!
+
+[15:37:54.213]
+************************************************************************************************************************** 
+	 URL = http://10.53.164.45/control/image/Customize.ini.enc 
+
+	DEST DIR = C:\Users\user\Documents\OfficeHDVEX\Update\Customize.ini.enc 
+ **************************************************************************************************************************
+
+[15:37:54.228][ COHDUpdate::OpenURLThread ] InternetOpenUrl START 
+
+[15:37:55.851][ COHDUpdate::OpenURLThread ] InternetOpenUrl END  
+
+[15:37:55.866][ COHDUpdate::HTTPDown ] HttpQueryInfo return [ 201 ]
+
+[15:37:55.866][ COHDUpdate::IsUpdateImage ] HTTPDown Failed! [ 6 ] 
+
+[15:37:55.882] [ DeleteOldImagesNIcons ] return -1 
+
+[15:37:55.897][ COHDUpdate::IsUpdate ] nUpdateImage return : -1 !
+
+[15:37:55.897][ CMainFrame::ResetUpdateImage] TRUE!
+
+[15:37:55.929]    ▶▶▶    SEND [ A2 ] C_DOMAIN_LIST : [ 4132 ]
+
+[15:37:55.929]
+*************************************** [ DOMAIN_LIST 0 ] ***************************************
+- D-IDX = 1
+- D-NAME = dbtest
+- D-Addr = http://10.53.164.45
+- MAIN Title = OFFICEHARD VEX
+- Message Title = OFFICEHARD VEX
+
+[15:37:55.944]
+*************************************** [ DOMAIN_LIST : OPT ]***************************************
+- CUSTOM FLAG = DEV136
+- VERSION_INFO = 3.0.05-14
+- CONNECT TIMEOUT = 
+- SOCKET TIMEOUT = 
+- RETRY TIMEOUT = 
+- RETRY CNT = 
+- SERVER_IN = 
+- SERVER_OUT = 
+- TITLEBAR_COLOR = 
+- UPDATE_URL = http://10.53.164.45
+- AD_DOMAIN = 
+- INT_PREFIX = 
+- EXT_PREFIX = 
+- UPLOAD LIMIT = 0
+
+[15:37:55.960]
+ [ LOGIN OPTION ] = 1111101000001
+ LOGIN - 도메인 보여주기 = 1
+ LOGIN - 언어선택 보여주기 = 1
+ LOGIN - ID입력 보여주기 = 1
+ LOGIN - PW입력 보여주기 = 1
+ LOGIN - ID저장 보여주기 = 1
+ LOGIN - ID저장 체크하기 = 0
+ LOGIN - 자동로그인 보여주기 = 1
+ LOGIN - 자동로그인 체크하기 = 0
+ LOGIN - AD로그인(1:normal,2:initech,3:Active-X) = 0
+ LOGIN - WEB SSO사용하기 = 0
+ LOGIN - 로그아웃시 프로그램종료하기 = 0
+ LOGIN - 짧은 로그인창 = 0
+ LOGIN - AD로그인 실패시 프로그램종료하기 = 1
+ LOGIN - ID TEXT = 
+ LOGIN - PW TEXT = 
+
+[15:37:55.960]    ◀◀◀    RECEIVE [ 4132 ] Success!
+
+[15:37:55.975] [ CMainFrame::RunLoginUI ] CUSTOM FLAG = [ DEV136 ]
+
+[15:37:55.975]    ▶▶▶    SEND [ A5 ] C_LANG_LIST : [ 4135 ]
+
+[15:37:55.991]    ◀◀◀    RECEIVE [ 4135 ] Success!
+
+[15:37:56.038][ CLoginDlg::OnInitDialog ] [ LOGIN_ID_SAVE_SHOW ] SHOW!
+
+[15:37:56.053][ CLoginDlg::OnInitDialog ] [ LOGIN_ID_SAVE_CHECK ] UNCHECKED!
+
+[15:37:56.053][ CLoginDlg::OnInitDialog ] [ LOGIN_AUTO_LOGIN_SHOW ] SHOW!
+
+[15:37:56.069][ CLoginDlg::OnInitDialog ] [ LOGIN_AUTO_LOGIN_CHECK ] UNCHECKED!
+
+[15:37:56.069][ CLoginDlg::MoveControlPos ] Called.
+
+[15:37:56.163][ CheckNetworkThread ] END!
+
+[15:38:04.558][ CFileUtils::GetMacList ] 00-E0-4C-52-1E-AA|10-4A-7D-F1-DB-8B|00-09-0F-FE-00-01|10-4A-7D-F1-DB-87|12-4A-7D-F1-DB-88|12-4A-7D-F1-DB-87
+
+[15:38:04.558]    ▶▶▶    SEND [ B0 ] C_LOGIN : [ 4230 ]
+
+[15:38:04.842]
+*************************************** [ LOGIN ] ***************************************
+- SESSION ID = 59968b56e4af605bc6016b6f
+- USER NAME = test6
+- USER POSNAME = 
+- LAST LOGIN = 2017-08-14 18:17:06
+- LAST LOGIN IP = 
+- RESET PASSWORD = N
+- GEUST LOGIN = (null)
+- USER ID = test6
+- GROUP FULLPATH = 
+
+[15:38:04.858]    ◀◀◀    RECEIVE [ 4230 ] Success!
+
+[15:38:04.905]    ▶▶▶    SEND [ A1 ] C_OPTION : [ 4131 ]
+
+[15:38:05.328] [ ParsingContextStr ] CONTEXT MENU STRING! 
+ < APPOVAL REQUEST > : 결재요청$Approval Request$決栽要請
+ < APPROVAL REQUEST OUT > : 결재요청외부$Approval Request$決栽要請
+< APPROVAL REQUEST ENC > : DRM해제$Approval Request$決栽要請
+ < NETWORK TRANSFER > :망간파일전송$Transfer to other network$ネットワ?クファイル?送
+ < FILE TRANSFER > :파일전송$File Transfer$ファイル?送
+
+[15:38:05.343] 결재요청 : [ 결재요청  /  Approval Request  /  決栽要請 ]
+
+[15:38:05.359] 결재요청 Out : [ 결재요청외부  /  Approval Request  /  決栽要請 ]
+
+[15:38:05.375] 결재요청 ENC : [ DRM해제  /  Approval Request  /  決栽要請 ]
+
+[15:38:05.390] 망간파일전송 : [ 망간파일전송  /  Transfer to other network  /  ネットワ?クファイル?送 ]
+
+[15:38:05.406] 파일전송 : [ 파일전송  /  File Transfer  /  ファイル?送 ]
+
+[15:38:05.437]
+*************************************** [ OPTION ] ***************************************
+- PRIVACY MODEL = 
+- DRAFT = 
+- APPROVAL = 
+- MANUAL_URL = 
+- USE_ONLINE_HELP = N
+- DBCLICK_DIRECTEDIT = 
+- SYS_IDLE_TIME = 0
+- UPLOAD_CLOSE = 
+- DOWNLOAD_CLOSE = 
+- PW_MUST_USE = 
+- USER_FILE_LIMITIED = 
+- UPLOAD_RESULT_MSG = 
+- SUB OPTION = NNYNNNN
+- DBCLICK_NO_ACTION = 
+- DISABLE_SHARE_WRITE = 
+
+[15:38:05.453]
+- UPLOAD FACTOR = 
+- USE SHORTCUT =
+- USE RECEIVED CNT = 
+- DRM_ICON = 
+- IE OPTION = 
+- CUSTOM DOWNLOAD = 
+- NET ERR MSG = 
+
+[15:38:05.453]
+ [ MENUBAR OPTION ] = YNYYYYYYYYN
+ MENUBAR - 새폴더 = Y
+ MENUBAR - 결재요청 = N
+ MENUBAR - 업로드 = Y
+ MENUBAR - 다운로드 = Y
+ MENUBAR - 폴더공유 = Y
+ MENUBAR - 삭제 = Y
+ MENUBAR - 복사 = Y
+ MENUBAR - 잘라내기 = Y
+ MENUBAR - 붙여넣기 = Y
+ MENUBAR - 링크생성 = Y
+ MENUBAR - 문서편집 = N
+
+[15:38:05.453]    ◀◀◀    RECEIVE [ 4131 ] Success!
+
+[15:38:05.468]SessionUpdate TIME = 600000
+
+[15:38:05.733] [ CClientTreeCtrl::IsDisplay ] ILIsEqual( pidlFullyQual, m_pIdlControls )
+
+[15:38:05.858] [ CClientTreeCtrl::IsDisplay ] LIBRARY : ILIsEqual( pidlFullyQual, m_pIdlLibrary ) 
+
+[15:38:05.905] [ CClientTreeCtrl::IsDisplay ] NETWORK :  ILIsEqual( pidlFullyQual, m_pIdlNetwork ) 
+
+[15:38:06.045]    ▶▶▶    SEND [ D0 ] C_FD_LIST : [ 4430 ]     ---  file count = 1 --- capacity = 0
+
+[15:38:06.077][ D0 ] CONTINUE = N
+
+[15:38:06.092]    ◀◀◀    RECEIVE [ 4430 ] Success!
+
+[15:38:06.092] [ C_ALARM_UPDATE ] 
+ -- SHARE = 0
+ -- LINK = 
+ -- DRAFT = 0
+ -- APPROVAL = 
+ -- DELETE = 
+ -- SHORTCUT = 
+
+[15:38:06.108][ COHDProto::GetQuotaUpdate ] C_QUOTA_LIST 
+
+[15:38:06.123]    ▶▶▶    SEND [ B5 ] C_QUOTA_LIST : [ 4235 ]
+
+[15:38:06.201] [ C_QUOTA_LIST ] ( 14859593 ) / ( 10485760000 ) - 20 sec
+
+[15:38:06.233] [ CInfoBarDlg::SetMyDiskUsage ] 14.2 MB(0%) / 9.8 GB
+
+[15:38:06.264] [ CFileUtils::LoadPlacement ] (51, 120, 1331, 888) - Login : 1
+
+[15:38:06.295]    ▶▶▶    SEND [ D0 ] C_FD_LIST : [ 4430 ]     ---  file count = 1 --- capacity = 0
+
+[15:38:06.326][ D0 ] CONTINUE = N
+
+[15:38:06.342]    ◀◀◀    RECEIVE [ 4430 ] Success!
+
+[15:38:06.373]    ▶▶▶    SEND [ D0 ] C_FD_LIST : [ 4430 ]     ---  file count = 1 --- capacity = 0
+
+[15:38:06.389][ D0 ] CONTINUE = Y
+
+[15:38:06.389]    ◀◀◀    RECEIVE [ 4430 ] Success!
+
+[15:38:06.420]    ▶▶▶    SEND [ D0 ] C_FD_LIST : [ 4430 ]     ---  file count = 1 --- capacity = 0
+
+[15:38:06.435][ D0 ] CONTINUE = N
+
+[15:38:06.435]    ◀◀◀    RECEIVE [ 4430 ] Success!
+
+[15:38:06.513] [ CMainFrame::LoadWindowSize ] SplitSize : Wid = 557, Hei = 476 
+
+[15:38:06.529] [ CMainFrame::OnMaximiseFromTray ] 
+
+[15:38:06.779][ COHDRegistry::GetLastFullPath ]
+FullPathServer : 240/737
+FullPathClient : D:\file 
+
+[15:38:10.211] [ COHDHtmlView::OnDocumentComplete ] 
+http://10.53.164.45/pm/app/popScript.htm
+
+[15:38:10.507] [ CMainFrame::CloseAllDialog ] Called.
+
+[15:38:10.523]    ▶▶▶    SEND [ B1 ] C_LOGOUT : [ 4231 ]
+
+[15:38:10.538]    ◀◀◀    RECEIVE [ 4231 ] Success!
+
+[15:38:10.554] ************************************** SOCKET DISCONNECT! ************************************** 
+
+[15:38:10.554] [ CFileUtils::SavePlacement ] (51, 120, 1331, 888) - showcmd : 3
+
+[15:38:10.569] [ CMainFrame::SaveWindowSize ] SplitSize : Wid = 557, Hei = 476 
+
+[15:38:10.616][ COHDRegistry::SetLastFullPath ]
+FullPathServer : 75
+FullPathClient :  
+
+[15:38:10.679] ************************************** SOCKET CONNECT! ************************************** 10.53.164.45
+
+[15:38:10.788]    ▶▶▶    SEND [ A2 ] C_DOMAIN_LIST : [ 4132 ]
+
+[15:38:10.819]
+*************************************** [ DOMAIN_LIST 0 ] ***************************************
+- D-IDX = 1
+- D-NAME = dbtest
+- D-Addr = http://10.53.164.45
+- MAIN Title = OFFICEHARD VEX
+- Message Title = OFFICEHARD VEX
+
+[15:38:10.835]
+*************************************** [ DOMAIN_LIST : OPT ]***************************************
+- CUSTOM FLAG = DEV136
+- VERSION_INFO = 3.0.05-14
+- CONNECT TIMEOUT = 
+- SOCKET TIMEOUT = 
+- RETRY TIMEOUT = 
+- RETRY CNT = 
+- SERVER_IN = 
+- SERVER_OUT = 
+- TITLEBAR_COLOR = 
+- UPDATE_URL = http://10.53.164.45
+- AD_DOMAIN = 
+- INT_PREFIX = 
+- EXT_PREFIX = 
+- UPLOAD LIMIT = 0
+
+[15:38:10.850]
+ [ LOGIN OPTION ] = 1111101000001
+ LOGIN - 도메인 보여주기 = 1
+ LOGIN - 언어선택 보여주기 = 1
+ LOGIN - ID입력 보여주기 = 1
+ LOGIN - PW입력 보여주기 = 1
+ LOGIN - ID저장 보여주기 = 1
+ LOGIN - ID저장 체크하기 = 0
+ LOGIN - 자동로그인 보여주기 = 1
+ LOGIN - 자동로그인 체크하기 = 0
+ LOGIN - AD로그인(1:normal,2:initech,3:Active-X) = 0
+ LOGIN - WEB SSO사용하기 = 0
+ LOGIN - 로그아웃시 프로그램종료하기 = 0
+ LOGIN - 짧은 로그인창 = 0
+ LOGIN - AD로그인 실패시 프로그램종료하기 = 1
+ LOGIN - ID TEXT = 
+ LOGIN - PW TEXT = 
+
+[15:38:10.850]    ◀◀◀    RECEIVE [ 4132 ] Success!
+
+[15:38:10.866] [ CMainFrame::RunLoginUI ] CUSTOM FLAG = [ DEV136 ]
+
+[15:38:10.881]    ▶▶▶    SEND [ A5 ] C_LANG_LIST : [ 4135 ]
+
+[15:38:10.881]    ◀◀◀    RECEIVE [ 4135 ] Success!
+
+[15:38:10.928][ CLoginDlg::OnInitDialog ] [ LOGIN_ID_SAVE_SHOW ] SHOW!
+
+[15:38:10.944][ CLoginDlg::OnInitDialog ] [ LOGIN_ID_SAVE_CHECK ] UNCHECKED!
+
+[15:38:10.959][ CLoginDlg::OnInitDialog ] [ LOGIN_AUTO_LOGIN_SHOW ] SHOW!
+
+[15:38:10.975][ CLoginDlg::OnInitDialog ] [ LOGIN_AUTO_LOGIN_CHECK ] UNCHECKED!
+
+[15:38:10.991][ CLoginDlg::MoveControlPos ] Called.
+
+[15:38:20.888] ************************************** SOCKET DISCONNECT! ************************************** 
+
+[15:38:21.481] ************************************** SOCKET CONNECT! ************************************** vex.jiransecurity.com
+
+[15:38:21.684]    ▶▶▶    SEND [ A2 ] C_DOMAIN_LIST : [ 4132 ]
+
+[15:38:21.715]
+*************************************** [ DOMAIN_LIST 0 ] ***************************************
+- D-IDX = 1
+- D-NAME = 지란지교시큐리티
+- D-Addr = http://vex.jiransecurity.com
+- MAIN Title = VEX SECURITY
+- Message Title = JIRANSECURITY
+
+[15:38:21.730]
+*************************************** [ DOMAIN_LIST 1 ] ***************************************
+- D-IDX = 2
+- D-NAME = VEX QA
+- D-Addr = http://vexqa.jiransecurity.com
+- MAIN Title = OFFICEHARD VEX
+- Message Title = OFFICEHARD VEX
+
+[15:38:21.746]
+*************************************** [ DOMAIN_LIST : OPT ]***************************************
+- CUSTOM FLAG = JS
+- VERSION_INFO = 3.0.05-13
+- CONNECT TIMEOUT = 
+- SOCKET TIMEOUT = 
+- RETRY TIMEOUT = 
+- RETRY CNT = 
+- SERVER_IN = 
+- SERVER_OUT = 
+- TITLEBAR_COLOR = 
+- UPDATE_URL = http://vex.jiransecurity.com
+- AD_DOMAIN = 
+- INT_PREFIX = 
+- EXT_PREFIX = 
+- UPLOAD LIMIT = 0
+
+[15:38:21.762]
+ [ LOGIN OPTION ] = 1111101000001
+ LOGIN - 도메인 보여주기 = 1
+ LOGIN - 언어선택 보여주기 = 1
+ LOGIN - ID입력 보여주기 = 1
+ LOGIN - PW입력 보여주기 = 1
+ LOGIN - ID저장 보여주기 = 1
+ LOGIN - ID저장 체크하기 = 0
+ LOGIN - 자동로그인 보여주기 = 1
+ LOGIN - 자동로그인 체크하기 = 0
+ LOGIN - AD로그인(1:normal,2:initech,3:Active-X) = 0
+ LOGIN - WEB SSO사용하기 = 0
+ LOGIN - 로그아웃시 프로그램종료하기 = 0
+ LOGIN - 짧은 로그인창 = 0
+ LOGIN - AD로그인 실패시 프로그램종료하기 = 1
+ LOGIN - ID TEXT = 
+ LOGIN - PW TEXT = 
+
+[15:38:21.777]    ◀◀◀    RECEIVE [ 4132 ] Success!
+
+[15:38:21.793]    ▶▶▶    SEND [ A5 ] C_LANG_LIST : [ 4135 ]
+
+[15:38:21.808]    ◀◀◀    RECEIVE [ 4135 ] Success!
+
+[15:38:21.840] [ RunAsStdUser ] START! [ OfficeHardVEX.exe ]
+
+[15:38:22.058][ UPDATE ][ RunAsStdUser ] END! return 1 
+
+[15:38:22.074] [ CMainFrame::CloseAllDialog ] Called.
+
+[15:38:22.136] ************************************** SOCKET DISCONNECT! ************************************** 
+
+[15:38:30.518]
+
+====================================================================== VEX ======================================================================
+ [ COfficeHardVEXApp::InitInstance ] Mutex Create!
+
+[15:38:30.534]CreateMutext --> ERROR_ALREADY_EXISTS!! Return!!
+
+[15:38:30.549] [ COfficeHardVEXApp::ExitInstance ] 
+

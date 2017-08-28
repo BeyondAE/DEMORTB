@@ -1,0 +1,475 @@
+[11:08:20.120]
+
+====================================================================== VEX ======================================================================
+ [ COfficeHardVEXApp::InitInstance ] Mutex Create!
+
+[11:08:20.604]
+************************************************************************************************************************** 
+	 ARCHITECTURE = 64-bit 
+
+	WINDOWS VERSION = Windows 7 [  6 . 1 ]
+ **************************************************************************************************************************
+
+[11:08:20.606][ COfficeHardVEXApp::InitInstance ] Privilege = ADMINISTRATOR [ User ]
+
+[11:08:20.609] [ COfficeHardVEXApp::InitInstance ] File Version = v3.0.3.74
+
+[11:08:20.613][System Process]
+  - System
+  - smss.exe
+  - csrss.exe
+  - wininit.exe
+  - csrss.exe
+  - services.exe
+  - lsass.exe
+  - lsm.exe
+  - winlogon.exe
+  - svchost.exe
+  - svchost.exe
+  - svchost.exe
+  - svchost.exe
+  - svchost.exe
+  - svchost.exe
+  - svchost.exe
+  - RtkAudioService64.exe
+  - RAVBg64.exe
+  - svchost.exe
+  - spoolsv.exe
+  - svchost.exe
+  - I3GMainSvc.exe
+  - armsvc.exe
+  - AnySign4PCLauncher.exe
+  - AppleMobileDeviceService.exe
+  - ddmgr.exe
+  - svchost.exe
+  - f_LPS.exe
+  - G4CWSLocalServer.exe
+  - GnStart.exe
+  - IMGSF50Svc.exe
+  - innosvc7.exe
+  - sqlservr.exe
+  - nossvc.exe
+  - NTRTScan.exe
+  - nxTSSvc.exe
+  - ASDSvc.exe
+  - SecureFolderService.exe
+  - Goji.exe
+  - sqlbrowser.exe
+  - sqlwriter.exe
+  - svchost.exe
+  - TENXW_SVR.exe
+  - VisualSVNServer.exe
+  - VPWalletService.exe
+  - wpmsvc.exe
+  - VisualSVNServer.exe
+  - taskhost.exe
+  - AnySign4PC.exe
+  - dwm.exe
+  - explorer.exe
+  - VestCert.exe
+  - nxTS.exe
+  - GnAgent.exe
+  - I3GProc.exe
+  - hkcmd.exe
+  - StSess.exe
+  - CoolMessenger.exe
+  - SMemo.exe
+  - No!화면보호기.exe
+  - Agile1pAgent.exe
+  - duet.exe
+  - PccNTMon.exe
+  - TSVNCache.exe
+  - jsupmon.exe
+  - TmListen.exe
+  - delfino.exe
+  - IMGSF50Start_x64.exe
+  - IMGSF50Start_x86.exe
+  - TEWebP.exe
+  - svchost.exe
+  - svchost.exe
+  - veraport.exe
+  - jspltmon.exe
+  - TEWebP64.exe
+  - jscpmon.exe
+  - GnPlugin.exe
+  - rundll32.exe
+  - rundll32.exe
+  - rundll32.exe
+  - jscfmrtmon.exe
+  - keysharpnxbiz.exe
+  - TEWeb.exe
+  - TEWeb64.exe
+  - jscfmmnmon.exe
+  - fph.exe
+  - SearchIndexer.exe
+  - jsflprtmon.exe
+  - Coolendar.exe
+  - fph.exe
+  - nosstarter.npe
+  - wmpnetwk.exe
+  - StSess32.exe
+  - MWPGBackAgent.exe
+  - OUTLOOK.EXE
+  - CNTAoSMgr.exe
+  - conhost.exe
+  - GoogleCrashHandler.exe
+  - GoogleCrashHandler64.exe
+  - TmCCSF.exe
+  - MWPGMonitor.exe
+  - TMBMSRV.exe
+  - IAStorDataMgrSvc.exe
+  - devenv.exe
+  - notepad.exe
+  - KakaoTalk.exe
+  - WmiPrvSE.exe
+  - unsecapp.exe
+  - mspdbsrv.exe
+  - chrome.exe
+  - chrome.exe
+  - chrome.exe
+  - chrome.exe
+  - chrome.exe
+  - chrome.exe
+  - cmd.exe
+  - conhost.exe
+  - 1Password.NativeMessagingHost.exe
+  - chrome.exe
+  - filezilla.exe
+  - notepad.exe
+  - EXCEL.EXE
+  - splwow64.exe
+  - 1Password.exe
+  - regedit.exe
+  - jsnetmon.exe
+  - jsnpmon.exe
+  - jssvcmon.exe
+  - DbxSvc.exe
+  - Dropbox.exe
+  - Dropbox.exe
+  - Dropbox.exe
+  - fzsftp.exe
+  - conhost.exe
+  - taskeng.exe
+  - filezilla.exe
+  - fzsftp.exe
+  - conhost.exe
+  - fzsftp.exe
+  - conhost.exe
+  - devenv.exe
+  - MSBuild.exe
+  - conhost.exe
+  - mspdbsrv.exe
+  - SearchProtocolHost.exe
+  - audiodg.exe
+  - iexplore.exe
+  - iexplore.exe
+  - SearchFilterHost.exe
+  - taskeng.exe
+  - vcpkgsrv.exe
+  - vcpkgsrv.exe
+  - NDR_Logger.exe
+  - OfficeHardVEX.exe
+  - 
+
+[11:08:20.859][ CheckNetworkThread ] START!
+
+[11:08:20.868][ COHDProto::CheckNetwork ] INTERNET_CONNECTION_LAN
+
+[11:08:20.876][ COHDProto::CheckNetwork ] INTERNET_RAS_INSTALLED
+
+[11:08:20.880][ CheckNetworkThread ] NETWORK CONNECTED! 
+
+[11:08:20.883][ CheckNetworkThread ] CheckUpdate TRUE -- Update START! 
+
+[11:08:20.887][ CMainFrame::OnUpdateStart] START!
+
+[11:08:20.891]SERVER ADDR = [ 10.52.5.181  ]	 PORT = [ 8300 ]
+
+[11:08:20.894] ************************************** SOCKET CONNECT! ************************************** 10.52.5.181 
+
+[11:08:20.984]    ▶▶▶    SEND [ A2 ] C_DOMAIN_LIST : [ 4132 ]
+
+[11:08:20.993]
+*************************************** [ DOMAIN_LIST 0 ] ***************************************
+- D-IDX = 1
+- D-NAME = DEV-MAIN
+- D-Addr = http://10.52.5.181
+- MAIN Title = OFFICEHARD VEX
+- Message Title = OFFICEHARD VEX
+
+[11:08:20.997]
+*************************************** [ DOMAIN_LIST 1 ] ***************************************
+- D-IDX = 2
+- D-NAME = vex2
+- D-Addr = http://vex2.officehard.com
+- MAIN Title = OFFICEHARD VEX
+- Message Title = OFFICEHARD VEX
+
+[11:08:21.001]
+*************************************** [ DOMAIN_LIST 2 ] ***************************************
+- D-IDX = 29
+- D-NAME = vex5
+- D-Addr = http://vex5.officehar.d.com
+- MAIN Title = OFFICEHARD VEX
+- Message Title = OFFICEHARD VEX
+
+[11:08:21.006]
+*************************************** [ DOMAIN_LIST 3 ] ***************************************
+- D-IDX = 31
+- D-NAME = vex30
+- D-Addr = http://vex30.officehard.com
+- MAIN Title = OFFICEHARD VEX
+- Message Title = OFFICEHARD VEX
+
+[11:08:21.009]
+*************************************** [ DOMAIN_LIST 4 ] ***************************************
+- D-IDX = 32
+- D-NAME = vex32
+- D-Addr = http://vex32.officehard.com
+- MAIN Title = OFFICEHARD VEX
+- Message Title = OFFICEHARD VEX
+
+[11:08:21.013]
+*************************************** [ DOMAIN_LIST : OPT ]***************************************
+- CUSTOM FLAG = JIRANSOFT
+- VERSION_INFO = 3.0.04-67
+- CONNECT TIMEOUT = 5
+- SOCKET TIMEOUT = 100
+- RETRY TIMEOUT = 5
+- RETRY CNT = 10
+- SERVER_IN = 10.52.5.181:8300
+- SERVER_OUT = 10.52.5.185:8300
+- LOGIN OPTION = 1111101000010
+- TITLEBAR_COLOR = ffaacc5
+- UPDATE_URL = http://10.52.5.181
+- AD_DOMAIN = SMART.KCA
+- INT_PREFIX = {안]
+- EXT_PREFIX = [밖}
+- UPLOAD LIMIT = 2147483648
+
+[11:08:21.022]
+- ID TEXT = 사원번호
+- PWD TEXT = 그룹웨어 P/W
+
+[11:08:21.028]    ◀◀◀    RECEIVE [ 4132 ] Success!
+
+[11:08:21.034][ CMainFrame::OnUpdateStart ] UPDATE URL = http://10.52.5.181
+
+[11:08:21.039][ CMainFrame::ResetUpdateImage] FALSE!
+
+[11:08:21.043][ COHDUpdate::IsUpdate ] START!
+
+[11:08:21.047][ COHDUpdate::HTTPDown ] START!
+
+[11:08:21.051]
+************************************************************************************************************************** 
+	 URL = http://10.52.5.181/control/app/Update.ini.enc 
+
+	DEST DIR = C:\Users\User\Documents\OfficeHDVEX\Update\Update.ini.enc 
+ **************************************************************************************************************************
+
+[11:08:21.056][ COHDUpdate::OpenURLThread ] InternetOpenUrl START 
+
+[11:08:21.085][ COHDUpdate::OpenURLThread ] InternetOpenUrl END  
+
+[11:08:21.092][ COHDUpdate::HTTPDown ] GOTO_CLEAN - END!
+
+[11:08:21.224][ IsUpdateModule] [ C:\Program Files (x86)\Jiransoft\OfficeHDVEX\OfficeHardVEX.exe ]
+[ 3.0.3.74 ]
+[ 3.0.3.74 ]
+ 
+[11:08:21.230][ IsUpdateModule] [ C:\Program Files (x86)\Jiransoft\OfficeHDVEX\OHDLanguage.dll ]
+[ 1.0.1.66 ]
+[ 1.0.1.66 ]
+ 
+[11:08:21.233][ IsUpdateModule] [ C:\Program Files (x86)\Jiransoft\OfficeHDVEX\OHDMessage.dll ]
+[ 1.0.1.42 ]
+[ 1.0.1.42 ]
+ 
+[11:08:21.237][ IsUpdateModule] [ C:\Program Files (x86)\Jiransoft\OfficeHDVEX\OHDInterface.dll ]
+[ 1.0.3.83 ]
+[ 1.0.3.83 ]
+ 
+[11:08:21.241][ IsUpdateModule] [ C:\Program Files (x86)\Jiransoft\OfficeHDVEX\OHDDBUtil.dll ]
+[ 1.0.0.2 ]
+[ 1.0.0.2 ]
+ 
+[11:08:21.244][ IsUpdateModule] [ C:\Program Files (x86)\Jiransoft\OfficeHDVEX\OHDConnect.dll ]
+[ 1.0.2.70 ]
+[ 1.0.2.70 ]
+ 
+[11:08:21.248][ IsUpdateModule] LASTEST VERSION! 
+
+[11:08:21.252][ COHDUpdate::IsUpdate ] nUpdateModule return : -1 !
+
+[11:08:21.256][ COHDUpdate::HTTPDown ] START!
+
+[11:08:21.260]
+************************************************************************************************************************** 
+	 URL = http://10.52.5.181/control/image/Customize.ini.enc 
+
+	DEST DIR = C:\Users\User\Documents\OfficeHDVEX\Update\Customize.ini.enc 
+ **************************************************************************************************************************
+
+[11:08:21.264][ COHDUpdate::OpenURLThread ] InternetOpenUrl START 
+
+[11:08:21.269][ COHDUpdate::OpenURLThread ] InternetOpenUrl END  
+
+[11:08:21.275][ COHDUpdate::HTTPDown ] GOTO_CLEAN - END!
+
+[11:08:21.285][ COHDUpdate::IsUpdate ] nUpdateImage return : -1 !
+
+[11:08:21.293][ CMainFrame::ResetUpdateImage] TRUE!
+
+[11:08:21.317][ CMainFrame::GetIntDomainInfo ] INTERNAL ADDR : [ 10.52.5.181 : 8300 ]
+
+[11:08:21.322] ************************************** SOCKET DISCONNECT! ************************************** 
+
+[11:08:21.327] ************************************** SOCKET CONNECT! ************************************** 10.52.5.181
+
+[11:08:21.392]    ▶▶▶    SEND [ A2 ] C_DOMAIN_LIST : [ 4132 ]
+
+[11:08:21.401]
+*************************************** [ DOMAIN_LIST 0 ] ***************************************
+- D-IDX = 1
+- D-NAME = DEV-MAIN
+- D-Addr = http://10.52.5.181
+- MAIN Title = OFFICEHARD VEX
+- Message Title = OFFICEHARD VEX
+
+[11:08:21.405]
+*************************************** [ DOMAIN_LIST 1 ] ***************************************
+- D-IDX = 2
+- D-NAME = vex2
+- D-Addr = http://vex2.officehard.com
+- MAIN Title = OFFICEHARD VEX
+- Message Title = OFFICEHARD VEX
+
+[11:08:21.410]
+*************************************** [ DOMAIN_LIST 2 ] ***************************************
+- D-IDX = 29
+- D-NAME = vex5
+- D-Addr = http://vex5.officehar.d.com
+- MAIN Title = OFFICEHARD VEX
+- Message Title = OFFICEHARD VEX
+
+[11:08:21.415]
+*************************************** [ DOMAIN_LIST 3 ] ***************************************
+- D-IDX = 31
+- D-NAME = vex30
+- D-Addr = http://vex30.officehard.com
+- MAIN Title = OFFICEHARD VEX
+- Message Title = OFFICEHARD VEX
+
+[11:08:21.419]
+*************************************** [ DOMAIN_LIST 4 ] ***************************************
+- D-IDX = 32
+- D-NAME = vex32
+- D-Addr = http://vex32.officehard.com
+- MAIN Title = OFFICEHARD VEX
+- Message Title = OFFICEHARD VEX
+
+[11:08:21.420]
+*************************************** [ DOMAIN_LIST : OPT ]***************************************
+- CUSTOM FLAG = JIRANSOFT
+- VERSION_INFO = 3.0.04-67
+- CONNECT TIMEOUT = 5
+- SOCKET TIMEOUT = 100
+- RETRY TIMEOUT = 5
+- RETRY CNT = 10
+- SERVER_IN = 10.52.5.181:8300
+- SERVER_OUT = 10.52.5.185:8300
+- LOGIN OPTION = 1111101000010
+- TITLEBAR_COLOR = ffaacc5
+- UPDATE_URL = http://10.52.5.181
+- AD_DOMAIN = SMART.KCA
+- INT_PREFIX = {안]
+- EXT_PREFIX = [밖}
+- UPLOAD LIMIT = 2147483648
+
+[11:08:21.424]
+- ID TEXT = 사원번호
+- PWD TEXT = 그룹웨어 P/W
+
+[11:08:21.425]    ◀◀◀    RECEIVE [ 4132 ] Success!
+
+[11:08:21.429][ CMainFrame::GetExtDomainInfo ] EXTERNAL ADDR : [ 10.52.5.185 : 8300 ]
+
+[11:08:21.433] ************************************** SOCKET CONNECT! ************************************** 10.52.5.185
+
+[11:08:21.484]    ▶▶▶    SEND [ A2 ] C_DOMAIN_LIST : [ 4132 ]
+
+[11:08:21.490]
+*************************************** [ DOMAIN_LIST 0 ] ***************************************
+- D-IDX = 1
+- D-NAME = 185
+- D-Addr = http://10.52.5.185
+- MAIN Title = OFFICEHARD VEX
+- Message Title = OFFICEHARD VEX
+
+[11:08:21.494]
+*************************************** [ DOMAIN_LIST : OPT ]***************************************
+- CUSTOM FLAG = DEV185
+- VERSION_INFO = 3.0.05-10
+- CONNECT TIMEOUT = 100
+- SOCKET TIMEOUT = 100
+- RETRY TIMEOUT = 
+- RETRY CNT = 
+- SERVER_IN = 
+- SERVER_OUT = 
+- LOGIN OPTION = 1111101030010
+- TITLEBAR_COLOR = 
+- UPDATE_URL = http://10.52.5.185
+- AD_DOMAIN = 
+- INT_PREFIX = 
+- EXT_PREFIX = 
+- UPLOAD LIMIT = 209715200
+
+[11:08:21.497]
+- ID TEXT = 사원번호
+- PWD TEXT = 그룹웨어 P/W
+
+[11:08:21.498]    ◀◀◀    RECEIVE [ 4132 ] Success!
+
+[11:08:21.499] ************************************** SOCKET DISCONNECT! ************************************** 
+
+[11:08:21.503] ================================ MERGE DOMAIN ================================ 
+
+[11:08:21.506] [  DEV-MAIN  ] 10.52.5.181:8300
+
+[11:08:21.507] [  vex2  ] 10.52.5.181:8300
+
+[11:08:21.507] [  vex5  ] 10.52.5.181:8300
+
+[11:08:21.511] [  vex30  ] 10.52.5.181:8300
+
+[11:08:21.514] [  vex32  ] 10.52.5.181:8300
+
+[11:08:21.517] [  185  ] 10.52.5.185:8300
+
+[11:08:21.522] [ CMainFrame::RunLoginUI ] CUSTOM FLAG = [ JIRANSOFT ]
+
+[11:08:21.525]    ▶▶▶    SEND [ A5 ] C_LANG_LIST : [ 4135 ]
+
+[11:08:21.530]    ◀◀◀    RECEIVE [ 4135 ] Success!
+
+[11:08:21.573][ CLoginDlg::OnInitDialog ] [ LOGIN_ID_SAVE_SHOW ] SHOW!
+
+[11:08:21.577][ CLoginDlg::OnInitDialog ] [ LOGIN_ID_SAVE_CHECK ] UNCHECKED!
+
+[11:08:21.578][ CLoginDlg::OnInitDialog ] [ LOGIN_AUTO_LOGIN_SHOW ] SHOW!
+
+[11:08:21.582][ CLoginDlg::OnInitDialog ] [ LOGIN_AUTO_LOGIN_CHECK ] UNCHECKED!
+
+[11:08:21.586][ CLoginDlg::MoveControlPos ] Called.
+
+[11:08:21.587][ CLoginDlg::MoveControlPos ] PASSWORD STRING --> CUSTOMIZE.
+
+[11:08:21.631][ CheckNetworkThread ] END!
+
+[11:08:22.549] [ CMainFrame::CloseAllDialog ] Called.
+
+[11:08:22.569] ************************************** SOCKET DISCONNECT! ************************************** 
+
+[11:08:22.581] [ COfficeHardVEXApp::ExitInstance ] 
+

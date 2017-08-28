@@ -1,0 +1,388 @@
+[12:41:09.219]
+
+====================================================================== VEX ======================================================================
+ [ COfficeHardVEXApp::InitInstance ] Mutex Create!
+
+[12:41:09.314]
+************************************************************************************************************************** 
+	 ARCHITECTURE = 32-bit 
+
+	WINDOWS VERSION = Windows 7 [  6 . 1 ]
+ **************************************************************************************************************************
+
+[12:41:09.319][ COfficeHardVEXApp::InitInstance ] Privilege = ADMINISTRATOR [ 261098 ]
+
+[12:41:09.319] [ COfficeHardVEXApp::InitInstance ] File Version = v3.0.3.75
+
+[12:41:09.324][System Process]
+  - System
+  - smss.exe
+  - csrss.exe
+  - csrss.exe
+  - wininit.exe
+  - services.exe
+  - lsass.exe
+  - lsm.exe
+  - winlogon.exe
+  - svchost.exe
+  - scboots.exe
+  - svchost.exe
+  - svchost.exe
+  - svchost.exe
+  - svchost.exe
+  - svchost.exe
+  - snac.exe
+  - svchost.exe
+  - spoolsv.exe
+  - svchost.exe
+  - ShieldStart.exe
+  - AutowayMplusService.exe
+  - svchost.exe
+  - GnStart.exe
+  - ImageSAFERSvc.exe
+  - IMEDICTUPDATE.EXE
+  - ImageSAFERStart_X86.exe
+  - HeciServer.exe
+  - Jhi_service.exe
+  - LSP4Svc.exe
+  - nxagent.exe
+  - nossvc.exe
+  - npkfxsvc.exe
+  - PaSvc.exe
+  - RCloudMnt.exe
+  - RCloudMRU.exe
+  - dwm.exe
+  - ccSvcHst.exe
+  - taskhost.exe
+  - svchost.exe
+  - explorer.exe
+  - ASDSvc.exe
+  - ccSvcHst.exe
+  - wpmsvc.exe
+  - CcmExec.exe
+  - scboot.exe
+  - nxclient.exe
+  - WmiPrvSE.exe
+  - Smc.exe
+  - PaTray.exe
+  - veraport.exe
+  - svchost.exe
+  - GnAgent.exe
+  - nxhlp32.exe
+  - svchost.exe
+  - svchost.exe
+  - WmiPrvSE.exe
+  - taskeng.exe
+  - nosstarter.npe
+  - V3UI.exe
+  - unsecapp.exe
+  - igfxtray.exe
+  - hkcmd.exe
+  - igfxpers.exe
+  - RtHDVCpl.exe
+  - SpaceEraser.exe
+  - scmain.exe
+  - AquaPreLoader.exe
+  - Lightshot.exe
+  - SearchIndexer.exe
+  - RCloudAgent.exe
+  - jusched.exe
+  - TAAgent.exe
+  - CommonAgent.exe
+  - HandyMeet.exe
+  - lync.exe
+  - LMS.exe
+  - SWMAgent.exe
+  - iexplore.exe
+  - UNS.exe
+  - iexplore.exe
+  - WmiPrvSE.exe
+  - iexplore.exe
+  - jucheck.exe
+  - iexplore.exe
+  - iexplore.exe
+  - V3Medic.exe
+  - audiodg.exe
+  - WmiPrvSE.exe
+  - WmiPrvSE.exe
+  - iexplore.exe
+  - iexplore.exe
+  - SearchProtocolHost.exe
+  - rssemgr.exe
+  - rsengmgr.exe
+  - rsuimgr.exe
+  - NDR_Logger.exe
+  - SearchFilterHost.exe
+  - OfficeHardVEX.exe
+  - 
+
+[12:41:11.349] [ COfficeHardVEXApp::InitInstance ] PARAMETER = [ /NOUPDATE ] 
+
+[12:41:11.354]-------------------- /NOUPDATE --------------------
+
+[12:41:11.359][ CheckNetworkThread ] START!
+
+[12:41:11.394][ COHDProto::CheckNetwork ] INTERNET_CONNECTION_LAN
+
+[12:41:11.399][ COHDProto::CheckNetwork ] INTERNET_RAS_INSTALLED
+
+[12:41:11.404][ CheckNetworkThread ] NETWORK CONNECTED! 
+
+[12:41:11.404][ CheckNetworkThread ] CheckUpdate FALSE -- Login START! 
+
+[12:41:37.450] ************************************** SOCKET CONNECT! ************************************** dms.hyundai-rotem.co.kr
+
+[12:41:37.510]    ▶▶▶    SEND [ A2 ] C_DOMAIN_LIST : [ 4132 ]
+
+[12:41:37.520]
+*************************************** [ DOMAIN_LIST 0 ] ***************************************
+- D-IDX = 2
+- D-NAME = ROTEM
+- D-Addr = http://dms.hyundai-rotem.co.kr:8888
+- MAIN Title = 현대로템 자료관리시스템
+- Message Title = 현대로템 자료관리시스템
+
+[12:41:37.525]
+*************************************** [ DOMAIN_LIST : OPT ]***************************************
+- CUSTOM FLAG = ROTEM
+- VERSION_INFO = 3.0.05-15
+- CONNECT TIMEOUT = 60
+- SOCKET TIMEOUT = 60
+- RETRY TIMEOUT = 
+- RETRY CNT = 
+- SERVER_IN = 
+- SERVER_OUT = 
+- TITLEBAR_COLOR = 
+- UPDATE_URL = http://dms.hyundai-rotem.co.kr:8888
+- AD_DOMAIN = 
+- INT_PREFIX = 
+- EXT_PREFIX = 
+- UPLOAD LIMIT = 0
+
+[12:41:37.530]
+ [ LOGIN OPTION ] = 1111101001011
+ LOGIN - 도메인 보여주기 = 1
+ LOGIN - 언어선택 보여주기 = 1
+ LOGIN - ID입력 보여주기 = 1
+ LOGIN - PW입력 보여주기 = 1
+ LOGIN - ID저장 보여주기 = 1
+ LOGIN - ID저장 체크하기 = 0
+ LOGIN - 자동로그인 보여주기 = 1
+ LOGIN - 자동로그인 체크하기 = 0
+ LOGIN - AD로그인(1:normal,2:initech,3:Active-X) = 0
+ LOGIN - WEB SSO사용하기 = 1
+ LOGIN - 로그아웃시 프로그램종료하기 = 0
+ LOGIN - 짧은 로그인창 = 1
+ LOGIN - AD로그인 실패시 프로그램종료하기 = 1
+ LOGIN - ID TEXT = 
+ LOGIN - PW TEXT = 
+
+[12:41:37.530]    ◀◀◀    RECEIVE [ 4132 ] Success!
+
+[12:41:37.530]    ▶▶▶    SEND [ A5 ] C_LANG_LIST : [ 4135 ]
+
+[12:41:37.540]    ◀◀◀    RECEIVE [ 4135 ] Success!
+
+[12:41:37.550][ CLoginDlg::OnInitDialog ] [ LOGIN_SHORT_HEIGHT ] SHORT!
+
+[12:41:37.580][ CLoginWebDlg::OnInitDialog ] URL : http://dms.hyundai-rotem.co.kr:8888/pm/app/app_login.htm
+
+[12:41:37.675][ CheckNetworkThread ] END!
+
+[12:41:47.530] ************************************** SOCKET DISCONNECT! ************************************** 
+
+[12:42:00.815][ CPopupView::SetLoginResult ] PARAMETER = cL26a5Z7S14a0WO
+
+[12:42:00.820][ CPopupView::SetLoginResult ] Session ID = cL26a5Z7S14a0WO
+
+[12:42:00.820][ CLoginWebDlg::OnSetLogin ] Session ID = cL26a5Z7S14a0WO 
+
+[12:42:00.820] ************************************** SOCKET CONNECT! ************************************** dms.hyundai-rotem.co.kr
+
+[12:42:00.875][ CFileUtils::GetMacList ] 50-B7-C3-AA-16-33
+
+[12:42:00.875]    ▶▶▶    SEND [ B0 ] C_LOGIN : [ 4230 ]
+
+[12:42:00.905]
+*************************************** [ LOGIN ] ***************************************
+- SESSION ID = 598fca88ac4520511b026b6f
+- USER NAME = 박용진
+- USER POSNAME = 과장
+- LAST LOGIN = 2017-08-13 12:33:00
+- LAST LOGIN IP = 
+- RESET PASSWORD = N
+- GEUST LOGIN = (null)
+- USER ID = 261098
+- GROUP FULLPATH = 1,3,8,16
+
+[12:42:00.905]    ◀◀◀    RECEIVE [ 4230 ] Success!
+
+[12:42:00.950]    ▶▶▶    SEND [ A1 ] C_OPTION : [ 4131 ]
+
+[12:42:01.005] [ ParsingContextStr ] CONTEXT MENU STRING! 
+ < APPOVAL REQUEST > : 결재요청$Approval Request$決栽要請
+ < APPROVAL REQUEST OUT > : 결재요청외부$Approval Request$決栽要請
+< APPROVAL REQUEST ENC > : DRM해제$Approval Request$決栽要請
+ < NETWORK TRANSFER > :망간파일전송$Transfer to other network$ネットワ?クファイル?送
+ < FILE TRANSFER > :파일전송$File Transfer$ファイル?送
+
+[12:42:01.005] 결재요청 : [ 결재요청  /  Approval Request  /  決栽要請 ]
+
+[12:42:01.005] 결재요청 Out : [ 결재요청외부  /  Approval Request  /  決栽要請 ]
+
+[12:42:01.005] 결재요청 ENC : [ DRM해제  /  Approval Request  /  決栽要請 ]
+
+[12:42:01.010] 망간파일전송 : [ 망간파일전송  /  Transfer to other network  /  ネットワ?クファイル?送 ]
+
+[12:42:01.010] 파일전송 : [ 파일전송  /  File Transfer  /  ファイル?送 ]
+
+[12:42:01.010]
+*************************************** [ OPTION ] ***************************************
+- PRIVACY MODEL = 
+- DRAFT = 
+- APPROVAL = 
+- MANUAL_URL = 
+- USE_ONLINE_HELP = N
+- DBCLICK_DIRECTEDIT = Y
+- SYS_IDLE_TIME = 0
+- UPLOAD_CLOSE = 
+- DOWNLOAD_CLOSE = 
+- PW_MUST_USE = 
+- USER_FILE_LIMITIED = Y
+- UPLOAD_RESULT_MSG = 
+- IMAGE EXT LIST = bmp,gif,ico,jpg,jpeg,png,wbmp
+- DBCLICK_NO_ACTION = 
+- DISABLE_SHARE_WRITE = 
+
+[12:42:01.010]
+- UPLOAD FACTOR = 
+- USE SHORTCUT =Y
+- USE RECEIVED CNT = 
+- DRM_ICON = CJDRM
+- IE OPTION = 
+- CUSTOM DOWNLOAD = 
+- NET ERR MSG = 
+- USE VERSIONING = Y
+
+[12:42:01.015]
+ [ SUB OPTION ] = NNYNNNN
+ SUB - 개인정보 업로드시 결재창 띄우기 = N
+ SUB - 삭제예정 개수 표시 여부 = N
+ SUB - 더블클릭시 이미지뷰어 사용여부 = Y
+ SUB - 사용안함 = N
+ SUB - 종료시 Tray로 보내기 여부 = N
+ SUB - 공지사항 요청 여부 = N
+ SUB - 보안서약서 표시 여부 = N
+
+[12:42:01.015]
+ [ MENU BUTTON ] = 1111
+ MENU - 탐색기 = 1
+ MENU - 사용기록 = 1
+ MENU - 환경설정 = 1
+ MENU - 게시판 = 1
+
+[12:42:01.015]
+ [ MENUBAR OPTION ] = YNYYYYYYYYY
+ MENUBAR - 새폴더 = Y
+ MENUBAR - 결재요청 = N
+ MENUBAR - 업로드 = Y
+ MENUBAR - 다운로드 = Y
+ MENUBAR - 폴더공유 = Y
+ MENUBAR - 삭제 = Y
+ MENUBAR - 복사 = Y
+ MENUBAR - 잘라내기 = Y
+ MENUBAR - 붙여넣기 = Y
+ MENUBAR - 링크생성 = Y
+ MENUBAR - 문서편집 = Y
+
+[12:42:01.020]    ◀◀◀    RECEIVE [ 4131 ] Success!
+
+[12:42:01.025]SessionUpdate TIME = 3600000
+
+[12:42:01.090] [ CClientTreeCtrl::IsDisplay ] ILIsEqual( pidlFullyQual, m_pIdlControls )
+
+[12:42:01.095] [ CClientTreeCtrl::IsDisplay ] LIBRARY : ILIsEqual( pidlFullyQual, m_pIdlLibrary ) 
+
+[12:42:01.135] [ CClientTreeCtrl::IsDisplay ] NETWORK :  ILIsEqual( pidlFullyQual, m_pIdlNetwork ) 
+
+[12:42:01.360]    ▶▶▶    SEND [ D0 ] C_FD_LIST : [ 4430 ]     ---  file count = 1 --- capacity = 0
+
+[12:42:01.375][ D0 ] CONTINUE = N
+
+[12:42:01.375]    ◀◀◀    RECEIVE [ 4430 ] Success!
+
+[12:42:01.380] [ C_ALARM_UPDATE ] 
+ -- 알림 = 5
+ -- 공유폴더 = 0
+ -- 링크 = 11
+ -- 기안 = 
+ -- 결재 = 
+ -- 삭제예정 = 
+ -- 바로가기 = 2
+
+[12:42:01.385][ COHDProto::GetQuotaUpdate ] C_QUOTA_LIST 
+
+[12:42:01.385]    ▶▶▶    SEND [ B5 ] C_QUOTA_LIST : [ 4235 ]
+
+[12:42:01.395] [ C_QUOTA_LIST ] ( 7725581957 ) / ( 21474836480 ) - 3600 sec
+
+[12:42:01.395] [ CInfoBarDlg::SetMyDiskUsage ] 7.2 GB(35%) / 20.0 GB
+
+[12:42:01.395] [ CFileUtils::LoadPlacement ] (-57, 102, 1011, 907) - Login : 1
+
+[12:42:01.400]    ▶▶▶    SEND [ D0 ] C_FD_LIST : [ 4430 ]     ---  file count = 1 --- capacity = 0
+
+[12:42:01.415][ D0 ] CONTINUE = N
+
+[12:42:01.415]    ◀◀◀    RECEIVE [ 4430 ] Success!
+
+[12:42:01.425]    ▶▶▶    SEND [ D0 ] C_FD_LIST : [ 4430 ]     ---  file count = 1 --- capacity = 0
+
+[12:42:01.435][ D0 ] CONTINUE = Y
+
+[12:42:01.435]    ◀◀◀    RECEIVE [ 4430 ] Success!
+
+[12:42:01.435]    ▶▶▶    SEND [ D0 ] C_FD_LIST : [ 4430 ]     ---  file count = 1 --- capacity = 0
+
+[12:42:01.450][ D0 ] CONTINUE = N
+
+[12:42:01.450]    ◀◀◀    RECEIVE [ 4430 ] Success!
+
+[12:42:01.480] [ CMainFrame::LoadWindowSize ] SplitSize : Wid = 256, Hei = 441 
+
+[12:42:01.520] [ CMainFrame::OnMaximiseFromTray ] 
+
+[12:42:01.770] [ CClientTreeCtrl::IsDisplay ] ILIsEqual( pidlFullyQual, m_pIdlControls )
+
+[12:42:01.770] [ CClientTreeCtrl::IsDisplay ] LIBRARY : ILIsEqual( pidlFullyQual, m_pIdlLibrary ) 
+
+[12:42:01.770] [ CClientTreeCtrl::IsDisplay ]  ILIsEqual( pidlFullyQual, m_pIdlControlsOfDesk )
+
+[12:42:01.775] [ CClientTreeCtrl::IsDisplay ] NETWORK :  ILIsEqual( pidlFullyQual, m_pIdlNetwork ) 
+
+[12:42:02.210] [ COHDHtmlView::OnDocumentComplete ] 
+http://dms.hyundai-rotem.co.kr:8888/pm/app/popScript.htm
+
+[12:42:12.000] ************************************** SOCKET DISCONNECT! ************************************** 
+
+[12:42:16.955]	[ OnBnClickedBtnRecord ]
+URL : http://dms.hyundai-rotem.co.kr:8888/pm/app/appLoginProc.htm
+PARAM : link=log&uid=261098&sess=598fca88ac4520511b026b6f
+
+[12:42:17.180] [ COHDHtmlView::OnDocumentComplete ] 
+http://dms.hyundai-rotem.co.kr:8888/pm/log/
+
+[12:42:18.715]	[ OnBnClickedBtnConfig ]
+URL : http://dms.hyundai-rotem.co.kr:8888/pm/app/appLoginProc.htm
+PARAM : link=env&uid=261098&sess=598fca88ac4520511b026b6f
+
+[12:42:18.939] [ COHDHtmlView::OnDocumentComplete ] 
+http://dms.hyundai-rotem.co.kr:8888/pm/env/
+
+[12:42:27.809]	[ OnBnClickedBtnRecord ]
+URL : http://dms.hyundai-rotem.co.kr:8888/pm/app/appLoginProc.htm
+PARAM : link=log&uid=261098&sess=598fca88ac4520511b026b6f
+
+[12:42:27.914] [ COHDHtmlView::OnDocumentComplete ] 
+http://dms.hyundai-rotem.co.kr:8888/pm/log/
+

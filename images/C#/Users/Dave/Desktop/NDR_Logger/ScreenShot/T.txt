@@ -1,0 +1,52 @@
+[14:03:43.278] ¡á¡á¡á [ UPDATE ] UPDATE TOOL START! 
+¡á¡á¡á [ UPDATE ] File Version = v3.0.1.47
+
+[14:03:45.138] ¡á¡á¡á [ UPDATE ][ OnDownloadStart ] START! 
+
+[14:03:46.142] ¡á¡á¡á [ UPDATE ] [ COHDUpdate::GetServerAddress ] UPDATEURL : [ http://webhard.smotor.com ] 
+
+[14:03:46.143] ¡á¡á¡á [ UPDATE ][ OnDownloadStart ] SERVER ADDR = http://webhard.smotor.com
+
+[14:03:46.155] ¡á¡á¡á [ COHDUpdate::SetDownloadData ] [ C:\Users\symcuser\Documents\OfficeHDVEX\Update\OfficeHardVEX.exe.enc ] 
+
+[14:03:46.157] ¡á¡á¡á [ COHDUpdate::SetDownloadData ] [ C:\Users\symcuser\Documents\OfficeHDVEX\Update\OHDLanguage.dll.enc ] 
+
+[14:03:46.160] ¡á¡á¡á [ COHDUpdate::SetDownloadData ] [ C:\Users\symcuser\Documents\OfficeHDVEX\Update\OHDMessage.dll.enc ] 
+
+[14:03:46.162] ¡á¡á¡á [ COHDUpdate::SetDownloadData ] [ C:\Users\symcuser\Documents\OfficeHDVEX\Update\OHDInterface.dll.enc ] 
+
+[14:03:46.168] ¡á¡á¡á [ COHDUpdate::SetDownloadData ] [ C:\Users\symcuser\Documents\OfficeHDVEX\Update\OHDDBUtil.dll.enc ] 
+
+[14:03:46.169] ¡á¡á¡á [ COHDUpdate::SetDownloadData ] [ C:\Users\symcuser\Documents\OfficeHDVEX\Update\OHDConnect.dll.enc ] 
+
+[14:03:46.182] ¡á¡á¡á [ COHDUpdate::OpenURLThread ] InternetOpenUrl START 
+
+[14:03:46.287] ¡á¡á¡á [ COHDUpdate::OpenURLThread ] InternetOpenUrl END  
+
+[14:03:46.289] ¡á¡á¡á [ UPDATE ][ HTTPDown ] HttpQueryInfo return [ 201 ]
+
+[14:03:46.289] ¡á¡á¡á [ COHDUpdate::ResetUpdateImage ] HTTPDown Failed! [ 6 ] 
+ [ http://webhard.smotor.com/control/image/Customize.ini.enc ] [ C:\Users\symcuser\Documents\OfficeHDVEX\Update\Customize.ini.enc ] 
+
+[14:03:46.291] ¡á¡á¡á [ UPDATE ][ CreateDownLoadThread ] START!
+
+[14:03:46.321] ¡á¡á¡á [ UPDATE ][ CreateDownLoadThread ] HTTPDown path = http://webhard.smotor.com/control/app/OfficeHardVEX.exe.enc 
+
+[14:03:46.322] ¡á¡á¡á [ COHDUpdate::OpenURLThread ] InternetOpenUrl START 
+
+[14:03:46.477] ¡á¡á¡á [ COHDUpdate::OpenURLThread ] InternetOpenUrl END  
+
+[14:03:46.663] ¡á¡á¡á [ UPDATE ][ CreateDownLoadThread ] HASH COMPARE! OfficeHardVEX.exe.enc
+27BBBE84A366EA3FD935D1D1C9A6237C592ECB5C
+27BBBE84A366EA3FD935D1D1C9A6237C592ECB5C
+
+[14:03:46.666] ¡á¡á¡á [ UPDATE ][ CreateDownLoadThread ] HTTPDown path = http://webhard.smotor.com/control/app/OHDLanguage.dll.enc 
+
+[14:03:46.666] ¡á¡á¡á [ COHDUpdate::OpenURLThread ] InternetOpenUrl START 
+
+[14:03:46.669] ¡á¡á¡á [ COHDUpdate::OpenURLThread ] InternetOpenUrl END  
+
+[14:03:46.669] ¡á¡á¡á [ UPDATE ][ HTTPDown ] HttpQueryInfo return [ 400 ]
+
+[14:03:46.670] ¡á¡á¡á [ UPDATE ][ CreateDownLoadThread ] HTTPDown return : FALSE!
+

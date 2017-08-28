@@ -51,8 +51,9 @@ var exec = require('child_process').exec;
 var Iconv = require('iconv').Iconv;
 var iconv = new Iconv('utf-8', 'utf-8//translit//ignore');
 
+//var Promise = require('promise');
+var Q = require('q');
 
-var infos = {"action":'', "hashValue": '',"isFile": '',"fullpath": '', "oldFullpath": ''};
 
 
 
@@ -214,34 +215,43 @@ function setInfos(infos, fields, info){
     infos[info] = String(fields[info]);
 };
 
-function handleErr(err, res, infos, tmpFile){
-  logger.info('------HANDLE ERR------');
 
-  fs.stat(tmpFile, function(err, stat){ ///< for delete tmp file.
-    if( err ) { //  파일이 없다면 upload된 파일을 쓴다.
+function deleteTmpFile(res, action, isFile, tmpFile) {
+  var strTmpFile = tring(tmpFile);
+  fs.stat(strTmpFile, function(err1, stat){ ///< for delete tmp file.
+    if( err1 ) { //  파일이 없다면 upload된 파일을 쓴다.
+      console.log('console, No Tmp File');
       logger.info('No tmp file');
     } else {
-      if( infos['isFile'] == 'N' ){ // if it's directory then..
+      console.log('console, theres Tmp File');
+      if( isFile == 'N' ){ // if it's directory then..
         try { // using another.
-          exec('rm -rf ' + infos['fullpath'], handleErr(err, res, infos['action'], tmpFile));
-        } catch(err) {
-          logger.error(err);
+          exec('rm -rf ' + strTmpFile, handleErr(err, res, action, tmpFile));
+        } catch(err1) {
+          logger.error(err1);
         }
       } else { // if it's file then..
-        fs.unlink(infos['fullpath'], handleErr(err, res, infos['action'], tmpFile));
+        fs.unlink(strTmpFile, handleErr(err, res, action, tmpFile));
       }
       logger.info('deleting Downloaded tmp file');
     }
   })
+}
+
+function handleErr(err, res, action, isFile, tmpFile){
+  logger.info('------HANDLE ERR------');
+
     if(err){
+        //deleteTmpFile(res, action, isFile, tmpFile);
         //console.log(action + " : Failure file.");
-        logger.info(infos['action'] + ' : Failure file.');
+        logger.info(action + ' : Failure file.');
         logger.error(err);
         err.status(500);
         //console.log(err);
     } else {
         //console.log(action + " : Success file.");
-        logger.info(infos['action'] + " : Success file.");
+        //deleteTmpFile(res, action, isFile, tmpFile);
+        logger.info(action + " : Success file.");
         res.status(200);
         res.json({error:null,data:'Upload successful'});
     }
@@ -304,11 +314,95 @@ function deleteTmpFile(tmpFile){
       }
     });
 }
+var fRename = Q.denodeify(fs.rename);
+var fstat = Q.denodeify(fs.lstat);
+var fExec = Q.denodeify(exec);
+var promExistFile = function(infos){
+  var deferred = Q.defer();
+
+  if( infos['isFile'] == 'Y') {
+      infos['oldPath'] = path.dirname(infos['oldFullpath'])
+  } else {
+      infos['oldPath'] = infos['oldFullpath'];
+  }
+  if( !fs.existsSync(infos['oldFullpath'] )) {
+    console.log('No file1');
+    infos['delFullpath'] = infos['oldFullpath'];
+    infos['oldFullpath'] = String(infos['tmpFullpath']);
+    console.log('No file2');
+  }
+  console.log('No file3');
+  deferred.resolve(infos);
+  return deferred.promise;
+}
+
+var promExistDelFile = function(infos){
+  var deferred = Q.defer();
+  if( !fs.existsSync(infos['delFullpath'])){
+    return deferred.rejected(new Error());
+  }
+  deferred.resolved(infos);
+  return deferred.promise;
+}
+
+var promRename = function(p){
+  return new Promise(function( resolved, rejected){
+
+    console.log("Rename File : " + p['oldFullpath'] + ' to ' + p['fullpath']);
+    fRename(p['oldFullpath'], p['fullpath']);
+    resolved('Rename Success');
+    return p;
+  })
+};
+var promRemoveOldFile = function(p){
+  return new Promise(function( resolved,rejected){
+    console.log("Del Tmp");
+    fExec('rm -rf ' + p['delFullpath']);
+    resolved('Deleteed File is : ' + p['delFullpath']);
+    return p;
+  });
+};
+
+
+var promRemoveEmptyFolder = function(p){
+  return new Promise(function( resolved, rejected){
+    console.log("Del Empty Folder");
+    fExec('rm -d ' + p['oldPath']);
+  })
+}
+
+var promReturnCode = function(p){
+  return new Promise(function( resolved, rejected){
+    //console.log(p);
+    console.log("Prom ret");
+    p['res'].status(200);
+    p['res'].json({error:null,data:'Upload successful'});
+    resolved('return code Success');
+  })
+}
+
+var promCatchErr = function(err){
+  return new Promise(function( resolved, rejected ){
+    //logger.log(p);
+    err.status(500);
+  })
+}
 
 //var option = { url: url, encoding: 'binary'};
 router.post('/upload4', function(req, res) {
     //var strContents = new Buffer(body);
     //console.log(iconv.decode(strContents, 'EUC-KR').toString());
+
+    var infos = {"action":''
+    , "hashValue": ''
+    ,"isFile": ''
+    , "path": ''
+    , "oldPath": ''
+    , "fullpath": ''
+    , "oldFullpath": ''
+    , "tmpFullpath": ''
+    , "delFullpath": ''
+    , "res": ''};
 
     var form = new multiparty.Form({
       autoFiles: true,
@@ -345,6 +439,8 @@ router.post('/upload4', function(req, res) {
             } else {
                 onlyPath = infos['fullpath'];
             }
+            infos['path'] = String(onlyPath);
+
 
             //mkdirp.sync(onlyPath);
             mkdirp.sync(onlyPath, function (err) {
@@ -369,7 +465,7 @@ router.post('/upload4', function(req, res) {
                 switch(infos['action']) {
                     case 'ADDED'    :
                         if( infos['isFile'] == 'Y')
-                          fs.rename(srcFullpath, infos['fullpath'], handleErr(err, res, infos, oriName[0].path));
+                          fs.rename(srcFullpath, infos['fullpath'], handleErr(err, res, infos['action'], infos['isFile'], oriName[0].path));
                         else {
                           deleteTmpFile(oriName[0].path);
                           res.status(200);
@@ -386,29 +482,33 @@ router.post('/upload4', function(req, res) {
                         break;
                     case 'REMOVED' :
                         fs.stat(srcFullpath, function(err,stat){
-                          if( err ) { //  파일이 없다면 upload된 파일을 쓴다.
-                            logger.info(infos['action']+' No old file : ' + srcFullpath);
-                            res.status(500);
-                            res.render('error', { error: err });
-                          } else {
-                            if( infos['isFile'] == 'N' ){ // if it's directory then..
-
-                              //fs.rmdir(infos['fullpath'], handleErr(res, infos['action'], err));
-                              // rmdir1(infos['fullpath'], function(err, dirs, files){
-                              //     file1.rmdirSync(infos['fullpath']);
-                              //rimraf(infos['fullpath'], handleErr(res, infos['action'], err));
-                              //fs.removeSync(infos['fullpath']);
-
-                              try { // using another.
-                                exec('rm -rf ' + infos['fullpath'], handleErr(err, res, infos['action'], oriName[0].path));
-                              } catch(err) {
-                                logger.error(err);
-                              }
-                              //deleteFolderRecursive(infos['fullpath']);
-                            } else { // if it's file then..
-                              fs.unlink(infos['fullpath'], handleErr(err, res, infos['action'], oriName[0].path));
-                            }
-                          }
+                          // if( err ) { //  파일이 없다면 upload된 파일을 쓴다.
+                          //   logger.info(infos['action']+' No old file : ' + srcFullpath);
+                          //   res.status(500);
+                          //   res.render('error', { error: err });
+                          // } else {
+                          //   if( infos['isFile'] == 'N' ){ // if it's directory then..
+                          //
+                          //     //fs.rmdir(infos['fullpath'], handleErr(res, infos['action'], err));
+                          //     // rmdir1(infos['fullpath'], function(err, dirs, files){
+                          //     //     file1.rmdirSync(infos['fullpath']);
+                          //     //rimraf(infos['fullpath'], handleErr(res, infos['action'], err));
+                          //     //fs.removeSync(infos['fullpath']);
+                          //
+                          //     try { // using another.
+                          //       exec('rm -rf ' + infos['fullpath'], handleErr(err, res, infos['action'], oriName[0].path));
+                          //     } catch(err) {
+                          //       logger.error(err);
+                          //     }
+                          //     //deleteFolderRecursive(infos['fullpath']);
+                          //   } else { // if it's file then..
+                          //     fs.unlink(infos['fullpath'], handleErr(err, res, infos['action'], oriName[0].path));
+                          //   }
+                          // }
+                          infos['delFullpath'] = infos['fullpath'];
+                          return promExistDelFile(infos)
+                          .then(promRemoveOldFile(infos))
+                          .catch(promCatchErr(infos))
                         })
                         break;
                     case 'RENAME' :
@@ -421,60 +521,76 @@ router.post('/upload4', function(req, res) {
                         //
                         // 파일이 없다면 Src는 tmp쪽이 된다.
                         console.log('##RENAME##');
-                        fs.stat(srcFullpath, function(err,stat){
-                          if( err ) { //  파일이 없다면 upload된 파일을 쓴다.
-                            logger.info('No old file : ' + srcFullpath);
-                            srcFullpath = oriName[0].path;
-                            logger.info('Now old file is : ' + srcFullpath);
-                          }
-                        })
-                        fs.rename(srcFullpath, infos['fullpath'], handleErr(err, res, infos['action'], oriName[0].path));
-                        var onlySrcPath;
-                        if( infos['isFile'] == 'Y') {
-                            onlySrcPath = path.dirname(infos['oldFullpath']);
-                        } else {
-                            onlySrcPath = infos['oldFullpath'];
-                        }
+
+
+
+
+                        // if( fs.existsSync(srcFullpath) == false ) {
+                        //   srcFullpath = oriName[0].path;
+                        //   logger.info('Changed old file is : ' + srcFullpath);
+                        // }
+                        infos['tmpFullpath'] = oriName[0].path;
+                        infos['delFullpath'] = oriName[0].path;
+                        infos['res'] = res;
+                        return promExistFile(infos)
+                        .then(promRename(infos))
+                        .then(promRemoveOldFile(infos))
+                        .then(promRemoveEmptyFolder(infos)) //  plz use timer..
+                        .then(promReturnCode(infos))
+                        .catch(promCatchErr)
+
+
+
+                        // fs.rename(srcFullpath, infos['fullpath'], handleErr(err, res, infos['action'], oriName[0].path));
+                        // var onlySrcPath;
+                        // if( infos['isFile'] == 'Y') {
+                        //     onlySrcPath = path.dirname(infos['oldFullpath']);
+                        // } else {
+                        //     onlySrcPath = infos['oldFullpath'];
+                        // }
 
                         //fs.rmdir(onlySrcPath, handleErr(res, infos['action'], err));
                         break;
                     case 'CUT' :
                         console.log('##CUT##');
-                        fs.stat(srcFullpath, function(err,stat){
-                          if( err ) { //  파일이 없다면 upload된 파일을 쓴다.
-                            console.log('No old file' + srcFullpath);
-                            srcFullpath = oriName[0].path;
-                          }
-                        })
-                        fs.rename(srcFullpath, infos['fullpath'], handleErr(err, res, infos['action'], oriName[0].path));
-                        var onlySrcPath;
-                        if( infos['isFile'] == 'Y') {
-                            onlySrcPath = path.dirname(infos['oldFullpath']);
-                        } else {
-                            onlySrcPath = infos['oldFullpath'];
-                        }
-                        // fs.rmdir(onlySrcPath, function(err){
-                        //   console.log(err);
-                        // });
+                        infos['tmpFullpath'] = oriName[0].path;
+                        infos['delFullpath'] = oriName[0].path;
+                        infos['res'] = res;
+                        return promExistFile(infos)
+                        .then(promRename(infos))
+                        .then(promRemoveOldFile(infos))
+                        .then(promRemoveEmptyFolder(infos)) //  plz use timer..
+                        .then(promReturnCode(infos))
+                        .catch(promCatchErr)
                         break;
                     case 'OVERWRITE' :
                         //fstools.move(srcFullpath, infos['fullpath'], handleErr(res, infos['action'], err));
                         logger.info('##OVERWRITE##');
-                        fs.stat(srcFullpath, function(err, stat){
-                          if( err ) { //  파일이 없다면 upload된 파일을 쓴다.
-                            console.log('No old file : ' + srcFullpath);
-                            srcFullpath = oriName[0].path;
-                          }
-                        })
-                        var thatRes = this;
-                        if( srcFullpath != infos['fullpath'] ) {
-                          fsex.copy(srcFullpath, infos['fullpath'])
-                          .then( () => { console.log('success!'); res.status(200); res.json({error:null,data:'Upload successful'}); })
-                          .catch( err => { console.error(err); });
-                        } else {
-                          res.status(203);
-                          res.json({error:null,data:'Upload successful'});
-                        }
+                        // fs.stat(srcFullpath, function(err, stat){
+                        //   if( err ) { //  파일이 없다면 upload된 파일을 쓴다.
+                        //     console.log('No old file : ' + srcFullpath);
+                        //     srcFullpath = oriName[0].path;
+                        //   }
+                        // })
+                        infos['tmpFullpath'] = oriName[0].path;
+                        infos['delFullpath'] = oriName[0].path;
+                        infos['res'] = res;
+                        return promExistFile(infos)
+                        .then(promRename(infos))
+                        .then(promRemoveOldFile(infos))
+                        .then(promRemoveEmptyFolder(infos)) //  plz use timer..
+                        .then(promReturnCode(infos))
+                        .catch(promCatchErr)
+
+                        // var thatRes = this;
+                        // if( srcFullpath != infos['fullpath'] ) {
+                        //   fsex.copy(srcFullpath, infos['fullpath'])
+                        //   .then( () => { console.log('success!'); res.status(200); res.json({error:null,data:'Upload successful'}); })
+                        //   .catch( err => { console.error(err); });
+                        // } else {
+                        //   res.status(203);
+                        //   res.json({error:null,data:'Upload successful'});
+                        // }
 
                         // Type to copy the all of directory.
 
