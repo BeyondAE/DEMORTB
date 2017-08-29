@@ -481,7 +481,7 @@ router.post('/upload4', function(req, res) {
                         }
                         break;
                     case 'REMOVED' :
-                        fs.stat(srcFullpath, function(err,stat){
+                        //fs.stat(srcFullpath, function(err,stat){
                           // if( err ) { //  파일이 없다면 upload된 파일을 쓴다.
                           //   logger.info(infos['action']+' No old file : ' + srcFullpath);
                           //   res.status(500);
@@ -509,7 +509,7 @@ router.post('/upload4', function(req, res) {
                           return promExistDelFile(infos)
                           .then(promRemoveOldFile(infos))
                           .catch(promCatchErr(infos))
-                        })
+                        //})
                         break;
                     case 'RENAME' :
                         // 확인 목록
