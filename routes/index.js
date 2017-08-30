@@ -501,9 +501,10 @@ router.post('/upload4', function(req, res) {
              try {
                 switch(infos['action']) {
                     case 'ADDED'    :
-                        if( infos['isFile'] == 'Y')
+                        if( infos['isFile'] == 'Y'){
+                          logger.log('info', srcFullpath + 'added to ' + infos['fullpath']);
                           fs.rename(srcFullpath, infos['fullpath'], handleErr(err, res, infos['action'], infos['isFile'], oriName[0].path));
-                        else {
+                        } else {
                           deleteTmpFile(oriName[0].path);
                           res.status(200);
                           res.json({error:null,data:'Upload successful'});
@@ -512,9 +513,12 @@ router.post('/upload4', function(req, res) {
                     case 'MODIFIED' :
                         // 중복파일이 존재하면 그냥 넘긴다.
                         if( infos['isFile'] == 'Y'){
-                            fs.rename(srcFullpath, infos['fullpath'], handleErr(err, res, infos, oriName[0].path));
+                          logger.log('info', srcFullpath + 'added to ' + infos['fullpath']);
+                            fs.rename(srcFullpath, infos['fullpath'], handleErr(err, res, infos['action'], infos['isFile'], oriName[0].path));
                         } else {
                             deleteTmpFile(oriName[0].path);
+                            res.status(200);
+                            res.json({error:null,data:'Upload successful'});
                         }
                         break;
                     case 'REMOVED' :
