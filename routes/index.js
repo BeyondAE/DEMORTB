@@ -418,7 +418,7 @@ router.post('/upload4', function(req, res) {
 
     var form = new multiparty.Form({
       autoFiles: true,
-      uploadDir: '../tmp'});
+      uploadDir: '/app/tmp'});
       //uploadDir: '/home/dave/dev/js/DEMORTB/tmp'});
 
     form.on('field',function(name,value){
