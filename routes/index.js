@@ -339,10 +339,15 @@ var promExistFile = function(infos){
 
 var promExistDelFile = function(infos){
   var deferred = Q.defer();
+  if( infos['isFile'] == 'Y') {
+      infos['oldPath'] = path.dirname(infos['fullpath'])
+  } else {
+      infos['oldPath'] = infos['fullpath'];
+  }
   if( !fs.existsSync(infos['delFullpath'])){
     logger.log('info', 'theres no file : ' + infos['delFullpath']);
-    deferred.reject(new Error());
-    return deferred.promise;
+    //deferred.reject(new Error());
+    //return deferred.promise;
   }
   logger.log('info', 'theres file');
   deferred.resolve(infos);
@@ -357,11 +362,12 @@ var promRename = function(p){
     return p;
   })
 };
+
 var promRemoveOldFile = function(p){
   return new Promise(function( resolved,rejected){
     console.log("Del Tmp : " + p['delFullpath']);
-    fExec('rm -rf ' + p['delFullpath']);
-    resolved('Deleteed File is : ' + p['delFullpath']);
+    fExec("rm -rf '" + p['delFullpath'] + "'");
+    resolved('Deleteed File');
     return p;
   });
 };
@@ -369,8 +375,8 @@ var promRemoveOldFile = function(p){
 
 var promRemoveEmptyFolder = function(p){
   return new Promise(function( resolved, rejected){
-    console.log("Del Empty Folder");
-    fExec('rm -d ' + p['oldPath']);
+    logger.log('info', "Del Empty Folder : " + p['oldPath']);
+    fExec("rm -d '" + p['oldPath'] + "'"); // Direcotry내에 파일이 있다면, 아무것도 하지 않는다.
   })
 }
 
@@ -537,8 +543,10 @@ router.post('/upload4', function(req, res) {
                           // }
                           logger.log('info', 'target : ' + infos['fullpath']);
                           infos['delFullpath'] = infos['fullpath'];
+                          infos['res'] = res;
                           return promExistDelFile(infos)
                           .then(promRemoveOldFile(infos))
+                          .then(promRemoveEmptyFolder(infos))
                           .then(promReturnCode(infos))
                           .catch(promCatchErr)
 
@@ -554,10 +562,6 @@ router.post('/upload4', function(req, res) {
                         //
                         // 파일이 없다면 Src는 tmp쪽이 된다.
                         console.log('##RENAME##');
-
-
-
-
                         // if( fs.existsSync(srcFullpath) == false ) {
                         //   srcFullpath = oriName[0].path;
                         //   logger.info('Changed old file is : ' + srcFullpath);
