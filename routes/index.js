@@ -211,8 +211,8 @@ router.post('/upload3', upload.single('upfile'), function(req,res) {
 })
 
 
-function setInfos(infos, fields, info){
-    infos[info] = String(fields[info]);
+function setInfos(infos, key, value){
+    infos[key] = String(value);
 };
 
 
@@ -266,14 +266,14 @@ function handleErr2(err, action){
     }
 }
 
-function changePath(fields, name, infos){
-    if(name == 'fullpath' || name == 'oldFullpath') {
-        var fullpath = String(fields[name]);
+function changePath(infos, key, value){
+    if(key == 'fullpath' || key == 'oldFullpath') {
+        var fullpath = String(value);
         fullpath = fullpath.replace(':', '#');
         fullpath = fullpath.replace(/\\/gi, '/');
-        infos[name] = path.normalize(baseImageDir + fullpath);
+        infos[key] = path.normalize(baseImageDir + fullpath);
     }
-    if(name == 'fullpath'){
+    if(key == 'fullpath'){
       var extension = path.extname(fullpath);
       if (extension === '') {  // 폴더만이면,
           infos['isFile'] = 'N';
@@ -317,6 +317,7 @@ function deleteTmpFile(tmpFile){
 var fRename = Q.denodeify(fs.rename);
 var fstat = Q.denodeify(fs.lstat);
 var fExec = Q.denodeify(exec);
+
 var promExistFile = function(infos){
   var deferred = Q.defer();
 
@@ -339,15 +340,17 @@ var promExistFile = function(infos){
 var promExistDelFile = function(infos){
   var deferred = Q.defer();
   if( !fs.existsSync(infos['delFullpath'])){
-    return deferred.rejected(new Error());
+    logger.log('info', 'theres no file : ' + infos['delFullpath']);
+    deferred.reject(new Error());
+    return deferred.promise;
   }
-  deferred.resolved(infos);
+  logger.log('info', 'theres file');
+  deferred.resolve(infos);
   return deferred.promise;
 }
 
 var promRename = function(p){
   return new Promise(function( resolved, rejected){
-
     console.log("Rename File : " + p['oldFullpath'] + ' to ' + p['fullpath']);
     fRename(p['oldFullpath'], p['fullpath']);
     resolved('Rename Success');
@@ -356,7 +359,7 @@ var promRename = function(p){
 };
 var promRemoveOldFile = function(p){
   return new Promise(function( resolved,rejected){
-    console.log("Del Tmp");
+    console.log("Del Tmp : " + p['delFullpath']);
     fExec('rm -rf ' + p['delFullpath']);
     resolved('Deleteed File is : ' + p['delFullpath']);
     return p;
@@ -383,8 +386,10 @@ var promReturnCode = function(p){
 
 var promCatchErr = function(err){
   return new Promise(function( resolved, rejected ){
-    //logger.log(p);
-    err.status(500);
+    logger.log('info','found err');
+    console.log(err);
+    //rejected('ddd');
+    //throw err;
   })
 }
 
@@ -395,7 +400,8 @@ router.post('/upload4', function(req, res) {
 
     var infos = {"action":''
     , "hashValue": ''
-    ,"isFile": ''
+    , "fileSize": ''
+    , "isFile": ''
     , "path": ''
     , "oldPath": ''
     , "fullpath": ''
@@ -413,8 +419,21 @@ router.post('/upload4', function(req, res) {
         //var buf = new Buffer(value, 'binary');
         //var val = iconv.convert(buf).toString('utf-8');
         logger.log('info', 'normal field / name = '+name+' , value = '+value);
+        setInfos(infos, name, value);
+        changePath(infos, name, value);    // fullpath/oldFullpath에만 동작한다.
     });
 
+    form.on('files', function( name, value ){
+      logger.log('info', 'normal files / name = '+name+' , value = '+value);
+    });
+
+
+    form.on('error', (err) => {
+      console.log('deal with err');
+      res.status(500);
+      res.json({error:null,data:'Upload fail'});
+
+    })
     logger.log('info', '## Set Source Path ##');
     form.on('progress', function(receivedBytes, expectedBytes){
         console.log(((receivedBytes/expectedBytes)*100).toFixed(1)+'% received');
@@ -422,46 +441,57 @@ router.post('/upload4', function(req, res) {
 
     logger.log('info', '########## START PARSE ##########');
     form.parse(req, function(err, fields, files) {
-        Object.keys(fields).forEach(function (name) {
-            setInfos(infos, fields, name);
-            changePath(fields, name, infos);    // fullpath/oldFullpath에만 동작한다.
-        });
+      if( err ) console.log(err);
+        // Object.keys(fields).forEach(function (name) {
+        //     console.log(fields[name]);
+        // });
 
         // 실제 파일이 받아지는 tmp의 위치를 확보한다.
-        console.log(infos);
-        Object.keys(files).forEach(function (name) {
-            var oriName = files[name];
-            console.log('and got field Value! ' + oriName[0].path);
+        //console.log(infos);
+        console.log('1');
 
-            var onlyPath;   //  실제 파일이 받아지는 위치
-            if( infos['isFile'] == 'Y') {
-                onlyPath = path.dirname(infos['fullpath']);
-            } else {
-                onlyPath = infos['fullpath'];
-            }
-            infos['path'] = String(onlyPath);
+        var oriName;
+        if( infos['action'] != 'REMOVED')
+        {
+          Object.keys(files).forEach(function (name) {
+              console.log('1-1');
+              oriName = files[name];
+              console.log('and got field Value! ' + oriName[0].path);
+              console.log('1-2');
+              var onlyPath;   //  실제 파일이 받아지는 위치
+              if( infos['isFile'] == 'Y') {
+                  onlyPath = path.dirname(infos['fullpath']);
+              } else {
+                  onlyPath = infos['fullpath'];
+              }
+              infos['path'] = String(onlyPath);
 
 
-            //mkdirp.sync(onlyPath);
-            mkdirp.sync(onlyPath, function (err) {
-                if (err) {
-                    console.log("Failure make new folder.");
-                    res.status(500);
-                } else {
-                    console.log("Success make new folder.");
-                }
-            })
+              //mkdirp.sync(onlyPath);
+              mkdirp.sync(onlyPath, function (err) {
+                  if (err) {
+                      console.log("Failure make new folder.");
+                      res.status(500);
+                  } else {
+                      console.log("Success make new folder.");
+                  }
+                })
+              })
+        }
 
+
+            console.log('2');
             // initialization source path using Action.
             var srcFullpath;
             if( infos['action'] == 'ADDED' || infos['action'] == 'MODIFIED' ) {
               srcFullpath = oriName[0].path;
+              console.log(oriName[0].path);
             } else {
               srcFullpath = infos['oldFullpath'];
             }
 
 
-            try {
+             try {
                 switch(infos['action']) {
                     case 'ADDED'    :
                         if( infos['isFile'] == 'Y')
@@ -505,10 +535,13 @@ router.post('/upload4', function(req, res) {
                           //     fs.unlink(infos['fullpath'], handleErr(err, res, infos['action'], oriName[0].path));
                           //   }
                           // }
+                          logger.log('info', 'target : ' + infos['fullpath']);
                           infos['delFullpath'] = infos['fullpath'];
                           return promExistDelFile(infos)
                           .then(promRemoveOldFile(infos))
-                          .catch(promCatchErr(infos))
+                          .then(promReturnCode(infos))
+                          .catch(promCatchErr)
+
                         //})
                         break;
                     case 'RENAME' :
@@ -598,8 +631,10 @@ router.post('/upload4', function(req, res) {
                 }
             } catch(err) {
                 console.log("###finally exception Err###");
+                console.log(err);
+                err.status(500);
             }
-        });
+        //});
     });
 })
 

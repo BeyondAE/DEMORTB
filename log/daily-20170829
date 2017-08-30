@@ -648,3 +648,1277 @@
 2017-08-29 10:41:10 - info: normal field / name = hashValue , value = Nothing
 2017-08-29 10:41:10 - info: normal field / name = fullpath , value = C:\B\One\One.txt
 2017-08-29 10:41:10 - info: normal field / name = oldFullpath , value = 
+2017-08-29 10:46:43 - info: ## Set Source Path ##
+2017-08-29 10:46:43 - info: ########## START PARSE ##########
+2017-08-29 10:46:43 - info: normal field / name = action , value = ADDED
+2017-08-29 10:46:43 - info: normal field / name = hashValue , value = Nothing
+2017-08-29 10:46:43 - info: normal field / name = fullpath , value = C:\js\DEMO2\images\C#\A\2016 하반기 신규입사자 소개_황병대.pptx
+2017-08-29 10:46:43 - info: normal field / name = oldFullpath , value = 
+2017-08-29 10:46:43 - info: ------HANDLE ERR------
+2017-08-29 10:46:43 - info: ADDED : Success file.
+2017-08-29 10:46:43 - info: ## Set Source Path ##
+2017-08-29 10:46:43 - info: ########## START PARSE ##########
+2017-08-29 10:46:43 - info: normal field / name = action , value = MODIFIED
+2017-08-29 10:46:43 - info: normal field / name = hashValue , value = Nothing
+2017-08-29 10:46:43 - info: normal field / name = fullpath , value = C:\js\DEMO2\images\C#\A\2016 하반기 신규입사자 소개_황병대.pptx
+2017-08-29 10:46:43 - info: normal field / name = oldFullpath , value = 
+2017-08-29 10:46:44 - info: ------HANDLE ERR------
+2017-08-29 10:46:44 - info: [object Object] : Success file.
+2017-08-29 10:46:44 - info: ## Set Source Path ##
+2017-08-29 10:46:44 - info: ########## START PARSE ##########
+2017-08-29 10:46:44 - info: normal field / name = action , value = ADDED
+2017-08-29 10:46:44 - info: normal field / name = hashValue , value = Nothing
+2017-08-29 10:46:44 - info: normal field / name = fullpath , value = C:\js\DEMO2\images\C#\A\Docu1X API Guide_v0.00.03.3.docx
+2017-08-29 10:46:44 - info: normal field / name = oldFullpath , value = 
+2017-08-29 10:46:44 - info: ------HANDLE ERR------
+2017-08-29 10:46:44 - info: ADDED : Success file.
+2017-08-29 10:46:44 - info: ## Set Source Path ##
+2017-08-29 10:46:44 - info: ########## START PARSE ##########
+2017-08-29 10:46:44 - info: normal field / name = action , value = ADDED
+2017-08-29 10:46:44 - info: normal field / name = hashValue , value = Nothing
+2017-08-29 10:46:44 - info: normal field / name = fullpath , value = C:\js\DEMO2\images\C#\A\JS-OH개발팀-주간보고-2017년2분기-황병대_11.xlsx
+2017-08-29 10:46:44 - info: normal field / name = oldFullpath , value = 
+2017-08-29 10:46:44 - info: ------HANDLE ERR------
+2017-08-29 10:46:44 - info: ADDED : Success file.
+2017-08-29 10:46:44 - info: ## Set Source Path ##
+2017-08-29 10:46:44 - info: ########## START PARSE ##########
+2017-08-29 10:46:44 - info: normal field / name = action , value = ADDED
+2017-08-29 10:46:44 - info: normal field / name = hashValue , value = Nothing
+2017-08-29 10:46:44 - info: normal field / name = fullpath , value = C:\js\DEMO2\images\C#\A\aaa.txt
+2017-08-29 10:46:44 - info: normal field / name = oldFullpath , value = 
+2017-08-29 10:46:44 - info: ------HANDLE ERR------
+2017-08-29 10:46:44 - info: ADDED : Success file.
+2017-08-29 10:46:44 - info: ## Set Source Path ##
+2017-08-29 10:46:44 - info: ########## START PARSE ##########
+2017-08-29 10:46:44 - info: normal field / name = action , value = ADDED
+2017-08-29 10:46:44 - info: normal field / name = hashValue , value = Nothing
+2017-08-29 10:46:44 - info: normal field / name = fullpath , value = C:\js\DEMO2\images\C#\B\#1\00.RE_JS-OH개발팀-주간보고-2017년2분기-황병대_ - 복사본1 (2).xlsx
+2017-08-29 10:46:44 - info: normal field / name = oldFullpath , value = 
+2017-08-29 10:46:44 - info: ------HANDLE ERR------
+2017-08-29 10:46:44 - info: ADDED : Success file.
+2017-08-29 10:46:44 - info: ## Set Source Path ##
+2017-08-29 10:46:44 - info: ########## START PARSE ##########
+2017-08-29 10:46:44 - info: normal field / name = action , value = ADDED
+2017-08-29 10:46:44 - info: normal field / name = hashValue , value = Nothing
+2017-08-29 10:46:44 - info: normal field / name = fullpath , value = C:\js\DEMO2\images\C#\B\#1\aaa - 복사본 (3).txt
+2017-08-29 10:46:44 - info: normal field / name = oldFullpath , value = 
+2017-08-29 10:46:44 - info: ------HANDLE ERR------
+2017-08-29 10:46:44 - info: ADDED : Success file.
+2017-08-29 10:46:44 - info: ## Set Source Path ##
+2017-08-29 10:46:44 - info: ########## START PARSE ##########
+2017-08-29 10:46:44 - info: normal field / name = action , value = ADDED
+2017-08-29 10:46:44 - info: normal field / name = hashValue , value = Nothing
+2017-08-29 10:46:44 - info: normal field / name = fullpath , value = C:\js\DEMO2\images\C#\B\#1\aaa - 복사본.txt
+2017-08-29 10:46:44 - info: normal field / name = oldFullpath , value = 
+2017-08-29 10:46:44 - info: ------HANDLE ERR------
+2017-08-29 10:46:44 - info: ADDED : Success file.
+2017-08-29 10:46:44 - info: ## Set Source Path ##
+2017-08-29 10:46:44 - info: ########## START PARSE ##########
+2017-08-29 10:46:44 - info: normal field / name = action , value = ADDED
+2017-08-29 10:46:44 - info: normal field / name = hashValue , value = Nothing
+2017-08-29 10:46:44 - info: normal field / name = fullpath , value = C:\js\DEMO2\images\C#\B\#1\aaa.txt
+2017-08-29 10:46:44 - info: normal field / name = oldFullpath , value = 
+2017-08-29 10:46:44 - info: ------HANDLE ERR------
+2017-08-29 10:46:44 - info: ADDED : Success file.
+2017-08-29 10:46:44 - info: ## Set Source Path ##
+2017-08-29 10:46:44 - info: ########## START PARSE ##########
+2017-08-29 10:46:44 - info: normal field / name = action , value = ADDED
+2017-08-29 10:46:44 - info: normal field / name = hashValue , value = Nothing
+2017-08-29 10:46:44 - info: normal field / name = fullpath , value = C:\js\DEMO2\images\C#\B\#\00.RE_JS-OH개발팀-주간보고-2017년2분기-황병대_ - 복사본1 (2).xlsx
+2017-08-29 10:46:44 - info: normal field / name = oldFullpath , value = 
+2017-08-29 10:46:44 - info: ------HANDLE ERR------
+2017-08-29 10:46:44 - info: ADDED : Success file.
+2017-08-29 10:46:44 - info: ## Set Source Path ##
+2017-08-29 10:46:44 - info: ########## START PARSE ##########
+2017-08-29 10:46:44 - info: normal field / name = action , value = ADDED
+2017-08-29 10:46:44 - info: normal field / name = hashValue , value = Nothing
+2017-08-29 10:46:44 - info: normal field / name = fullpath , value = C:\js\DEMO2\images\C#\B\#\aaa - 복사본 (3).txt
+2017-08-29 10:46:44 - info: normal field / name = oldFullpath , value = 
+2017-08-29 10:46:44 - info: ------HANDLE ERR------
+2017-08-29 10:46:44 - info: ADDED : Success file.
+2017-08-29 10:46:44 - info: ## Set Source Path ##
+2017-08-29 10:46:44 - info: ########## START PARSE ##########
+2017-08-29 10:46:44 - info: normal field / name = action , value = ADDED
+2017-08-29 10:46:44 - info: normal field / name = hashValue , value = Nothing
+2017-08-29 10:46:44 - info: normal field / name = fullpath , value = C:\js\DEMO2\images\C#\B\#\aaa - 복사본.txt
+2017-08-29 10:46:44 - info: normal field / name = oldFullpath , value = 
+2017-08-29 10:46:44 - info: ------HANDLE ERR------
+2017-08-29 10:46:44 - info: ADDED : Success file.
+2017-08-29 10:46:44 - info: ## Set Source Path ##
+2017-08-29 10:46:44 - info: ########## START PARSE ##########
+2017-08-29 10:46:44 - info: normal field / name = action , value = ADDED
+2017-08-29 10:46:44 - info: normal field / name = hashValue , value = Nothing
+2017-08-29 10:46:44 - info: normal field / name = fullpath , value = C:\js\DEMO2\images\C#\B\#\aaa.txt
+2017-08-29 10:46:44 - info: normal field / name = oldFullpath , value = 
+2017-08-29 10:46:44 - info: ------HANDLE ERR------
+2017-08-29 10:46:44 - info: ADDED : Success file.
+2017-08-29 10:46:44 - info: ## Set Source Path ##
+2017-08-29 10:46:44 - info: ########## START PARSE ##########
+2017-08-29 10:46:44 - info: normal field / name = action , value = ADDED
+2017-08-29 10:46:44 - info: normal field / name = hashValue , value = Nothing
+2017-08-29 10:46:44 - info: normal field / name = fullpath , value = C:\js\DEMO2\images\C#\B\2016 하반기 신규입사자 소개_황병대.pptx
+2017-08-29 10:46:44 - info: normal field / name = oldFullpath , value = 
+2017-08-29 10:46:44 - info: ------HANDLE ERR------
+2017-08-29 10:46:44 - info: ADDED : Success file.
+2017-08-29 10:46:44 - info: ## Set Source Path ##
+2017-08-29 10:46:44 - info: ########## START PARSE ##########
+2017-08-29 10:46:44 - info: normal field / name = action , value = ADDED
+2017-08-29 10:46:44 - info: normal field / name = hashValue , value = Nothing
+2017-08-29 10:46:44 - info: normal field / name = fullpath , value = C:\js\DEMO2\images\C#\B\A_PPT\#1\00.RE_JS-OH개발팀-주간보고-2017년2분기-황병대_ - 복사본1 (2).xlsx
+2017-08-29 10:46:44 - info: normal field / name = oldFullpath , value = 
+2017-08-29 10:46:44 - info: ------HANDLE ERR------
+2017-08-29 10:46:44 - info: ADDED : Success file.
+2017-08-29 10:46:44 - info: ## Set Source Path ##
+2017-08-29 10:46:44 - info: ########## START PARSE ##########
+2017-08-29 10:46:44 - info: normal field / name = action , value = ADDED
+2017-08-29 10:46:44 - info: normal field / name = hashValue , value = Nothing
+2017-08-29 10:46:44 - info: normal field / name = fullpath , value = C:\js\DEMO2\images\C#\B\A_PPT\#1\aaa - 복사본 (3).txt
+2017-08-29 10:46:44 - info: normal field / name = oldFullpath , value = 
+2017-08-29 10:46:44 - info: ------HANDLE ERR------
+2017-08-29 10:46:44 - info: ADDED : Success file.
+2017-08-29 10:46:44 - info: ## Set Source Path ##
+2017-08-29 10:46:44 - info: ########## START PARSE ##########
+2017-08-29 10:46:44 - info: normal field / name = action , value = ADDED
+2017-08-29 10:46:44 - info: normal field / name = hashValue , value = Nothing
+2017-08-29 10:46:44 - info: normal field / name = fullpath , value = C:\js\DEMO2\images\C#\B\A_PPT\#1\aaa - 복사본.txt
+2017-08-29 10:46:44 - info: normal field / name = oldFullpath , value = 
+2017-08-29 10:46:44 - info: ------HANDLE ERR------
+2017-08-29 10:46:44 - info: ADDED : Success file.
+2017-08-29 10:46:44 - info: ## Set Source Path ##
+2017-08-29 10:46:44 - info: ########## START PARSE ##########
+2017-08-29 10:46:44 - info: normal field / name = action , value = ADDED
+2017-08-29 10:46:44 - info: normal field / name = hashValue , value = Nothing
+2017-08-29 10:46:44 - info: normal field / name = fullpath , value = C:\js\DEMO2\images\C#\B\A_PPT\#1\aaa.txt
+2017-08-29 10:46:44 - info: normal field / name = oldFullpath , value = 
+2017-08-29 10:46:44 - info: ------HANDLE ERR------
+2017-08-29 10:46:44 - info: ADDED : Success file.
+2017-08-29 10:46:44 - info: ## Set Source Path ##
+2017-08-29 10:46:44 - info: ########## START PARSE ##########
+2017-08-29 10:46:44 - info: normal field / name = action , value = ADDED
+2017-08-29 10:46:44 - info: normal field / name = hashValue , value = Nothing
+2017-08-29 10:46:44 - info: normal field / name = fullpath , value = C:\js\DEMO2\images\C#\B\A_PPT\#3\00.RE_JS-OH개발팀-주간보고-2017년2분기-황병대_ - 복사본1 (2).xlsx
+2017-08-29 10:46:44 - info: normal field / name = oldFullpath , value = 
+2017-08-29 10:46:44 - info: ------HANDLE ERR------
+2017-08-29 10:46:44 - info: ADDED : Success file.
+2017-08-29 10:46:44 - info: ## Set Source Path ##
+2017-08-29 10:46:44 - info: ########## START PARSE ##########
+2017-08-29 10:46:44 - info: normal field / name = action , value = ADDED
+2017-08-29 10:46:44 - info: normal field / name = hashValue , value = Nothing
+2017-08-29 10:46:44 - info: normal field / name = fullpath , value = C:\js\DEMO2\images\C#\B\A_PPT\#3\aaa - 복사본 (3).txt
+2017-08-29 10:46:44 - info: normal field / name = oldFullpath , value = 
+2017-08-29 10:46:44 - info: ------HANDLE ERR------
+2017-08-29 10:46:44 - info: ADDED : Success file.
+2017-08-29 10:46:44 - info: ## Set Source Path ##
+2017-08-29 10:46:44 - info: ########## START PARSE ##########
+2017-08-29 10:46:44 - info: normal field / name = action , value = ADDED
+2017-08-29 10:46:44 - info: normal field / name = hashValue , value = Nothing
+2017-08-29 10:46:44 - info: normal field / name = fullpath , value = C:\js\DEMO2\images\C#\B\A_PPT\#3\aaa - 복사본.txt
+2017-08-29 10:46:44 - info: normal field / name = oldFullpath , value = 
+2017-08-29 10:46:44 - info: ------HANDLE ERR------
+2017-08-29 10:46:44 - info: ADDED : Success file.
+2017-08-29 10:46:44 - info: ## Set Source Path ##
+2017-08-29 10:46:44 - info: ########## START PARSE ##########
+2017-08-29 10:46:44 - info: normal field / name = action , value = ADDED
+2017-08-29 10:46:44 - info: normal field / name = hashValue , value = Nothing
+2017-08-29 10:46:44 - info: normal field / name = fullpath , value = C:\js\DEMO2\images\C#\B\A_PPT\#3\aaa1.txt
+2017-08-29 10:46:44 - info: normal field / name = oldFullpath , value = 
+2017-08-29 10:46:44 - info: ------HANDLE ERR------
+2017-08-29 10:46:44 - info: ADDED : Success file.
+2017-08-29 10:46:44 - info: ## Set Source Path ##
+2017-08-29 10:46:44 - info: ########## START PARSE ##########
+2017-08-29 10:46:44 - info: normal field / name = action , value = ADDED
+2017-08-29 10:46:44 - info: normal field / name = hashValue , value = Nothing
+2017-08-29 10:46:44 - info: normal field / name = fullpath , value = C:\js\DEMO2\images\C#\B\A_PPT\#\00.RE_JS-OH개발팀-주간보고-2017년2분기-황병대_ - 복사본1 (2).xlsx
+2017-08-29 10:46:44 - info: normal field / name = oldFullpath , value = 
+2017-08-29 10:46:44 - info: ------HANDLE ERR------
+2017-08-29 10:46:44 - info: ADDED : Success file.
+2017-08-29 10:46:44 - info: ## Set Source Path ##
+2017-08-29 10:46:44 - info: ########## START PARSE ##########
+2017-08-29 10:46:44 - info: normal field / name = action , value = ADDED
+2017-08-29 10:46:44 - info: normal field / name = hashValue , value = Nothing
+2017-08-29 10:46:44 - info: normal field / name = fullpath , value = C:\js\DEMO2\images\C#\B\A_PPT\#\aaa - 복사본 (3).txt
+2017-08-29 10:46:44 - info: normal field / name = oldFullpath , value = 
+2017-08-29 10:46:44 - info: ------HANDLE ERR------
+2017-08-29 10:46:44 - info: ADDED : Success file.
+2017-08-29 10:46:44 - info: ## Set Source Path ##
+2017-08-29 10:46:44 - info: ########## START PARSE ##########
+2017-08-29 10:46:44 - info: normal field / name = action , value = ADDED
+2017-08-29 10:46:44 - info: normal field / name = hashValue , value = Nothing
+2017-08-29 10:46:44 - info: normal field / name = fullpath , value = C:\js\DEMO2\images\C#\B\A_PPT\#\aaa - 복사본.txt
+2017-08-29 10:46:44 - info: normal field / name = oldFullpath , value = 
+2017-08-29 10:46:44 - info: ------HANDLE ERR------
+2017-08-29 10:46:44 - info: ADDED : Success file.
+2017-08-29 10:46:44 - info: ## Set Source Path ##
+2017-08-29 10:46:44 - info: ########## START PARSE ##########
+2017-08-29 10:46:44 - info: normal field / name = action , value = ADDED
+2017-08-29 10:46:44 - info: normal field / name = hashValue , value = Nothing
+2017-08-29 10:46:44 - info: normal field / name = fullpath , value = C:\js\DEMO2\images\C#\B\A_PPT\#\aaa.txt
+2017-08-29 10:46:44 - info: normal field / name = oldFullpath , value = 
+2017-08-29 10:46:44 - info: ------HANDLE ERR------
+2017-08-29 10:46:45 - info: ADDED : Success file.
+2017-08-29 10:46:45 - info: ## Set Source Path ##
+2017-08-29 10:46:45 - info: ########## START PARSE ##########
+2017-08-29 10:46:45 - info: normal field / name = action , value = ADDED
+2017-08-29 10:46:45 - info: normal field / name = hashValue , value = Nothing
+2017-08-29 10:46:45 - info: normal field / name = fullpath , value = C:\js\DEMO2\images\C#\B\A_PPT\00.RE_JS-OH개발팀-주간보고-2017년2분기-황병대_ - 복사본1 (2).xlsx
+2017-08-29 10:46:45 - info: normal field / name = oldFullpath , value = 
+2017-08-29 10:46:45 - info: ------HANDLE ERR------
+2017-08-29 10:46:45 - info: ADDED : Success file.
+2017-08-29 10:46:45 - info: ## Set Source Path ##
+2017-08-29 10:46:45 - info: ########## START PARSE ##########
+2017-08-29 10:46:45 - info: normal field / name = action , value = ADDED
+2017-08-29 10:46:45 - info: normal field / name = hashValue , value = Nothing
+2017-08-29 10:46:45 - info: normal field / name = fullpath , value = C:\js\DEMO2\images\C#\B\A_PPT\2016 하반기 신규입사자 소개_황병대.pptx
+2017-08-29 10:46:45 - info: normal field / name = oldFullpath , value = 
+2017-08-29 10:46:45 - info: ------HANDLE ERR------
+2017-08-29 10:46:45 - info: ADDED : Success file.
+2017-08-29 10:46:45 - info: ## Set Source Path ##
+2017-08-29 10:46:45 - info: ########## START PARSE ##########
+2017-08-29 10:46:45 - info: normal field / name = action , value = ADDED
+2017-08-29 10:46:45 - info: normal field / name = hashValue , value = Nothing
+2017-08-29 10:46:45 - info: normal field / name = fullpath , value = C:\js\DEMO2\images\C#\B\A_PPT\2016 하반기 신규입사자 소개_황병대_1.pptx
+2017-08-29 10:46:45 - info: normal field / name = oldFullpath , value = 
+2017-08-29 10:46:45 - info: ------HANDLE ERR------
+2017-08-29 10:46:45 - info: ADDED : Success file.
+2017-08-29 10:46:45 - info: ## Set Source Path ##
+2017-08-29 10:46:45 - info: ########## START PARSE ##########
+2017-08-29 10:46:45 - info: normal field / name = action , value = ADDED
+2017-08-29 10:46:45 - info: normal field / name = hashValue , value = Nothing
+2017-08-29 10:46:45 - info: normal field / name = fullpath , value = C:\js\DEMO2\images\C#\B\A_PPT\CutAndRenameTest\2016 하반기 신규입사자 소개_황병대.pptx
+2017-08-29 10:46:45 - info: normal field / name = oldFullpath , value = 
+2017-08-29 10:46:45 - info: ------HANDLE ERR------
+2017-08-29 10:46:45 - info: ADDED : Success file.
+2017-08-29 10:46:45 - info: ## Set Source Path ##
+2017-08-29 10:46:45 - info: ########## START PARSE ##########
+2017-08-29 10:46:45 - info: normal field / name = action , value = ADDED
+2017-08-29 10:46:45 - info: normal field / name = hashValue , value = Nothing
+2017-08-29 10:46:45 - info: normal field / name = fullpath , value = C:\js\DEMO2\images\C#\B\A_PPT\CutAndRenameTest\aaa.txt
+2017-08-29 10:46:45 - info: normal field / name = oldFullpath , value = 
+2017-08-29 10:46:45 - info: ------HANDLE ERR------
+2017-08-29 10:46:45 - info: ADDED : Success file.
+2017-08-29 10:52:56 - info: ## Set Source Path ##
+2017-08-29 10:52:56 - info: ########## START PARSE ##########
+2017-08-29 10:52:56 - info: normal field / name = action , value = RENAME
+2017-08-29 10:52:56 - info: normal field / name = hashValue , value = Nothing
+2017-08-29 10:52:56 - info: normal field / name = fullpath , value = C:\B\One\One1.txt
+2017-08-29 10:52:56 - info: normal field / name = oldFullpath , value = C:\B\One\One.txt
+2017-08-29 10:56:22 - info: ## Set Source Path ##
+2017-08-29 10:56:22 - info: ########## START PARSE ##########
+2017-08-29 10:56:22 - info: normal field / name = action , value = MODIFIED
+2017-08-29 10:56:22 - info: normal field / name = hashValue , value = Nothing
+2017-08-29 10:56:22 - info: normal field / name = fullpath , value = C:\B\One\One2.txt
+2017-08-29 10:56:22 - info: normal field / name = oldFullpath , value = 
+2017-08-29 10:56:22 - info: ------HANDLE ERR------
+2017-08-29 10:56:22 - info: [object Object] : Success file.
+2017-08-29 10:56:22 - info: ## Set Source Path ##
+2017-08-29 10:56:22 - info: ########## START PARSE ##########
+2017-08-29 10:56:22 - info: normal field / name = action , value = MODIFIED
+2017-08-29 10:56:22 - info: normal field / name = hashValue , value = Nothing
+2017-08-29 10:56:22 - info: normal field / name = fullpath , value = C:\B\One\One2.txt
+2017-08-29 10:56:22 - info: normal field / name = oldFullpath , value = 
+2017-08-29 10:56:22 - info: ------HANDLE ERR------
+2017-08-29 10:56:22 - info: [object Object] : Success file.
+2017-08-29 10:56:52 - info: ## Set Source Path ##
+2017-08-29 10:56:52 - info: ########## START PARSE ##########
+2017-08-29 10:56:52 - info: normal field / name = action , value = MODIFIED
+2017-08-29 10:56:52 - info: normal field / name = hashValue , value = Nothing
+2017-08-29 10:56:52 - info: normal field / name = fullpath , value = C:\B\One\One2.txt
+2017-08-29 10:56:52 - info: normal field / name = oldFullpath , value = 
+2017-08-29 10:56:52 - info: ------HANDLE ERR------
+2017-08-29 10:56:52 - info: [object Object] : Success file.
+2017-08-29 10:56:52 - info: ## Set Source Path ##
+2017-08-29 10:56:52 - info: ########## START PARSE ##########
+2017-08-29 10:56:52 - info: normal field / name = action , value = MODIFIED
+2017-08-29 10:56:52 - info: normal field / name = hashValue , value = Nothing
+2017-08-29 10:56:52 - info: normal field / name = fullpath , value = C:\B\One\One2.txt
+2017-08-29 10:56:52 - info: normal field / name = oldFullpath , value = 
+2017-08-29 10:56:52 - info: ------HANDLE ERR------
+2017-08-29 10:56:52 - info: [object Object] : Success file.
+2017-08-29 10:57:04 - info: ## Set Source Path ##
+2017-08-29 10:57:04 - info: ########## START PARSE ##########
+2017-08-29 10:57:04 - info: normal field / name = action , value = RENAME
+2017-08-29 10:57:04 - info: normal field / name = hashValue , value = Nothing
+2017-08-29 10:57:04 - info: normal field / name = fullpath , value = C:\B\One\One.txt
+2017-08-29 10:57:04 - info: normal field / name = oldFullpath , value = C:\B\One\One2.txt
+2017-08-29 10:57:04 - info: ## Set Source Path ##
+2017-08-29 10:57:04 - info: ########## START PARSE ##########
+2017-08-29 10:57:04 - info: normal field / name = action , value = MODIFIED
+2017-08-29 10:57:04 - info: normal field / name = hashValue , value = Nothing
+2017-08-29 10:57:04 - info: normal field / name = fullpath , value = C:\B\One\One.txt
+2017-08-29 10:57:04 - info: normal field / name = oldFullpath , value = 
+2017-08-29 10:57:04 - info: ------HANDLE ERR------
+2017-08-29 10:57:04 - info: [object Object] : Success file.
+2017-08-29 11:00:39 - info: ## Set Source Path ##
+2017-08-29 11:00:39 - info: ########## START PARSE ##########
+2017-08-29 11:00:39 - info: normal field / name = action , value = ADDED
+2017-08-29 11:00:39 - info: normal field / name = hashValue , value = Nothing
+2017-08-29 11:00:39 - info: normal field / name = fullpath , value = C:\B\One\새 텍스트 문서.txt
+2017-08-29 11:00:39 - info: normal field / name = oldFullpath , value = 
+2017-08-29 11:05:46 - info: ## Set Source Path ##
+2017-08-29 11:05:46 - info: ########## START PARSE ##########
+2017-08-29 11:05:46 - info: normal field / name = action , value = MODIFIED
+2017-08-29 11:05:46 - info: normal field / name = hashValue , value = Nothing
+2017-08-29 11:05:46 - info: normal field / name = fullpath , value = C:\B\One\새 텍스트 문서 (2).txt
+2017-08-29 11:05:46 - info: normal field / name = oldFullpath , value = 
+2017-08-29 11:05:46 - info: ------HANDLE ERR------
+2017-08-29 11:05:46 - info: [object Object] : Success file.
+2017-08-29 11:05:46 - info: ## Set Source Path ##
+2017-08-29 11:05:46 - info: ########## START PARSE ##########
+2017-08-29 11:05:46 - info: normal field / name = action , value = MODIFIED
+2017-08-29 11:05:46 - info: normal field / name = hashValue , value = Nothing
+2017-08-29 11:05:46 - info: normal field / name = fullpath , value = C:\B\One\새 텍스트 문서 (2).txt
+2017-08-29 11:05:46 - info: normal field / name = oldFullpath , value = 
+2017-08-29 11:05:46 - info: ------HANDLE ERR------
+2017-08-29 11:05:46 - info: [object Object] : Success file.
+2017-08-29 11:06:34 - info: ## Set Source Path ##
+2017-08-29 11:06:34 - info: ########## START PARSE ##########
+2017-08-29 11:06:34 - info: normal field / name = action , value = CUT
+2017-08-29 11:06:34 - info: normal field / name = hashValue , value = Nothing
+2017-08-29 11:06:34 - info: normal field / name = fullpath , value = C:\B\One\새 텍스트 문서.txt
+2017-08-29 11:06:34 - info: normal field / name = oldFullpath , value = C:\B\One\새 텍스트 문서.txt
+2017-08-29 11:35:38 - info: ## Set Source Path ##
+2017-08-29 11:35:38 - info: ########## START PARSE ##########
+2017-08-29 11:35:38 - info: normal field / name = action , value = MODIFIED
+2017-08-29 11:35:38 - info: normal field / name = hashValue , value = Nothing
+2017-08-29 11:35:38 - info: normal field / name = fullpath , value = C:\B\One\새 텍스트 문서 (2).txt
+2017-08-29 11:35:38 - info: normal field / name = oldFullpath , value = 
+2017-08-29 11:35:38 - info: ------HANDLE ERR------
+2017-08-29 11:35:38 - info: [object Object] : Success file.
+2017-08-29 11:35:39 - info: ## Set Source Path ##
+2017-08-29 11:35:39 - info: ########## START PARSE ##########
+2017-08-29 11:35:39 - info: normal field / name = action , value = MODIFIED
+2017-08-29 11:35:39 - info: normal field / name = hashValue , value = Nothing
+2017-08-29 11:35:39 - info: normal field / name = fullpath , value = C:\B\One\새 텍스트 문서 (2).txt
+2017-08-29 11:35:39 - info: normal field / name = oldFullpath , value = 
+2017-08-29 11:35:39 - info: ------HANDLE ERR------
+2017-08-29 11:35:39 - info: [object Object] : Success file.
+2017-08-29 11:41:48 - info: ## Set Source Path ##
+2017-08-29 11:41:48 - info: ########## START PARSE ##########
+2017-08-29 11:41:48 - info: normal field / name = action , value = MODIFIED
+2017-08-29 11:41:48 - info: normal field / name = hashValue , value = Nothing
+2017-08-29 11:41:48 - info: normal field / name = fullpath , value = C:\B\One\통합 문서1.xlsx
+2017-08-29 11:41:48 - info: normal field / name = oldFullpath , value = 
+2017-08-29 11:41:48 - info: ------HANDLE ERR------
+2017-08-29 11:41:48 - info: [object Object] : Success file.
+2017-08-29 11:42:14 - info: ## Set Source Path ##
+2017-08-29 11:42:14 - info: ########## START PARSE ##########
+2017-08-29 11:42:14 - info: normal field / name = action , value = ADDED
+2017-08-29 11:42:14 - info: normal field / name = hashValue , value = Nothing
+2017-08-29 11:42:14 - info: normal field / name = fullpath , value = C:\B\One\새 Microsoft Word 문서.docx
+2017-08-29 11:42:14 - info: normal field / name = oldFullpath , value = 
+2017-08-29 11:42:55 - info: ## Set Source Path ##
+2017-08-29 11:42:55 - info: ########## START PARSE ##########
+2017-08-29 11:42:55 - info: normal field / name = action , value = ADDED
+2017-08-29 11:42:55 - info: normal field / name = hashValue , value = Nothing
+2017-08-29 11:42:55 - info: normal field / name = fullpath , value = C:\Users\Dave\.WebStorm2017.2\system\log\idea_log_check.txt
+2017-08-29 11:42:55 - info: normal field / name = oldFullpath , value = 
+2017-08-29 11:42:55 - info: ------HANDLE ERR------
+2017-08-29 11:42:55 - info: ADDED : Success file.
+2017-08-29 11:49:29 - info: ## Set Source Path ##
+2017-08-29 11:49:29 - info: ########## START PARSE ##########
+2017-08-29 11:49:29 - info: normal field / name = action , value = MODIFIED
+2017-08-29 11:49:29 - info: normal field / name = hashValue , value = Nothing
+2017-08-29 11:49:29 - info: normal field / name = fullpath , value = C:\B\One\새 텍스트 문서 (2).txt
+2017-08-29 11:49:29 - info: normal field / name = oldFullpath , value = 
+2017-08-29 11:49:29 - info: ------HANDLE ERR------
+2017-08-29 11:49:29 - info: [object Object] : Success file.
+2017-08-29 11:49:29 - info: ## Set Source Path ##
+2017-08-29 11:49:29 - info: ########## START PARSE ##########
+2017-08-29 11:49:29 - info: normal field / name = action , value = MODIFIED
+2017-08-29 11:49:29 - info: normal field / name = hashValue , value = Nothing
+2017-08-29 11:49:29 - info: normal field / name = fullpath , value = C:\B\One\새 텍스트 문서 (2).txt
+2017-08-29 11:49:29 - info: normal field / name = oldFullpath , value = 
+2017-08-29 11:49:29 - info: ------HANDLE ERR------
+2017-08-29 11:49:29 - info: [object Object] : Success file.
+2017-08-29 11:49:41 - info: ## Set Source Path ##
+2017-08-29 11:49:41 - info: ########## START PARSE ##########
+2017-08-29 11:49:41 - info: normal field / name = action , value = ADDED
+2017-08-29 11:49:41 - info: normal field / name = hashValue , value = Nothing
+2017-08-29 11:49:41 - info: normal field / name = fullpath , value = C:\B\One\새 텍스트 문서 (6).txt
+2017-08-29 11:49:41 - info: normal field / name = oldFullpath , value = 
+2017-08-29 11:52:34 - info: ## Set Source Path ##
+2017-08-29 11:52:34 - info: ########## START PARSE ##########
+2017-08-29 11:52:37 - info: normal field / name = action , value = ADDED
+2017-08-29 11:52:37 - info: normal field / name = hashValue , value = Nothing
+2017-08-29 11:52:37 - info: normal field / name = fullpath , value = C:\B\One\새 텍스트 문서 (8).txt
+2017-08-29 11:52:37 - info: normal field / name = oldFullpath , value = 
+2017-08-29 11:58:33 - info: ## Set Source Path ##
+2017-08-29 11:58:33 - info: ########## START PARSE ##########
+2017-08-29 11:58:33 - info: normal field / name = action , value = ADDED
+2017-08-29 11:58:33 - info: normal field / name = hashValue , value = Nothing
+2017-08-29 11:58:33 - info: normal field / name = fullpath , value = C:\B\One\새 텍스트 문서 (9).txt
+2017-08-29 11:58:33 - info: normal field / name = oldFullpath , value = 
+2017-08-29 13:17:09 - info: ## Set Source Path ##
+2017-08-29 13:17:09 - info: ########## START PARSE ##########
+2017-08-29 13:17:09 - info: normal field / name = action , value = ADDED
+2017-08-29 13:17:09 - info: normal field / name = hashValue , value = Nothing
+2017-08-29 13:17:09 - info: normal field / name = fullpath , value = C:\B\One\새 텍스트 문서 (10).txt
+2017-08-29 13:17:09 - info: normal field / name = oldFullpath , value = 
+
+2017-08-29 13:18:05 - info: ## Set Source Path ##
+2017-08-29 13:18:05 - info: ########## START PARSE ##########
+2017-08-29 13:18:05 - info: normal field / name = action , value = ADDED
+2017-08-29 13:18:05 - info: normal field / name = hashValue , value = Nothing
+2017-08-29 13:18:05 - info: normal field / name = fullpath , value = C:\B\One\새 텍스트 문서 (11).txt
+2017-08-29 13:18:05 - info: normal field / name = oldFullpath , value = 
+
+2017-08-29 13:47:39 - info: ## Set Source Path ##
+2017-08-29 13:47:39 - info: ########## START PARSE ##########
+2017-08-29 13:47:39 - info: normal field / name = action , value = ADDED
+2017-08-29 13:47:39 - info: normal field / name = hashValue , value = Nothing
+2017-08-29 13:47:39 - info: normal field / name = fullpath , value = C:\B\One\새 텍스트 문서 (14).txt
+2017-08-29 13:47:39 - info: normal field / name = oldFullpath , value = 
+
+2017-08-29 13:48:22 - info: ## Set Source Path ##
+2017-08-29 13:48:22 - info: ########## START PARSE ##########
+2017-08-29 13:48:22 - info: normal field / name = action , value = ADDED
+2017-08-29 13:48:22 - info: normal field / name = hashValue , value = Nothing
+2017-08-29 13:48:22 - info: normal field / name = fullpath , value = C:\B\One\새 텍스트 문서 (15).txt
+2017-08-29 13:48:22 - info: normal field / name = oldFullpath , value = 
+
+2017-08-29 14:03:49 - info: ## Set Source Path ##
+2017-08-29 14:03:49 - info: ########## START PARSE ##########
+2017-08-29 14:03:49 - info: normal field / name = action , value = ADDED
+2017-08-29 14:03:49 - info: normal field / name = hashValue , value = Nothing
+2017-08-29 14:03:49 - info: normal field / name = fileSize , value = 0
+2017-08-29 14:03:49 - info: normal field / name = fullpath , value = C:\B\One\새 텍스트 문서 (20).txt
+2017-08-29 14:03:49 - info: normal field / name = oldFullpath , value = 
+2017-08-29 14:22:01 - info: ## Set Source Path ##
+2017-08-29 14:22:01 - info: ########## START PARSE ##########
+2017-08-29 14:22:01 - info: normal field / name = action , value = ADDED
+2017-08-29 14:22:01 - info: normal field / name = hashValue , value = Nothing
+2017-08-29 14:22:01 - info: normal field / name = fileSize , value = 6257
+2017-08-29 14:22:01 - info: normal field / name = fullpath , value = C:\B\One\새 Microsoft Excel 워크시트 (3).xlsx
+2017-08-29 14:22:01 - info: normal field / name = oldFullpath , value = 
+
+2017-08-29 14:22:32 - info: ## Set Source Path ##
+2017-08-29 14:22:32 - info: ########## START PARSE ##########
+2017-08-29 14:22:32 - info: normal field / name = action , value = REMOVED
+2017-08-29 14:22:32 - info: normal field / name = hashValue , value = Nothing
+2017-08-29 14:22:32 - info: normal field / name = fileSize , value = 6333
+2017-08-29 14:22:32 - info: normal field / name = fullpath , value = C:\B\One\새 Microsoft Excel 워크시트 (3).xlsx
+2017-08-29 14:22:32 - info: normal field / name = oldFullpath , value = 
+
+2017-08-29 14:24:40 - info: ## Set Source Path ##
+2017-08-29 14:24:40 - info: ########## START PARSE ##########
+2017-08-29 14:24:40 - info: normal field / name = action , value = ADDED
+2017-08-29 14:24:40 - info: normal field / name = hashValue , value = Nothing
+2017-08-29 14:24:40 - info: normal field / name = fileSize , value = 6257
+2017-08-29 14:24:40 - info: normal field / name = fullpath , value = C:\B\One\새 Microsoft Excel 워크시트 (4).xlsx
+2017-08-29 14:24:40 - info: normal field / name = oldFullpath , value = 
+
+2017-08-29 14:38:20 - info: ## Set Source Path ##
+2017-08-29 14:38:20 - info: ########## START PARSE ##########
+2017-08-29 14:38:21 - info: normal field / name = action , value = ADDED
+2017-08-29 14:38:21 - info: normal field / name = hashValue , value = Nothing
+2017-08-29 14:38:21 - info: normal field / name = fileSize , value = 0
+2017-08-29 14:38:21 - info: normal field / name = fullpath , value = C:\B\One\새 텍스트 문서 (28).txt
+2017-08-29 14:38:21 - info: normal field / name = oldFullpath , value = 
+2017-08-29 14:38:53 - info: ## Set Source Path ##
+2017-08-29 14:38:53 - info: ########## START PARSE ##########
+2017-08-29 14:38:55 - info: normal field / name = action , value = ADDED
+2017-08-29 14:38:55 - info: normal field / name = hashValue , value = Nothing
+2017-08-29 14:38:55 - info: normal field / name = fileSize , value = 0
+2017-08-29 14:38:55 - info: normal field / name = fullpath , value = C:\B\One\새 Microsoft Word 문서 (2).docx
+2017-08-29 14:38:55 - info: normal field / name = oldFullpath , value = 
+2017-08-29 14:56:13 - info: ## Set Source Path ##
+2017-08-29 14:56:13 - info: ########## START PARSE ##########
+2017-08-29 14:56:16 - info: normal field / name = action , value = ADDED
+2017-08-29 14:56:16 - info: normal field / name = hashValue , value = Nothing
+2017-08-29 14:56:16 - info: normal field / name = fileSize , value = 0
+2017-08-29 14:56:16 - info: normal field / name = fullpath , value = C:\B\One\새 Microsoft Word 문서 (3).docx
+2017-08-29 14:56:16 - info: normal field / name = oldFullpath , value = 
+2017-08-29 14:56:16 - info: ------HANDLE ERR------
+2017-08-29 14:56:16 - info: ADDED : Success file.
+2017-08-29 14:57:48 - info: ## Set Source Path ##
+2017-08-29 14:57:48 - info: ########## START PARSE ##########
+2017-08-29 14:57:48 - info: normal field / name = action , value = ADDED
+2017-08-29 14:57:48 - info: normal field / name = hashValue , value = Nothing
+2017-08-29 14:57:48 - info: normal field / name = fileSize , value = 0
+2017-08-29 14:57:48 - info: normal field / name = fullpath , value = C:\B\One\새 Microsoft Word 문서 (4).docx
+2017-08-29 14:57:48 - info: normal field / name = oldFullpath , value = 
+2017-08-29 14:57:48 - info: ------HANDLE ERR------
+2017-08-29 14:57:48 - info: ADDED : Success file.
+2017-08-29 15:01:35 - info: ## Set Source Path ##
+2017-08-29 15:01:35 - info: ########## START PARSE ##########
+2017-08-29 15:01:35 - info: normal field / name = action , value = ADDED
+2017-08-29 15:01:35 - info: normal field / name = hashValue , value = Nothing
+2017-08-29 15:01:35 - info: normal field / name = fileSize , value = 0
+2017-08-29 15:01:35 - info: normal field / name = fullpath , value = C:\B\One\새 Microsoft PowerPoint 프레젠테이션.pptx
+2017-08-29 15:01:35 - info: normal field / name = oldFullpath , value = 
+2017-08-29 15:01:35 - info: ------HANDLE ERR------
+2017-08-29 15:01:35 - info: ADDED : Success file.
+2017-08-29 15:02:06 - info: ## Set Source Path ##
+2017-08-29 15:02:06 - info: ########## START PARSE ##########
+2017-08-29 15:02:06 - info: normal field / name = action , value = ADDED
+2017-08-29 15:02:06 - info: normal field / name = hashValue , value = Nothing
+2017-08-29 15:02:06 - info: normal field / name = fileSize , value = 0
+2017-08-29 15:02:06 - info: normal field / name = fullpath , value = C:\B\One\새 Microsoft PowerPoint 프레젠테이션 (2).pptx
+2017-08-29 15:02:06 - info: normal field / name = oldFullpath , value = 
+2017-08-29 15:02:06 - info: ------HANDLE ERR------
+2017-08-29 15:02:06 - info: ADDED : Success file.
+2017-08-29 15:02:37 - info: ## Set Source Path ##
+2017-08-29 15:02:37 - info: ########## START PARSE ##########
+2017-08-29 15:02:37 - info: normal field / name = action , value = ADDED
+2017-08-29 15:02:37 - info: normal field / name = hashValue , value = Nothing
+2017-08-29 15:02:37 - info: normal field / name = fileSize , value = 0
+2017-08-29 15:02:37 - info: normal field / name = fullpath , value = C:\B\One\새 Microsoft PowerPoint 프레젠테이션 (3).pptx
+2017-08-29 15:02:37 - info: normal field / name = oldFullpath , value = 
+2017-08-29 15:02:37 - info: ------HANDLE ERR------
+2017-08-29 15:02:37 - info: ADDED : Success file.
+2017-08-29 15:06:27 - info: ## Set Source Path ##
+2017-08-29 15:06:27 - info: ########## START PARSE ##########
+2017-08-29 15:06:27 - info: normal field / name = action , value = ADDED
+2017-08-29 15:06:27 - info: normal field / name = hashValue , value = Nothing
+2017-08-29 15:06:27 - info: normal field / name = fileSize , value = 6257
+2017-08-29 15:06:27 - info: normal field / name = fullpath , value = C:\B\One\새 Microsoft Excel 워크시트 (14).xlsx
+2017-08-29 15:06:27 - info: normal field / name = oldFullpath , value = 
+2017-08-29 15:06:27 - info: ------HANDLE ERR------
+2017-08-29 15:06:27 - info: ADDED : Success file.
+2017-08-29 15:06:30 - info: ## Set Source Path ##
+2017-08-29 15:06:30 - info: ########## START PARSE ##########
+2017-08-29 15:06:30 - info: normal field / name = action , value = MODIFIED
+2017-08-29 15:06:30 - info: normal field / name = hashValue , value = Nothing
+2017-08-29 15:06:30 - info: normal field / name = fileSize , value = 6257
+2017-08-29 15:06:30 - info: normal field / name = fullpath , value = C:\B\One\새 Microsoft Excel 워크시트 (14).xlsx
+2017-08-29 15:06:30 - info: normal field / name = oldFullpath , value = 
+2017-08-29 15:06:30 - info: ------HANDLE ERR------
+2017-08-29 15:06:30 - info: [object Object] : Success file.
+2017-08-29 15:06:41 - info: ## Set Source Path ##
+2017-08-29 15:06:41 - info: ########## START PARSE ##########
+2017-08-29 15:06:41 - info: normal field / name = action , value = ADDED
+2017-08-29 15:06:41 - info: normal field / name = hashValue , value = Nothing
+2017-08-29 15:06:41 - info: normal field / name = fileSize , value = 0
+2017-08-29 15:06:41 - info: normal field / name = fullpath , value = C:\B\One\새 Microsoft PowerPoint 프레젠테이션 (4).pptx
+2017-08-29 15:06:41 - info: normal field / name = oldFullpath , value = 
+2017-08-29 15:06:41 - info: ------HANDLE ERR------
+2017-08-29 15:06:41 - info: ADDED : Success file.
+2017-08-29 15:23:39 - info: ## Set Source Path ##
+2017-08-29 15:23:39 - info: ########## START PARSE ##########
+2017-08-29 15:23:39 - info: normal field / name = action , value = ADDED
+2017-08-29 15:23:39 - info: normal field / name = hashValue , value = Nothing
+2017-08-29 15:23:39 - info: normal field / name = fileSize , value = 0
+2017-08-29 15:23:39 - info: normal field / name = fullpath , value = C:\B\One\새 텍스트 문서 (29).txt
+2017-08-29 15:23:39 - info: normal field / name = oldFullpath , value = 
+2017-08-29 15:23:39 - info: ------HANDLE ERR------
+2017-08-29 15:23:39 - info: ADDED : Success file.
+2017-08-29 15:23:52 - info: ## Set Source Path ##
+2017-08-29 15:23:52 - info: ########## START PARSE ##########
+2017-08-29 15:23:52 - info: normal field / name = action , value = MODIFIED
+2017-08-29 15:23:52 - info: normal field / name = hashValue , value = Nothing
+2017-08-29 15:23:52 - info: normal field / name = fileSize , value = 2
+2017-08-29 15:23:52 - info: normal field / name = fullpath , value = C:\B\One\새 텍스트 문서 (29).txt
+2017-08-29 15:23:52 - info: normal field / name = oldFullpath , value = 
+2017-08-29 15:23:52 - info: ------HANDLE ERR------
+2017-08-29 15:23:52 - info: [object Object] : Success file.
+2017-08-29 15:23:52 - info: ## Set Source Path ##
+2017-08-29 15:23:52 - info: ########## START PARSE ##########
+2017-08-29 15:23:52 - info: normal field / name = action , value = MODIFIED
+2017-08-29 15:23:52 - info: normal field / name = hashValue , value = Nothing
+2017-08-29 15:23:52 - info: normal field / name = fileSize , value = 2
+2017-08-29 15:23:52 - info: normal field / name = fullpath , value = C:\B\One\새 텍스트 문서 (29).txt
+2017-08-29 15:23:52 - info: normal field / name = oldFullpath , value = 
+2017-08-29 15:23:52 - info: ------HANDLE ERR------
+2017-08-29 15:23:52 - info: [object Object] : Success file.
+2017-08-29 15:24:12 - info: ## Set Source Path ##
+2017-08-29 15:24:12 - info: ########## START PARSE ##########
+2017-08-29 15:24:12 - info: normal field / name = action , value = MODIFIED
+2017-08-29 15:24:12 - info: normal field / name = hashValue , value = Nothing
+2017-08-29 15:24:12 - info: normal field / name = fileSize , value = 11512
+2017-08-29 15:24:12 - info: normal field / name = fullpath , value = C:\B\One\새 Microsoft Word 문서 (3).docx
+2017-08-29 15:24:12 - info: normal field / name = oldFullpath , value = 
+2017-08-29 15:24:12 - info: ------HANDLE ERR------
+2017-08-29 15:24:12 - info: [object Object] : Success file.
+2017-08-29 15:24:13 - info: ## Set Source Path ##
+2017-08-29 15:24:13 - info: ########## START PARSE ##########
+2017-08-29 15:24:13 - info: normal field / name = action , value = MODIFIED
+2017-08-29 15:24:13 - info: normal field / name = hashValue , value = Nothing
+2017-08-29 15:24:13 - info: normal field / name = fileSize , value = 11512
+2017-08-29 15:24:13 - info: normal field / name = fullpath , value = C:\B\One\새 Microsoft Word 문서 (3).docx
+2017-08-29 15:24:13 - info: normal field / name = oldFullpath , value = 
+2017-08-29 15:24:13 - info: ------HANDLE ERR------
+2017-08-29 15:24:13 - info: [object Object] : Success file.
+2017-08-29 15:26:00 - info: ## Set Source Path ##
+2017-08-29 15:26:00 - info: ########## START PARSE ##########
+2017-08-29 15:26:00 - info: normal field / name = action , value = CUT
+2017-08-29 15:26:00 - info: normal field / name = hashValue , value = Nothing
+2017-08-29 15:26:00 - info: normal field / name = fileSize , value = 15871
+2017-08-29 15:26:00 - info: normal field / name = fullpath , value = C:\Users\Dave\Desktop\VEXBackup\RTB\RealTimeBackup, IO Complete Massage 정의 문서.xlsx
+2017-08-29 15:26:00 - info: normal field / name = oldFullpath , value = C:\Users\Dave\Desktop\VEXBackup\RealTimeBackup, IO Complete Massage 정의 문서.xlsx
+2017-08-29 15:26:00 - info: ## Set Source Path ##
+2017-08-29 15:26:00 - info: ########## START PARSE ##########
+2017-08-29 15:26:00 - info: normal field / name = action , value = MODIFIED
+2017-08-29 15:26:00 - info: normal field / name = hashValue , value = Nothing
+2017-08-29 15:26:00 - info: normal field / name = fileSize , value = 15871
+2017-08-29 15:26:00 - info: normal field / name = fullpath , value = C:\Users\Dave\Desktop\VEXBackup\RTB\RealTimeBackup, IO Complete Massage 정의 문서.xlsx
+2017-08-29 15:26:00 - info: normal field / name = oldFullpath , value = 
+2017-08-29 15:26:00 - info: ------HANDLE ERR------
+2017-08-29 15:26:00 - info: [object Object] : Success file.
+2017-08-29 15:26:09 - info: ## Set Source Path ##
+2017-08-29 15:26:09 - info: ########## START PARSE ##########
+2017-08-29 15:26:09 - info: normal field / name = action , value = ADDED
+2017-08-29 15:26:09 - info: normal field / name = hashValue , value = Nothing
+2017-08-29 15:26:09 - info: normal field / name = fileSize , value = 15871
+2017-08-29 15:26:09 - info: normal field / name = fullpath , value = C:\Users\Dave\Desktop\VEXBackup\RTB\중요문서\RealTimeBackup, IO Complete Massage 정의 문서.xlsx
+2017-08-29 15:26:09 - info: normal field / name = oldFullpath , value = 
+2017-08-29 15:26:09 - info: ------HANDLE ERR------
+2017-08-29 15:26:09 - info: ADDED : Success file.
+2017-08-29 15:26:09 - info: ## Set Source Path ##
+2017-08-29 15:26:09 - info: ########## START PARSE ##########
+2017-08-29 15:26:09 - info: normal field / name = action , value = MODIFIED
+2017-08-29 15:26:09 - info: normal field / name = hashValue , value = Nothing
+2017-08-29 15:26:09 - info: normal field / name = fileSize , value = 15871
+2017-08-29 15:26:09 - info: normal field / name = fullpath , value = C:\Users\Dave\Desktop\VEXBackup\RTB\중요문서\RealTimeBackup, IO Complete Massage 정의 문서.xlsx
+2017-08-29 15:26:09 - info: normal field / name = oldFullpath , value = 
+2017-08-29 15:26:09 - info: ------HANDLE ERR------
+2017-08-29 15:26:09 - info: [object Object] : Success file.
+2017-08-29 15:26:18 - info: ## Set Source Path ##
+2017-08-29 15:26:18 - info: ########## START PARSE ##########
+2017-08-29 15:26:18 - info: normal field / name = action , value = RENAME
+2017-08-29 15:26:18 - info: normal field / name = hashValue , value = Nothing
+2017-08-29 15:26:18 - info: normal field / name = fileSize , value = 15871
+2017-08-29 15:26:18 - info: normal field / name = fullpath , value = C:\Users\Dave\Desktop\VEXBackup\RTB\RealTimeBackup, IO Complete Massage 정의 문서_ver2.xlsx
+2017-08-29 15:26:18 - info: normal field / name = oldFullpath , value = C:\Users\Dave\Desktop\VEXBackup\RTB\RealTimeBackup, IO Complete Massage 정의 문서.xlsx
+2017-08-29 15:26:18 - info: ## Set Source Path ##
+2017-08-29 15:26:18 - info: ########## START PARSE ##########
+2017-08-29 15:26:18 - info: normal field / name = action , value = MODIFIED
+2017-08-29 15:26:18 - info: normal field / name = hashValue , value = Nothing
+2017-08-29 15:26:18 - info: normal field / name = fileSize , value = 15871
+2017-08-29 15:26:18 - info: normal field / name = fullpath , value = C:\Users\Dave\Desktop\VEXBackup\RTB\RealTimeBackup, IO Complete Massage 정의 문서_ver2.xlsx
+2017-08-29 15:26:18 - info: normal field / name = oldFullpath , value = 
+2017-08-29 15:26:18 - info: ------HANDLE ERR------
+2017-08-29 15:26:18 - info: [object Object] : Success file.
+2017-08-29 15:31:31 - info: ## Set Source Path ##
+2017-08-29 15:31:31 - info: ########## START PARSE ##########
+2017-08-29 15:31:31 - info: normal field / name = action , value = MODIFIED
+2017-08-29 15:31:31 - info: normal field / name = hashValue , value = Nothing
+2017-08-29 15:31:31 - info: normal field / name = fileSize , value = 8533
+2017-08-29 15:31:31 - info: normal field / name = fullpath , value = C:\B\One\새 Microsoft Excel 워크시트 (14).xlsx
+2017-08-29 15:31:31 - info: normal field / name = oldFullpath , value = 
+2017-08-29 15:31:31 - info: ------HANDLE ERR------
+2017-08-29 15:31:31 - info: [object Object] : Success file.
+2017-08-29 15:31:31 - info: ## Set Source Path ##
+2017-08-29 15:31:31 - info: ########## START PARSE ##########
+2017-08-29 15:31:31 - info: normal field / name = action , value = MODIFIED
+2017-08-29 15:31:31 - info: normal field / name = hashValue , value = Nothing
+2017-08-29 15:31:31 - info: normal field / name = fileSize , value = 8533
+2017-08-29 15:31:31 - info: normal field / name = fullpath , value = C:\B\One\새 Microsoft Excel 워크시트 (14).xlsx
+2017-08-29 15:31:31 - info: normal field / name = oldFullpath , value = 
+2017-08-29 15:31:31 - info: ------HANDLE ERR------
+2017-08-29 15:31:31 - info: [object Object] : Success file.
+2017-08-29 15:32:05 - info: ## Set Source Path ##
+2017-08-29 15:32:05 - info: ########## START PARSE ##########
+2017-08-29 15:32:05 - info: normal field / name = action , value = MODIFIED
+2017-08-29 15:32:05 - info: normal field / name = hashValue , value = Nothing
+2017-08-29 15:32:05 - info: normal field / name = fileSize , value = 8535
+2017-08-29 15:32:05 - info: normal field / name = fullpath , value = C:\B\One\새 Microsoft Excel 워크시트 (14).xlsx
+2017-08-29 15:32:05 - info: normal field / name = oldFullpath , value = 
+2017-08-29 15:32:05 - info: ------HANDLE ERR------
+2017-08-29 15:32:05 - info: [object Object] : Success file.
+2017-08-29 15:32:05 - info: ## Set Source Path ##
+2017-08-29 15:32:05 - info: ########## START PARSE ##########
+2017-08-29 15:32:05 - info: normal field / name = action , value = MODIFIED
+2017-08-29 15:32:05 - info: normal field / name = hashValue , value = Nothing
+2017-08-29 15:32:05 - info: normal field / name = fileSize , value = 8535
+2017-08-29 15:32:05 - info: normal field / name = fullpath , value = C:\B\One\새 Microsoft Excel 워크시트 (14).xlsx
+2017-08-29 15:32:05 - info: normal field / name = oldFullpath , value = 
+2017-08-29 15:32:05 - info: ------HANDLE ERR------
+2017-08-29 15:32:05 - info: [object Object] : Success file.
+2017-08-29 15:33:04 - info: ## Set Source Path ##
+2017-08-29 15:33:04 - info: ########## START PARSE ##########
+2017-08-29 15:33:04 - info: normal field / name = action , value = MODIFIED
+2017-08-29 15:33:04 - info: normal field / name = hashValue , value = Nothing
+2017-08-29 15:33:04 - info: normal field / name = fileSize , value = 30868
+2017-08-29 15:33:04 - info: normal field / name = fullpath , value = C:\B\One\새 Microsoft PowerPoint 프레젠테이션 (3).pptx
+2017-08-29 15:33:04 - info: normal field / name = oldFullpath , value = 
+2017-08-29 15:33:04 - info: ------HANDLE ERR------
+2017-08-29 15:33:04 - info: [object Object] : Success file.
+2017-08-29 15:33:04 - info: ## Set Source Path ##
+2017-08-29 15:33:04 - info: ########## START PARSE ##########
+2017-08-29 15:33:04 - info: normal field / name = action , value = MODIFIED
+2017-08-29 15:33:04 - info: normal field / name = hashValue , value = Nothing
+2017-08-29 15:33:04 - info: normal field / name = fileSize , value = 30868
+2017-08-29 15:33:04 - info: normal field / name = fullpath , value = C:\B\One\새 Microsoft PowerPoint 프레젠테이션 (3).pptx
+2017-08-29 15:33:04 - info: normal field / name = oldFullpath , value = 
+2017-08-29 15:33:04 - info: ------HANDLE ERR------
+2017-08-29 15:33:04 - info: [object Object] : Success file.
+2017-08-29 15:33:16 - info: ## Set Source Path ##
+2017-08-29 15:33:16 - info: ########## START PARSE ##########
+2017-08-29 15:33:16 - info: normal field / name = action , value = MODIFIED
+2017-08-29 15:33:16 - info: normal field / name = hashValue , value = Nothing
+2017-08-29 15:33:16 - info: normal field / name = fileSize , value = 8583
+2017-08-29 15:33:16 - info: normal field / name = fullpath , value = C:\B\One\새 Microsoft Excel 워크시트 (14).xlsx
+2017-08-29 15:33:16 - info: normal field / name = oldFullpath , value = 
+2017-08-29 15:33:16 - info: ------HANDLE ERR------
+2017-08-29 15:33:16 - info: [object Object] : Success file.
+2017-08-29 15:33:16 - info: ## Set Source Path ##
+2017-08-29 15:33:16 - info: ########## START PARSE ##########
+2017-08-29 15:33:16 - info: normal field / name = action , value = MODIFIED
+2017-08-29 15:33:16 - info: normal field / name = hashValue , value = Nothing
+2017-08-29 15:33:16 - info: normal field / name = fileSize , value = 8583
+2017-08-29 15:33:16 - info: normal field / name = fullpath , value = C:\B\One\새 Microsoft Excel 워크시트 (14).xlsx
+2017-08-29 15:33:16 - info: normal field / name = oldFullpath , value = 
+2017-08-29 15:33:16 - info: ------HANDLE ERR------
+2017-08-29 15:33:16 - info: [object Object] : Success file.
+2017-08-29 15:33:55 - info: ## Set Source Path ##
+2017-08-29 15:33:55 - info: ########## START PARSE ##########
+2017-08-29 15:33:55 - info: normal field / name = action , value = ADDED
+2017-08-29 15:33:55 - info: normal field / name = hashValue , value = Nothing
+2017-08-29 15:33:55 - info: normal field / name = fileSize , value = 26188
+2017-08-29 15:33:55 - info: normal field / name = fullpath , value = C:\B\One\00.RE_JS-OH개발팀-주간보고-2017년2분기-황병대_ - 복사본1 (2).xlsx
+2017-08-29 15:33:55 - info: normal field / name = oldFullpath , value = 
+2017-08-29 15:33:55 - info: ------HANDLE ERR------
+2017-08-29 15:33:55 - info: ADDED : Success file.
+2017-08-29 15:33:56 - info: ## Set Source Path ##
+2017-08-29 15:33:56 - info: ########## START PARSE ##########
+2017-08-29 15:33:56 - info: normal field / name = action , value = MODIFIED
+2017-08-29 15:33:56 - info: normal field / name = hashValue , value = Nothing
+2017-08-29 15:33:56 - info: normal field / name = fileSize , value = 26188
+2017-08-29 15:33:56 - info: normal field / name = fullpath , value = C:\B\One\00.RE_JS-OH개발팀-주간보고-2017년2분기-황병대_ - 복사본1 (2).xlsx
+2017-08-29 15:33:56 - info: normal field / name = oldFullpath , value = 
+2017-08-29 15:33:56 - info: ------HANDLE ERR------
+2017-08-29 15:33:56 - info: [object Object] : Success file.
+2017-08-29 15:34:32 - info: ## Set Source Path ##
+2017-08-29 15:34:32 - info: ########## START PARSE ##########
+2017-08-29 15:34:32 - info: normal field / name = action , value = MODIFIED
+2017-08-29 15:34:32 - info: normal field / name = hashValue , value = Nothing
+2017-08-29 15:34:32 - info: normal field / name = fileSize , value = 26190
+2017-08-29 15:34:32 - info: normal field / name = fullpath , value = C:\B\One\00.RE_JS-OH개발팀-주간보고-2017년2분기-황병대_ - 복사본1 (2).xlsx
+2017-08-29 15:34:32 - info: normal field / name = oldFullpath , value = 
+2017-08-29 15:34:32 - info: ------HANDLE ERR------
+2017-08-29 15:34:32 - info: [object Object] : Success file.
+2017-08-29 15:34:32 - info: ## Set Source Path ##
+2017-08-29 15:34:32 - info: ########## START PARSE ##########
+2017-08-29 15:34:32 - info: normal field / name = action , value = MODIFIED
+2017-08-29 15:34:32 - info: normal field / name = hashValue , value = Nothing
+2017-08-29 15:34:32 - info: normal field / name = fileSize , value = 26190
+2017-08-29 15:34:32 - info: normal field / name = fullpath , value = C:\B\One\00.RE_JS-OH개발팀-주간보고-2017년2분기-황병대_ - 복사본1 (2).xlsx
+2017-08-29 15:34:32 - info: normal field / name = oldFullpath , value = 
+2017-08-29 15:34:32 - info: ------HANDLE ERR------
+2017-08-29 15:34:32 - info: [object Object] : Success file.
+2017-08-29 15:36:18 - info: ## Set Source Path ##
+2017-08-29 15:36:18 - info: ########## START PARSE ##########
+2017-08-29 15:36:18 - info: normal field / name = action , value = MODIFIED
+2017-08-29 15:36:18 - info: normal field / name = hashValue , value = Nothing
+2017-08-29 15:36:18 - info: normal field / name = fileSize , value = 26189
+2017-08-29 15:36:18 - info: normal field / name = fullpath , value = C:\B\One\00.RE_JS-OH개발팀-주간보고-2017년2분기-황병대_ - 복사본1 (2).xlsx
+2017-08-29 15:36:18 - info: normal field / name = oldFullpath , value = 
+2017-08-29 15:36:18 - info: ------HANDLE ERR------
+2017-08-29 15:36:18 - info: [object Object] : Success file.
+2017-08-29 15:36:18 - info: ## Set Source Path ##
+2017-08-29 15:36:18 - info: ########## START PARSE ##########
+2017-08-29 15:36:18 - info: normal field / name = action , value = MODIFIED
+2017-08-29 15:36:18 - info: normal field / name = hashValue , value = Nothing
+2017-08-29 15:36:18 - info: normal field / name = fileSize , value = 26189
+2017-08-29 15:36:18 - info: normal field / name = fullpath , value = C:\B\One\00.RE_JS-OH개발팀-주간보고-2017년2분기-황병대_ - 복사본1 (2).xlsx
+2017-08-29 15:36:18 - info: normal field / name = oldFullpath , value = 
+2017-08-29 15:36:18 - info: ------HANDLE ERR------
+2017-08-29 15:36:18 - info: [object Object] : Success file.
+2017-08-29 15:38:15 - info: ## Set Source Path ##
+2017-08-29 15:38:15 - info: ########## START PARSE ##########
+2017-08-29 15:38:15 - info: normal field / name = action , value = MODIFIED
+2017-08-29 15:38:15 - info: normal field / name = hashValue , value = Nothing
+2017-08-29 15:38:15 - info: normal field / name = fileSize , value = 8121
+2017-08-29 15:38:15 - info: normal field / name = fullpath , value = C:\B\One\통합 문서1.xlsx
+2017-08-29 15:38:15 - info: normal field / name = oldFullpath , value = 
+2017-08-29 15:38:15 - info: ------HANDLE ERR------
+2017-08-29 15:38:15 - info: [object Object] : Success file.
+2017-08-29 15:38:15 - info: ## Set Source Path ##
+2017-08-29 15:38:15 - info: ########## START PARSE ##########
+2017-08-29 15:38:15 - info: normal field / name = action , value = MODIFIED
+2017-08-29 15:38:15 - info: normal field / name = hashValue , value = Nothing
+2017-08-29 15:38:15 - info: normal field / name = fileSize , value = 8121
+2017-08-29 15:38:15 - info: normal field / name = fullpath , value = C:\B\One\통합 문서1.xlsx
+2017-08-29 15:38:15 - info: normal field / name = oldFullpath , value = 
+2017-08-29 15:38:15 - info: ------HANDLE ERR------
+2017-08-29 15:38:15 - info: [object Object] : Success file.
+2017-08-29 15:38:47 - info: ## Set Source Path ##
+2017-08-29 15:38:47 - info: ########## START PARSE ##########
+2017-08-29 15:38:47 - info: normal field / name = action , value = CUT
+2017-08-29 15:38:47 - info: normal field / name = hashValue , value = Nothing
+2017-08-29 15:38:47 - info: normal field / name = fileSize , value = 31101
+2017-08-29 15:38:47 - info: normal field / name = fullpath , value = C:\B\One\ㅁㅁㅁ.pptx
+2017-08-29 15:38:47 - info: normal field / name = oldFullpath , value = C:\B\One\ㅁㅁㅁ.pptx
+2017-08-29 15:38:47 - info: ## Set Source Path ##
+2017-08-29 15:38:47 - info: ########## START PARSE ##########
+2017-08-29 15:38:47 - info: normal field / name = action , value = MODIFIED
+2017-08-29 15:38:47 - info: normal field / name = hashValue , value = Nothing
+2017-08-29 15:38:47 - info: normal field / name = fileSize , value = 31101
+2017-08-29 15:38:47 - info: normal field / name = fullpath , value = C:\B\One\ㅁㅁㅁ.pptx
+2017-08-29 15:38:47 - info: normal field / name = oldFullpath , value = 
+2017-08-29 15:38:47 - info: ------HANDLE ERR------
+2017-08-29 15:38:47 - info: [object Object] : Success file.
+2017-08-29 15:39:11 - info: ## Set Source Path ##
+2017-08-29 15:39:11 - info: ########## START PARSE ##########
+2017-08-29 15:39:11 - info: normal field / name = action , value = MODIFIED
+2017-08-29 15:39:11 - info: normal field / name = hashValue , value = Nothing
+2017-08-29 15:39:11 - info: normal field / name = fileSize , value = 31170
+2017-08-29 15:39:11 - info: normal field / name = fullpath , value = C:\B\One\ㅁㅁㅁ.pptx
+2017-08-29 15:39:11 - info: normal field / name = oldFullpath , value = 
+2017-08-29 15:39:11 - info: ------HANDLE ERR------
+2017-08-29 15:39:11 - info: [object Object] : Success file.
+2017-08-29 15:39:11 - info: ## Set Source Path ##
+2017-08-29 15:39:11 - info: ########## START PARSE ##########
+2017-08-29 15:39:11 - info: normal field / name = action , value = MODIFIED
+2017-08-29 15:39:11 - info: normal field / name = hashValue , value = Nothing
+2017-08-29 15:39:11 - info: normal field / name = fileSize , value = 31170
+2017-08-29 15:39:11 - info: normal field / name = fullpath , value = C:\B\One\ㅁㅁㅁ.pptx
+2017-08-29 15:39:11 - info: normal field / name = oldFullpath , value = 
+2017-08-29 15:39:11 - info: ------HANDLE ERR------
+2017-08-29 15:39:11 - info: [object Object] : Success file.
+2017-08-29 15:44:02 - info: ## Set Source Path ##
+2017-08-29 15:44:02 - info: ########## START PARSE ##########
+2017-08-29 15:44:02 - info: normal field / name = action , value = CUT
+2017-08-29 15:44:02 - info: normal field / name = hashValue , value = Nothing
+2017-08-29 15:44:02 - info: normal field / name = fileSize , value = 26079
+2017-08-29 15:44:02 - info: normal field / name = fullpath , value = C:\js\DEMO\DEMORTB\images\upload_8f6cac6c7476297122eff54e201a9b29.xlsx
+2017-08-29 15:44:02 - info: normal field / name = oldFullpath , value = C:\js\DEMO\DEMORTB\uploads\upload_8f6cac6c7476297122eff54e201a9b29.xlsx
+2017-08-29 15:44:02 - info: ## Set Source Path ##
+2017-08-29 15:44:02 - info: ########## START PARSE ##########
+2017-08-29 15:44:02 - info: normal field / name = action , value = MODIFIED
+2017-08-29 15:44:02 - info: normal field / name = hashValue , value = Nothing
+2017-08-29 15:44:02 - info: normal field / name = fileSize , value = 26079
+2017-08-29 15:44:02 - info: normal field / name = fullpath , value = C:\js\DEMO\DEMORTB\images\upload_8f6cac6c7476297122eff54e201a9b29.xlsx
+2017-08-29 15:44:02 - info: normal field / name = oldFullpath , value = 
+2017-08-29 15:44:02 - info: ------HANDLE ERR------
+2017-08-29 15:44:02 - info: [object Object] : Success file.
+2017-08-29 15:45:40 - info: ## Set Source Path ##
+2017-08-29 15:45:40 - info: ########## START PARSE ##########
+2017-08-29 15:45:40 - info: normal field / name = action , value = MODIFIED
+2017-08-29 15:45:40 - info: normal field / name = hashValue , value = Nothing
+2017-08-29 15:45:40 - info: normal field / name = fileSize , value = 8599
+2017-08-29 15:45:40 - info: normal field / name = fullpath , value = C:\B\One\새 Microsoft Excel 워크시트 (14).xlsx
+2017-08-29 15:45:40 - info: normal field / name = oldFullpath , value = 
+2017-08-29 15:45:40 - info: ------HANDLE ERR------
+2017-08-29 15:45:40 - info: [object Object] : Success file.
+2017-08-29 15:45:40 - info: ## Set Source Path ##
+2017-08-29 15:45:40 - info: ########## START PARSE ##########
+2017-08-29 15:45:40 - info: normal field / name = action , value = MODIFIED
+2017-08-29 15:45:40 - info: normal field / name = hashValue , value = Nothing
+2017-08-29 15:45:40 - info: normal field / name = fileSize , value = 8599
+2017-08-29 15:45:40 - info: normal field / name = fullpath , value = C:\B\One\새 Microsoft Excel 워크시트 (14).xlsx
+2017-08-29 15:45:40 - info: normal field / name = oldFullpath , value = 
+2017-08-29 15:45:40 - info: ------HANDLE ERR------
+2017-08-29 15:45:40 - info: [object Object] : Success file.
+2017-08-29 15:46:07 - info: ## Set Source Path ##
+2017-08-29 15:46:07 - info: ########## START PARSE ##########
+2017-08-29 15:46:07 - info: normal field / name = action , value = MODIFIED
+2017-08-29 15:46:07 - info: normal field / name = hashValue , value = Nothing
+2017-08-29 15:46:07 - info: normal field / name = fileSize , value = 7945
+2017-08-29 15:46:07 - info: normal field / name = fullpath , value = C:\B\One\새 Microsoft Excel 워크시트 (11).xlsx
+2017-08-29 15:46:07 - info: normal field / name = oldFullpath , value = 
+2017-08-29 15:46:07 - info: ------HANDLE ERR------
+2017-08-29 15:46:07 - info: [object Object] : Success file.
+2017-08-29 15:46:07 - info: ## Set Source Path ##
+2017-08-29 15:46:07 - info: ########## START PARSE ##########
+2017-08-29 15:46:07 - info: normal field / name = action , value = MODIFIED
+2017-08-29 15:46:07 - info: normal field / name = hashValue , value = Nothing
+2017-08-29 15:46:07 - info: normal field / name = fileSize , value = 7945
+2017-08-29 15:46:07 - info: normal field / name = fullpath , value = C:\B\One\새 Microsoft Excel 워크시트 (11).xlsx
+2017-08-29 15:46:07 - info: normal field / name = oldFullpath , value = 
+2017-08-29 15:46:07 - info: ------HANDLE ERR------
+2017-08-29 15:46:07 - info: [object Object] : Success file.
+2017-08-29 15:52:53 - info: ## Set Source Path ##
+2017-08-29 15:52:53 - info: ########## START PARSE ##########
+2017-08-29 15:52:53 - info: normal field / name = action , value = MODIFIED
+2017-08-29 15:52:53 - info: normal field / name = hashValue , value = Nothing
+2017-08-29 15:52:53 - info: normal field / name = fileSize , value = 8146
+2017-08-29 15:52:53 - info: normal field / name = fullpath , value = C:\B\One\새 Microsoft Excel 워크시트 (11).xlsx
+2017-08-29 15:52:53 - info: normal field / name = oldFullpath , value = 
+2017-08-29 15:52:53 - info: ------HANDLE ERR------
+2017-08-29 15:52:53 - info: [object Object] : Success file.
+2017-08-29 15:52:53 - info: ## Set Source Path ##
+2017-08-29 15:52:53 - info: ########## START PARSE ##########
+2017-08-29 15:52:53 - info: normal field / name = action , value = MODIFIED
+2017-08-29 15:52:53 - info: normal field / name = hashValue , value = Nothing
+2017-08-29 15:52:53 - info: normal field / name = fileSize , value = 8146
+2017-08-29 15:52:53 - info: normal field / name = fullpath , value = C:\B\One\새 Microsoft Excel 워크시트 (11).xlsx
+2017-08-29 15:52:53 - info: normal field / name = oldFullpath , value = 
+2017-08-29 15:52:53 - info: ------HANDLE ERR------
+2017-08-29 15:52:53 - info: [object Object] : Success file.
+2017-08-29 16:16:13 - info: ## Set Source Path ##
+2017-08-29 16:16:13 - info: ########## START PARSE ##########
+2017-08-29 16:16:13 - info: normal field / name = action , value = REMOVED
+2017-08-29 16:16:13 - info: normal field / name = hashValue , value = Nothing
+2017-08-29 16:16:13 - info: normal field / name = fileSize , value = 30868
+2017-08-29 16:16:13 - info: normal field / name = fullpath , value = C:\B\One\새 Microsoft PowerPoint 프레젠테이션 (3).pptx
+2017-08-29 16:16:13 - info: normal field / name = oldFullpath , value = 
+2017-08-29 16:21:59 - info: ## Set Source Path ##
+2017-08-29 16:21:59 - info: ########## START PARSE ##########
+2017-08-29 16:21:59 - info: normal field / name = action , value = MODIFIED
+2017-08-29 16:21:59 - info: normal field / name = hashValue , value = Nothing
+2017-08-29 16:21:59 - info: normal field / name = fileSize , value = 31181
+2017-08-29 16:21:59 - info: normal field / name = fullpath , value = C:\B\One\ㅁㅁㅁ.pptx
+2017-08-29 16:21:59 - info: normal field / name = oldFullpath , value = 
+2017-08-29 16:21:59 - info: ------HANDLE ERR------
+2017-08-29 16:21:59 - info: [object Object] : Success file.
+2017-08-29 16:21:59 - info: ## Set Source Path ##
+2017-08-29 16:21:59 - info: ########## START PARSE ##########
+2017-08-29 16:21:59 - info: normal field / name = action , value = MODIFIED
+2017-08-29 16:21:59 - info: normal field / name = hashValue , value = Nothing
+2017-08-29 16:21:59 - info: normal field / name = fileSize , value = 31181
+2017-08-29 16:21:59 - info: normal field / name = fullpath , value = C:\B\One\ㅁㅁㅁ.pptx
+2017-08-29 16:21:59 - info: normal field / name = oldFullpath , value = 
+2017-08-29 16:21:59 - info: ------HANDLE ERR------
+2017-08-29 16:21:59 - info: [object Object] : Success file.
+2017-08-29 16:22:23 - info: ## Set Source Path ##
+2017-08-29 16:22:23 - info: ########## START PARSE ##########
+2017-08-29 16:22:23 - info: normal field / name = action , value = REMOVED
+2017-08-29 16:22:23 - info: normal field / name = hashValue , value = Nothing
+2017-08-29 16:22:23 - info: normal field / name = fileSize , value = 31181
+2017-08-29 16:22:23 - info: normal field / name = fullpath , value = C:\B\One\ㅁㅁㅁ.pptx
+2017-08-29 16:22:23 - info: normal field / name = oldFullpath , value = 
+2017-08-29 16:22:23 - info: target : /home/dave/dev/js/DEMORTB/images/C#/B/One/ㅁㅁㅁ.pptx
+2017-08-29 16:22:23 - info: theres file
+2017-08-29 16:46:41 - info: ## Set Source Path ##
+2017-08-29 16:46:41 - info: ########## START PARSE ##########
+2017-08-29 16:46:41 - info: normal field / name = action , value = REMOVED
+2017-08-29 16:46:41 - info: normal field / name = hashValue , value = Nothing
+2017-08-29 16:46:41 - info: normal field / name = fileSize , value = 0
+2017-08-29 16:46:41 - info: normal field / name = fullpath , value = C:\B\One\새 Microsoft Excel 워크시트 (9).xlsx
+2017-08-29 16:46:41 - info: normal field / name = oldFullpath , value = 
+
+2017-08-29 16:46:41 - info: target : /home/dave/dev/js/DEMORTB/images/C#/B/One/새 Microsoft Excel 워크시트 (9).xlsx
+2017-08-29 16:46:41 - info: theres no file : /home/dave/dev/js/DEMORTB/images/C#/B/One/새 Microsoft Excel 워크시트 (9).xlsx
+2017-08-29 16:47:55 - info: ## Set Source Path ##
+2017-08-29 16:47:55 - info: ########## START PARSE ##########
+2017-08-29 16:47:55 - info: normal field / name = action , value = REMOVED
+2017-08-29 16:47:55 - info: normal field / name = hashValue , value = Nothing
+2017-08-29 16:47:55 - info: normal field / name = fileSize , value = 0
+2017-08-29 16:47:55 - info: normal field / name = fullpath , value = C:\B\One\새 Microsoft Excel 워크시트 (10).xlsx
+2017-08-29 16:47:55 - info: normal field / name = oldFullpath , value = 
+
+2017-08-29 16:47:55 - info: target : /home/dave/dev/js/DEMORTB/images/C#/B/One/새 Microsoft Excel 워크시트 (10).xlsx
+2017-08-29 16:47:55 - info: theres no file : /home/dave/dev/js/DEMORTB/images/C#/B/One/새 Microsoft Excel 워크시트 (10).xlsx
+2017-08-29 16:48:30 - info: ## Set Source Path ##
+2017-08-29 16:48:30 - info: ########## START PARSE ##########
+2017-08-29 16:48:30 - info: normal field / name = action , value = REMOVED
+2017-08-29 16:48:30 - info: normal field / name = hashValue , value = Nothing
+2017-08-29 16:48:30 - info: normal field / name = fileSize , value = 0
+2017-08-29 16:48:30 - info: normal field / name = fullpath , value = C:\B\One\새 Microsoft Excel 워크시트 (11).xlsx
+2017-08-29 16:48:30 - info: normal field / name = oldFullpath , value = 
+
+2017-08-29 16:48:30 - info: target : /home/dave/dev/js/DEMORTB/images/C#/B/One/새 Microsoft Excel 워크시트 (11).xlsx
+2017-08-29 16:48:30 - info: theres file
+2017-08-29 16:48:30 - info: found err
+2017-08-29 16:51:00 - info: ## Set Source Path ##
+2017-08-29 16:51:00 - info: ########## START PARSE ##########
+2017-08-29 16:51:00 - info: normal field / name = action , value = REMOVED
+2017-08-29 16:51:00 - info: normal field / name = hashValue , value = Nothing
+2017-08-29 16:51:00 - info: normal field / name = fileSize , value = 0
+2017-08-29 16:51:00 - info: normal field / name = fullpath , value = C:\B\One\새 텍스트 문서 (29).txt
+2017-08-29 16:51:00 - info: normal field / name = oldFullpath , value = 
+
+2017-08-29 16:51:00 - info: target : /home/dave/dev/js/DEMORTB/images/C#/B/One/새 텍스트 문서 (29).txt
+2017-08-29 16:51:00 - info: theres file
+2017-08-29 16:51:00 - info: found err
+2017-08-29 16:52:51 - info: ## Set Source Path ##
+2017-08-29 16:52:51 - info: ########## START PARSE ##########
+2017-08-29 16:52:51 - info: normal field / name = action , value = REMOVED
+2017-08-29 16:52:51 - info: normal field / name = hashValue , value = Nothing
+2017-08-29 16:52:51 - info: normal field / name = fileSize , value = 0
+2017-08-29 16:52:51 - info: normal field / name = fullpath , value = C:\B\One\새 텍스트 문서 (28).txt
+2017-08-29 16:52:51 - info: normal field / name = oldFullpath , value = 
+
+2017-08-29 16:52:51 - info: target : /home/dave/dev/js/DEMORTB/images/C#/B/One/새 텍스트 문서 (28).txt
+2017-08-29 16:52:51 - info: theres no file : /home/dave/dev/js/DEMORTB/images/C#/B/One/새 텍스트 문서 (28).txt
+2017-08-29 16:54:01 - info: ## Set Source Path ##
+2017-08-29 16:54:01 - info: ########## START PARSE ##########
+2017-08-29 16:54:01 - info: normal field / name = action , value = REMOVED
+2017-08-29 16:54:01 - info: normal field / name = hashValue , value = Nothing
+2017-08-29 16:54:01 - info: normal field / name = fileSize , value = 0
+2017-08-29 16:54:01 - info: normal field / name = fullpath , value = C:\B\One\새 텍스트 문서 (27).txt
+2017-08-29 16:54:01 - info: normal field / name = oldFullpath , value = 
+
+2017-08-29 16:54:01 - info: target : /home/dave/dev/js/DEMORTB/images/C#/B/One/새 텍스트 문서 (27).txt
+2017-08-29 16:54:01 - info: theres no file : /home/dave/dev/js/DEMORTB/images/C#/B/One/새 텍스트 문서 (27).txt
+2017-08-29 17:00:08 - info: ## Set Source Path ##
+2017-08-29 17:00:08 - info: ########## START PARSE ##########
+2017-08-29 17:00:08 - info: normal field / name = action , value = REMOVED
+2017-08-29 17:00:08 - info: normal field / name = hashValue , value = Nothing
+2017-08-29 17:00:08 - info: normal field / name = fileSize , value = 0
+2017-08-29 17:00:08 - info: normal field / name = fullpath , value = C:\B\One\새 텍스트 문서 (26).txt
+2017-08-29 17:00:08 - info: normal field / name = oldFullpath , value = 
+
+2017-08-29 17:00:08 - info: target : /home/dave/dev/js/DEMORTB/images/C#/B/One/새 텍스트 문서 (26).txt
+2017-08-29 17:00:08 - info: theres no file : /home/dave/dev/js/DEMORTB/images/C#/B/One/새 텍스트 문서 (26).txt
+2017-08-29 17:01:56 - info: ## Set Source Path ##
+2017-08-29 17:01:56 - info: ########## START PARSE ##########
+2017-08-29 17:01:56 - info: normal field / name = action , value = REMOVED
+2017-08-29 17:01:56 - info: normal field / name = hashValue , value = Nothing
+2017-08-29 17:01:56 - info: normal field / name = fileSize , value = 0
+2017-08-29 17:01:56 - info: normal field / name = fullpath , value = C:\B\One\새 텍스트 문서 (25).txt
+2017-08-29 17:01:56 - info: normal field / name = oldFullpath , value = 
+
+2017-08-29 17:01:56 - info: target : /home/dave/dev/js/DEMORTB/images/C#/B/One/새 텍스트 문서 (25).txt
+2017-08-29 17:01:56 - info: theres no file : /home/dave/dev/js/DEMORTB/images/C#/B/One/새 텍스트 문서 (25).txt
+2017-08-29 17:03:50 - info: ## Set Source Path ##
+2017-08-29 17:03:50 - info: ########## START PARSE ##########
+2017-08-29 17:03:50 - info: normal field / name = action , value = REMOVED
+2017-08-29 17:03:50 - info: normal field / name = hashValue , value = Nothing
+2017-08-29 17:03:50 - info: normal field / name = fileSize , value = 0
+2017-08-29 17:03:50 - info: normal field / name = fullpath , value = C:\B\One\새 텍스트 문서 (24).txt
+2017-08-29 17:03:50 - info: normal field / name = oldFullpath , value = 
+
+2017-08-29 17:03:50 - info: target : /home/dave/dev/js/DEMORTB/images/C#/B/One/새 텍스트 문서 (24).txt
+2017-08-29 17:03:50 - info: theres no file : /home/dave/dev/js/DEMORTB/images/C#/B/One/새 텍스트 문서 (24).txt
+2017-08-29 17:04:34 - info: ## Set Source Path ##
+2017-08-29 17:04:34 - info: ########## START PARSE ##########
+2017-08-29 17:04:34 - info: normal field / name = action , value = REMOVED
+2017-08-29 17:04:34 - info: normal field / name = hashValue , value = Nothing
+2017-08-29 17:04:34 - info: normal field / name = fileSize , value = 0
+2017-08-29 17:04:34 - info: normal field / name = fullpath , value = C:\B\One\새 텍스트 문서 (23).txt
+2017-08-29 17:04:34 - info: normal field / name = oldFullpath , value = 
+
+2017-08-29 17:04:34 - info: target : /home/dave/dev/js/DEMORTB/images/C#/B/One/새 텍스트 문서 (23).txt
+2017-08-29 17:04:34 - info: theres no file : /home/dave/dev/js/DEMORTB/images/C#/B/One/새 텍스트 문서 (23).txt
+2017-08-29 17:07:45 - info: ## Set Source Path ##
+2017-08-29 17:07:45 - info: ########## START PARSE ##########
+2017-08-29 17:07:45 - info: normal field / name = action , value = REMOVED
+2017-08-29 17:07:45 - info: normal field / name = hashValue , value = Nothing
+2017-08-29 17:07:45 - info: normal field / name = fileSize , value = 0
+2017-08-29 17:07:45 - info: normal field / name = fullpath , value = C:\B\One\새 텍스트 문서 (22).txt
+2017-08-29 17:07:45 - info: normal field / name = oldFullpath , value = 
+
+2017-08-29 17:07:45 - info: target : /home/dave/dev/js/DEMORTB/images/C#/B/One/새 텍스트 문서 (22).txt
+2017-08-29 17:07:45 - info: theres no file : /home/dave/dev/js/DEMORTB/images/C#/B/One/새 텍스트 문서 (22).txt
+2017-08-29 17:09:10 - info: ## Set Source Path ##
+2017-08-29 17:09:10 - info: ########## START PARSE ##########
+2017-08-29 17:09:10 - info: normal field / name = action , value = REMOVED
+2017-08-29 17:09:10 - info: normal field / name = hashValue , value = Nothing
+2017-08-29 17:09:10 - info: normal field / name = fileSize , value = 0
+2017-08-29 17:09:10 - info: normal field / name = fullpath , value = C:\B\One\새 텍스트 문서 (21).txt
+2017-08-29 17:09:10 - info: normal field / name = oldFullpath , value = 
+
+2017-08-29 17:09:10 - info: target : /home/dave/dev/js/DEMORTB/images/C#/B/One/새 텍스트 문서 (21).txt
+2017-08-29 17:09:10 - info: theres no file : /home/dave/dev/js/DEMORTB/images/C#/B/One/새 텍스트 문서 (21).txt
+2017-08-29 17:09:30 - info: ## Set Source Path ##
+2017-08-29 17:09:30 - info: ########## START PARSE ##########
+2017-08-29 17:09:30 - info: normal field / name = action , value = REMOVED
+2017-08-29 17:09:30 - info: normal field / name = hashValue , value = Nothing
+2017-08-29 17:09:30 - info: normal field / name = fileSize , value = 0
+2017-08-29 17:09:30 - info: normal field / name = fullpath , value = C:\B\One\새 텍스트 문서 (20).txt
+2017-08-29 17:09:30 - info: normal field / name = oldFullpath , value = 
+
+2017-08-29 17:09:30 - info: target : /home/dave/dev/js/DEMORTB/images/C#/B/One/새 텍스트 문서 (20).txt
+2017-08-29 17:09:30 - info: theres no file : /home/dave/dev/js/DEMORTB/images/C#/B/One/새 텍스트 문서 (20).txt
+2017-08-29 17:09:45 - info: ## Set Source Path ##
+2017-08-29 17:09:45 - info: ########## START PARSE ##########
+2017-08-29 17:09:45 - info: normal field / name = action , value = REMOVED
+2017-08-29 17:09:45 - info: normal field / name = hashValue , value = Nothing
+2017-08-29 17:09:45 - info: normal field / name = fileSize , value = 0
+2017-08-29 17:09:45 - info: normal field / name = fullpath , value = C:\B\One\새 텍스트 문서 (19).txt
+2017-08-29 17:09:45 - info: normal field / name = oldFullpath , value = 
+
+2017-08-29 17:09:45 - info: target : /home/dave/dev/js/DEMORTB/images/C#/B/One/새 텍스트 문서 (19).txt
+2017-08-29 17:09:45 - info: theres no file : /home/dave/dev/js/DEMORTB/images/C#/B/One/새 텍스트 문서 (19).txt
+2017-08-29 17:27:23 - info: ## Set Source Path ##
+2017-08-29 17:27:23 - info: ########## START PARSE ##########
+2017-08-29 17:27:23 - info: normal field / name = action , value = REMOVED
+2017-08-29 17:27:23 - info: normal field / name = hashValue , value = Nothing
+2017-08-29 17:27:23 - info: normal field / name = fileSize , value = 0
+2017-08-29 17:27:23 - info: normal field / name = fullpath , value = C:\B\One\새 텍스트 문서 (18).txt
+2017-08-29 17:27:23 - info: normal field / name = oldFullpath , value = 
+
+2017-08-29 17:27:23 - info: target : /home/dave/dev/js/DEMORTB/images/C#/B/One/새 텍스트 문서 (18).txt
+2017-08-29 17:27:23 - info: theres no file : /home/dave/dev/js/DEMORTB/images/C#/B/One/새 텍스트 문서 (18).txt
+2017-08-29 17:28:08 - info: ## Set Source Path ##
+2017-08-29 17:28:08 - info: ########## START PARSE ##########
+2017-08-29 17:28:08 - info: normal field / name = action , value = REMOVED
+2017-08-29 17:28:08 - info: normal field / name = hashValue , value = Nothing
+2017-08-29 17:28:08 - info: normal field / name = fileSize , value = 0
+2017-08-29 17:28:08 - info: normal field / name = fullpath , value = C:\B\One\새 텍스트 문서 (17).txt
+2017-08-29 17:28:08 - info: normal field / name = oldFullpath , value = 
+
+2017-08-29 17:28:08 - info: target : /home/dave/dev/js/DEMORTB/images/C#/B/One/새 텍스트 문서 (17).txt
+2017-08-29 17:28:08 - info: theres no file : /home/dave/dev/js/DEMORTB/images/C#/B/One/새 텍스트 문서 (17).txt
+2017-08-29 17:28:59 - info: ## Set Source Path ##
+2017-08-29 17:28:59 - info: ########## START PARSE ##########
+2017-08-29 17:28:59 - info: normal field / name = action , value = REMOVED
+2017-08-29 17:28:59 - info: normal field / name = hashValue , value = Nothing
+2017-08-29 17:28:59 - info: normal field / name = fileSize , value = 0
+2017-08-29 17:28:59 - info: normal field / name = fullpath , value = C:\B\One\새 텍스트 문서 (16).txt
+2017-08-29 17:28:59 - info: normal field / name = oldFullpath , value = 
+
+2017-08-29 17:28:59 - info: target : /home/dave/dev/js/DEMORTB/images/C#/B/One/새 텍스트 문서 (16).txt
+2017-08-29 17:28:59 - info: theres no file : /home/dave/dev/js/DEMORTB/images/C#/B/One/새 텍스트 문서 (16).txt
+2017-08-29 17:29:14 - info: ## Set Source Path ##
+2017-08-29 17:29:14 - info: ########## START PARSE ##########
+2017-08-29 17:29:14 - info: normal field / name = action , value = REMOVED
+2017-08-29 17:29:14 - info: normal field / name = hashValue , value = Nothing
+2017-08-29 17:29:14 - info: normal field / name = fileSize , value = 0
+2017-08-29 17:29:14 - info: normal field / name = fullpath , value = C:\B\One\새 텍스트 문서 (15).txt
+2017-08-29 17:29:14 - info: normal field / name = oldFullpath , value = 
+
+2017-08-29 17:29:14 - info: target : /home/dave/dev/js/DEMORTB/images/C#/B/One/새 텍스트 문서 (15).txt
+2017-08-29 17:29:14 - info: theres no file : /home/dave/dev/js/DEMORTB/images/C#/B/One/새 텍스트 문서 (15).txt
+2017-08-29 17:31:55 - info: ## Set Source Path ##
+2017-08-29 17:31:55 - info: ########## START PARSE ##########
+2017-08-29 17:31:55 - info: normal field / name = action , value = REMOVED
+2017-08-29 17:31:55 - info: normal field / name = hashValue , value = Nothing
+2017-08-29 17:31:55 - info: normal field / name = fileSize , value = 0
+2017-08-29 17:31:55 - info: normal field / name = fullpath , value = C:\B\One\새 텍스트 문서 (14).txt
+2017-08-29 17:31:55 - info: normal field / name = oldFullpath , value = 
+
+2017-08-29 17:31:55 - info: target : /home/dave/dev/js/DEMORTB/images/C#/B/One/새 텍스트 문서 (14).txt
+2017-08-29 17:31:55 - info: theres no file : /home/dave/dev/js/DEMORTB/images/C#/B/One/새 텍스트 문서 (14).txt
+2017-08-29 17:34:32 - info: ## Set Source Path ##
+2017-08-29 17:34:32 - info: ########## START PARSE ##########
+2017-08-29 17:34:32 - info: normal field / name = action , value = REMOVED
+2017-08-29 17:34:32 - info: normal field / name = hashValue , value = Nothing
+2017-08-29 17:34:32 - info: normal field / name = fileSize , value = 0
+2017-08-29 17:34:32 - info: normal field / name = fullpath , value = C:\B\One\새 텍스트 문서 (13).txt
+2017-08-29 17:34:32 - info: normal field / name = oldFullpath , value = 
+
+2017-08-29 17:34:32 - info: target : /home/dave/dev/js/DEMORTB/images/C#/B/One/새 텍스트 문서 (13).txt
+2017-08-29 17:34:32 - info: theres no file : /home/dave/dev/js/DEMORTB/images/C#/B/One/새 텍스트 문서 (13).txt
+2017-08-29 17:43:28 - info: ## Set Source Path ##
+2017-08-29 17:43:28 - info: ########## START PARSE ##########
+2017-08-29 17:43:28 - info: normal field / name = action , value = REMOVED
+2017-08-29 17:43:28 - info: normal field / name = hashValue , value = Nothing
+2017-08-29 17:43:28 - info: normal field / name = fileSize , value = 0
+2017-08-29 17:43:28 - info: normal field / name = fullpath , value = C:\B\One\새 텍스트 문서 (8).txt
+2017-08-29 17:43:28 - info: normal field / name = oldFullpath , value = 
+
+2017-08-29 17:43:28 - info: target : /home/dave/dev/js/DEMORTB/images/C#/B/One/새 텍스트 문서 (8).txt
+2017-08-29 17:43:28 - info: theres no file : /home/dave/dev/js/DEMORTB/images/C#/B/One/새 텍스트 문서 (8).txt
+2017-08-29 17:43:28 - info: found err
+2017-08-29 17:44:59 - info: ## Set Source Path ##
+2017-08-29 17:44:59 - info: ########## START PARSE ##########
+2017-08-29 17:44:59 - info: normal field / name = action , value = REMOVED
+2017-08-29 17:44:59 - info: normal field / name = hashValue , value = Nothing
+2017-08-29 17:44:59 - info: normal field / name = fileSize , value = 0
+2017-08-29 17:44:59 - info: normal field / name = fullpath , value = C:\B\One\새 텍스트 문서 (7).txt
+2017-08-29 17:44:59 - info: normal field / name = oldFullpath , value = 
+
+2017-08-29 17:44:59 - info: target : /home/dave/dev/js/DEMORTB/images/C#/B/One/새 텍스트 문서 (7).txt
+2017-08-29 17:44:59 - info: theres no file : /home/dave/dev/js/DEMORTB/images/C#/B/One/새 텍스트 문서 (7).txt
+2017-08-29 17:44:59 - info: found err
+2017-08-29 17:45:34 - info: ## Set Source Path ##
+2017-08-29 17:45:34 - info: ########## START PARSE ##########
+2017-08-29 17:45:34 - info: normal field / name = action , value = REMOVED
+2017-08-29 17:45:34 - info: normal field / name = hashValue , value = Nothing
+2017-08-29 17:45:34 - info: normal field / name = fileSize , value = 0
+2017-08-29 17:45:34 - info: normal field / name = fullpath , value = C:\B\One\새 텍스트 문서.txt
+2017-08-29 17:45:34 - info: normal field / name = oldFullpath , value = 
+
+2017-08-29 17:45:34 - info: target : /home/dave/dev/js/DEMORTB/images/C#/B/One/새 텍스트 문서.txt
+2017-08-29 17:45:34 - info: theres no file : /home/dave/dev/js/DEMORTB/images/C#/B/One/새 텍스트 문서.txt
+2017-08-29 17:45:34 - info: found err
+2017-08-29 17:46:39 - info: ## Set Source Path ##
+2017-08-29 17:46:39 - info: ########## START PARSE ##########
+2017-08-29 17:46:39 - info: normal field / name = action , value = REMOVED
+2017-08-29 17:46:39 - info: normal field / name = hashValue , value = Nothing
+2017-08-29 17:46:39 - info: normal field / name = fileSize , value = 0
+2017-08-29 17:46:39 - info: normal field / name = fullpath , value = C:\B\One\새 텍스트 문서 (6).txt
+2017-08-29 17:46:39 - info: normal field / name = oldFullpath , value = 
+
+2017-08-29 17:46:39 - info: target : /home/dave/dev/js/DEMORTB/images/C#/B/One/새 텍스트 문서 (6).txt
+2017-08-29 17:46:39 - info: theres no file : /home/dave/dev/js/DEMORTB/images/C#/B/One/새 텍스트 문서 (6).txt
+2017-08-29 17:46:39 - info: found err
+2017-08-29 17:47:49 - info: ## Set Source Path ##
+2017-08-29 17:47:49 - info: ########## START PARSE ##########
+2017-08-29 17:47:49 - info: normal field / name = action , value = REMOVED
+2017-08-29 17:47:49 - info: normal field / name = hashValue , value = Nothing
+2017-08-29 17:47:49 - info: normal field / name = fileSize , value = 0
+2017-08-29 17:47:49 - info: normal field / name = fullpath , value = C:\B\One\새 텍스트 문서 (5).txt
+2017-08-29 17:47:49 - info: normal field / name = oldFullpath , value = 
+
+2017-08-29 17:47:49 - info: target : /home/dave/dev/js/DEMORTB/images/C#/B/One/새 텍스트 문서 (5).txt
+2017-08-29 17:47:49 - info: theres no file : /home/dave/dev/js/DEMORTB/images/C#/B/One/새 텍스트 문서 (5).txt
+2017-08-29 17:47:49 - info: found err
+2017-08-29 17:49:19 - info: ## Set Source Path ##
+2017-08-29 17:49:19 - info: ########## START PARSE ##########
+2017-08-29 17:49:19 - info: normal field / name = action , value = REMOVED
+2017-08-29 17:49:19 - info: normal field / name = hashValue , value = Nothing
+2017-08-29 17:49:19 - info: normal field / name = fileSize , value = 0
+2017-08-29 17:49:19 - info: normal field / name = fullpath , value = C:\B\One\새 텍스트 문서 (3).txt
+2017-08-29 17:49:19 - info: normal field / name = oldFullpath , value = 
+
+2017-08-29 17:49:19 - info: target : /home/dave/dev/js/DEMORTB/images/C#/B/One/새 텍스트 문서 (3).txt
+2017-08-29 17:49:19 - info: theres no file : /home/dave/dev/js/DEMORTB/images/C#/B/One/새 텍스트 문서 (3).txt
+2017-08-29 17:49:19 - info: found err
+2017-08-29 18:06:02 - info: ## Set Source Path ##
+2017-08-29 18:06:02 - info: ########## START PARSE ##########
+2017-08-29 18:06:02 - info: normal field / name = action , value = REMOVED
+2017-08-29 18:06:02 - info: normal field / name = hashValue , value = Nothing
+2017-08-29 18:06:02 - info: normal field / name = fileSize , value = 0
+2017-08-29 18:06:02 - info: normal field / name = fullpath , value = C:\B\One\새 텍스트 문서 (4).txt
+2017-08-29 18:06:02 - info: normal field / name = oldFullpath , value = 
+
+2017-08-29 18:06:02 - info: target : /home/dave/dev/js/DEMORTB/images/C#/B/One/새 텍스트 문서 (4).txt
+2017-08-29 18:06:02 - info: theres no file : /home/dave/dev/js/DEMORTB/images/C#/B/One/새 텍스트 문서 (4).txt
+2017-08-29 18:06:02 - info: found err
+2017-08-29 18:06:42 - info: ## Set Source Path ##
+2017-08-29 18:06:42 - info: ########## START PARSE ##########
+2017-08-29 18:06:42 - info: normal field / name = action , value = REMOVED
+2017-08-29 18:06:42 - info: normal field / name = hashValue , value = Nothing
+2017-08-29 18:06:42 - info: normal field / name = fileSize , value = 0
+2017-08-29 18:06:42 - info: normal field / name = fullpath , value = C:\B\One\새 텍스트 문서 (2).txt
+2017-08-29 18:06:42 - info: normal field / name = oldFullpath , value = 
+
+2017-08-29 18:06:42 - info: target : /home/dave/dev/js/DEMORTB/images/C#/B/One/새 텍스트 문서 (2).txt
+2017-08-29 18:06:42 - info: theres file
+2017-08-29 18:07:52 - info: ## Set Source Path ##
+2017-08-29 18:07:52 - info: ########## START PARSE ##########
+2017-08-29 18:07:52 - info: normal field / name = action , value = REMOVED
+2017-08-29 18:07:52 - info: normal field / name = hashValue , value = Nothing
+2017-08-29 18:07:52 - info: normal field / name = fileSize , value = 0
+2017-08-29 18:07:52 - info: normal field / name = fullpath , value = C:\B\One\새 Microsoft Word 문서.docx
+2017-08-29 18:07:52 - info: normal field / name = oldFullpath , value = 
+
+2017-08-29 18:07:52 - info: target : /home/dave/dev/js/DEMORTB/images/C#/B/One/새 Microsoft Word 문서.docx
+2017-08-29 18:07:52 - info: theres no file : /home/dave/dev/js/DEMORTB/images/C#/B/One/새 Microsoft Word 문서.docx
+2017-08-29 18:07:52 - info: found err
+2017-08-29 18:08:37 - info: ## Set Source Path ##
+2017-08-29 18:08:37 - info: ########## START PARSE ##########
+2017-08-29 18:08:37 - info: normal field / name = action , value = REMOVED
+2017-08-29 18:08:37 - info: normal field / name = hashValue , value = Nothing
+2017-08-29 18:08:37 - info: normal field / name = fileSize , value = 0
+2017-08-29 18:08:37 - info: normal field / name = fullpath , value = C:\B\One\새 Microsoft Excel 워크시트 (12).xlsx
+2017-08-29 18:08:37 - info: normal field / name = oldFullpath , value = 
+
+2017-08-29 18:08:37 - info: target : /home/dave/dev/js/DEMORTB/images/C#/B/One/새 Microsoft Excel 워크시트 (12).xlsx
+2017-08-29 18:08:37 - info: theres no file : /home/dave/dev/js/DEMORTB/images/C#/B/One/새 Microsoft Excel 워크시트 (12).xlsx
+2017-08-29 18:08:37 - info: found err
+2017-08-29 18:09:32 - info: ## Set Source Path ##
+2017-08-29 18:09:32 - info: ########## START PARSE ##########
+2017-08-29 18:09:32 - info: normal field / name = action , value = REMOVED
+2017-08-29 18:09:32 - info: normal field / name = hashValue , value = Nothing
+2017-08-29 18:09:32 - info: normal field / name = fileSize , value = 0
+2017-08-29 18:09:32 - info: normal field / name = fullpath , value = C:\B\One\새 Microsoft Excel 워크시트 (14).xlsx
+2017-08-29 18:09:32 - info: normal field / name = oldFullpath , value = 
+
+2017-08-29 18:09:32 - info: target : /home/dave/dev/js/DEMORTB/images/C#/B/One/새 Microsoft Excel 워크시트 (14).xlsx
+2017-08-29 18:09:32 - info: theres file
+2017-08-29 18:13:08 - info: ## Set Source Path ##
+2017-08-29 18:13:08 - info: ########## START PARSE ##########
+2017-08-29 18:13:08 - info: normal field / name = action , value = REMOVED
+2017-08-29 18:13:08 - info: normal field / name = hashValue , value = Nothing
+2017-08-29 18:13:08 - info: normal field / name = fileSize , value = 0
+2017-08-29 18:13:08 - info: normal field / name = fullpath , value = C:\B\One\새 Microsoft Word 문서 (2).docx
+2017-08-29 18:13:08 - info: normal field / name = oldFullpath , value = 
+
+2017-08-29 18:13:08 - info: target : /home/dave/dev/js/DEMORTB/images/C#/B/One/새 Microsoft Word 문서 (2).docx
+2017-08-29 18:13:08 - info: theres no file : /home/dave/dev/js/DEMORTB/images/C#/B/One/새 Microsoft Word 문서 (2).docx
+2017-08-29 18:13:08 - info: found err
+2017-08-29 18:14:03 - info: ## Set Source Path ##
+2017-08-29 18:14:03 - info: ########## START PARSE ##########
+2017-08-29 18:14:03 - info: normal field / name = action , value = REMOVED
+2017-08-29 18:14:03 - info: normal field / name = hashValue , value = Nothing
+2017-08-29 18:14:03 - info: normal field / name = fileSize , value = 0
+2017-08-29 18:14:03 - info: normal field / name = fullpath , value = C:\B\One\새 Microsoft Word 문서 (4).docx
+2017-08-29 18:14:03 - info: normal field / name = oldFullpath , value = 
+
+2017-08-29 18:14:03 - info: target : /home/dave/dev/js/DEMORTB/images/C#/B/One/새 Microsoft Word 문서 (4).docx
+2017-08-29 18:14:03 - info: theres file
+2017-08-29 18:15:53 - info: ## Set Source Path ##
+2017-08-29 18:15:53 - info: ########## START PARSE ##########
+2017-08-29 18:15:53 - info: normal field / name = action , value = REMOVED
+2017-08-29 18:15:53 - info: normal field / name = hashValue , value = Nothing
+2017-08-29 18:15:53 - info: normal field / name = fileSize , value = 0
+2017-08-29 18:15:53 - info: normal field / name = fullpath , value = C:\B\One\새 Microsoft Word 문서 (3).docx
+2017-08-29 18:15:53 - info: normal field / name = oldFullpath , value = 
+
+2017-08-29 18:15:53 - info: target : /home/dave/dev/js/DEMORTB/images/C#/B/One/새 Microsoft Word 문서 (3).docx
+2017-08-29 18:15:53 - info: theres file
