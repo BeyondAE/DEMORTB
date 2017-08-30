@@ -418,7 +418,8 @@ router.post('/upload4', function(req, res) {
 
     var form = new multiparty.Form({
       autoFiles: true,
-      uploadDir: '/home/dave/dev/js/DEMORTB/tmp'});
+      uploadDir: '../tmp'});
+      //uploadDir: '/home/dave/dev/js/DEMORTB/tmp'});
 
     form.on('field',function(name,value){
         //console.log('normal field / name = '+name+' , value = '+value);
@@ -460,10 +461,10 @@ router.post('/upload4', function(req, res) {
         if( infos['action'] != 'REMOVED')
         {
           Object.keys(files).forEach(function (name) {
-              console.log('1-1');
+              logger.log('info', '1-1');
               oriName = files[name];
-              console.log('and got field Value! ' + oriName[0].path);
-              console.log('1-2');
+              logger.log('info', 'and got field Value! ' + oriName[0].path);
+              logger.log('info', '1-2');
               var onlyPath;   //  실제 파일이 받아지는 위치
               if( infos['isFile'] == 'Y') {
                   onlyPath = path.dirname(infos['fullpath']);
@@ -562,7 +563,7 @@ router.post('/upload4', function(req, res) {
                         //
                         // 파일이 없다면 Src는 tmp쪽이 된다.
                         console.log('##RENAME##');
-                        // if( fs.existsSync(srcFullpath) == false ) {
+            // if( fs.existsSync(srcFullpath) == false ) {
                         //   srcFullpath = oriName[0].path;
                         //   logger.info('Changed old file is : ' + srcFullpath);
                         // }
